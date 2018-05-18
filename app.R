@@ -112,16 +112,16 @@ ui <- dashboardPage(
     
     dashboardBody(
         ### changing theme
-        shinyDashboardThemes(
-            theme = "grey_dark"
-        ),
+        # shinyDashboardThemes(
+        #     theme = "grey_dark"
+        # ),
         tabItems(
             tabItem(tabName = "readme", selected = T,
                 box(
                     width = NULL, 
                     title = "Welcome!",
-                    # solidHeader = TRUE,
-                    # status = "primary", 
+                    solidHeader = TRUE,
+                    status = "primary",
                     withMathJax(),
                     includeMarkdown("Readme.md")
                 )
@@ -132,8 +132,8 @@ ui <- dashboardPage(
                         box(
                             width = NULL, 
                             title = "Select a year:",
-                            # solidHeader = TRUE,
-                            # status = "primary", 
+                            solidHeader = TRUE,
+                            status = "primary",
                             sliderInput(
                                 inputId="inputyear",
                                 label="", 
@@ -149,8 +149,8 @@ ui <- dashboardPage(
                          box(
                            height = NULL, 
                            width = NULL, 
-                           # solidHeader = TRUE,
-                           # status = "primary", 
+                           solidHeader = TRUE,
+                           status = "primary",
                            title = textOutput("MapTitle"), 
                            leafletOutput("YearMap")
                          )
@@ -163,8 +163,8 @@ ui <- dashboardPage(
                         box( 
                             width = NULL,
                             title = "Select a country:",
-                            # solidHeader = TRUE,
-                            # status = "primary",
+                            solidHeader = TRUE,
+                            status = "primary",
                             selectizeInput(
                                 inputId="inputcountry", 
                                 h4(""),
@@ -180,8 +180,8 @@ ui <- dashboardPage(
                         box( 
                             width = NULL, 
                             title = "Choose a region:",
-                            # solidHeader = TRUE,
-                            # status = "primary",
+                            solidHeader = TRUE,
+                            status = "primary",
                             radioButtons(
                                 inputId="inputregion",
                                 "", 
@@ -191,8 +191,8 @@ ui <- dashboardPage(
                         box(
                             width = NULL, 
                             title = "Select a year:",
-                            # solidHeader = TRUE,
-                            # status = "primary", 
+                            solidHeader = TRUE,
+                            status = "primary",
                             sliderInput(
                                 inputId="inputyear_c",
                                 label="", 
@@ -208,9 +208,9 @@ ui <- dashboardPage(
                         box(
                             height = NULL, 
                             width = NULL, 
-                            # solidHeader = TRUE,
+                            status = "primary",
+                            solidHeader = TRUE,
                             title = textOutput("CountryMapTitle"), 
-                            # status = "primary",
                             plotOutput("CountryMap")
                         )
                     )
@@ -219,8 +219,8 @@ ui <- dashboardPage(
             tabItem(tabName = "gif100",
                 box( 
                     width = NULL, 
-                    # status = "default", 
-                    # solidHeader = TRUE,
+                    status = "primary",
+                    solidHeader = TRUE,
                     title="History of Global Electricity Access",
                     imageOutput("gif100"),
                     downloadButton('downloadGif100', 'Download')
@@ -229,8 +229,8 @@ ui <- dashboardPage(
             tabItem(tabName = "gif50",
                 box( 
                     width = NULL, 
-                    # status = "default", 
-                    # solidHeader = TRUE, 
+                    status = "primary",
+                    solidHeader = TRUE,
                     title="History of Electricity Access in High Impact Countries",
                     imageOutput("gif50"),
                     downloadButton('downloadGif50', 'Download')
@@ -256,23 +256,24 @@ server <- function(input, output) ({
         
         # Get mapping data
         countries <- YearMapDataFxn(h)
-        
-        # bins <- seq(0, 100, by=10)
-        pal <- colorBin("GnBu", domain = countries$Access)#, bins = bins)
-        
+        # Define color palette
+        pal <- colorNumeric(c("orange","blue"), domain = countries$Access)
         labels <- sprintf(
           "<strong>%s</strong><br/>%g &#37;</sup>",
           countries$ADMIN, countries$Access
         ) %>% lapply(htmltools::HTML)
         
         leaflet(countries) %>%
+            # addTiles() %>%
+            setView( lng = 2.34, lat = 48.85, zoom = 5 ) %>%
+            # addProviderTiles("HikeBike.HikeBike") %>%
             addPolygons(
                 fillColor = ~pal(Access),
-                weight = 0.5,
+                weight = 0.3,
                 opacity = 1,
                 color = "black",
                 dashArray = "",
-                fillOpacity = 0.7,
+                fillOpacity = 1,
                 highlight = highlightOptions(
                     weight = 10,
                     color = "grey1",
@@ -284,9 +285,14 @@ server <- function(input, output) ({
                     style = list("font-weight" = "normal", padding = "3px 8px"),
                     textsize = "15px",
                     direction = "auto"))  %>%
-            addLegend(pal = pal, values = ~Access, opacity = 0.7, title = NULL,
-                      labFormat = labelFormat(suffix = "%"), position = "bottomright")
-        
+            addLegend(
+                pal = pal, 
+                values = ~Access, 
+                opacity = 1, 
+                title = NULL,
+                labFormat = labelFormat(suffix = "%"), 
+                position = "bottomright"
+            )
     })
     
     output$CountryMapTitle <- renderText({
