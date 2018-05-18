@@ -1,0 +1,5826 @@
+Year,Nat.Elec.Rate,Rural.Elec.Rate,Urban.Elec.Rate,country
+1990,0,0,0,Afghanistan
+1991,0,0,0,Afghanistan
+1992,0,0,0,Afghanistan
+1993,0,0,0,Afghanistan
+1994,0,0,0,Afghanistan
+1995,0,0,0,Afghanistan
+1996,0,0,0,Afghanistan
+1997,0,0,0,Afghanistan
+1998,0,0,0,Afghanistan
+1999,0.02,0,0,Afghanistan
+2000,0.16,0,0,Afghanistan
+2001,1.01,0.05,0,Afghanistan
+2002,3.47,0.39,0,Afghanistan
+2003,7.21,1.77,0,Afghanistan
+2004,13.97,2.41,0,Afghanistan
+2005,23,13,74,Afghanistan
+2006,27.51,17.33,61.11,Afghanistan
+2007,34.29,24.83,64.95,Afghanistan
+2008,42.4,32.5,89.9,Afghanistan
+2009,47.89,39.88,72.83,Afghanistan
+2010,42.7,32.4,82.8,Afghanistan
+2011,61.51,54.99,81.01,Afghanistan
+2012,69.1,63.8,95,Afghanistan
+2013,75.15,70.13,89.55,Afghanistan
+2014,89.5,87.8,98.7,Afghanistan
+1990,100,100,100,Albania
+1991,100,100,100,Albania
+1992,100,100,100,Albania
+1993,100,100,100,Albania
+1994,100,100,100,Albania
+1995,100,100,100,Albania
+1996,100,100,100,Albania
+1997,100,100,100,Albania
+1998,100,100,100,Albania
+1999,100,100,100,Albania
+2000,100,100,100,Albania
+2001,100,100,100,Albania
+2002,100,100,100,Albania
+2003,100,100,100,Albania
+2004,100,100,100,Albania
+2005,100,100,100,Albania
+2006,100,100,100,Albania
+2007,100,100,100,Albania
+2008,100,100,100,Albania
+2009,100,100,100,Albania
+2010,100,100,100,Albania
+2011,100,100,100,Albania
+2012,100,100,100,Albania
+2013,100,100,100,Albania
+2014,100,100,100,Albania
+1990,92.99,92.24,0,Algeria
+1991,93.39,92.59,0,Algeria
+1992,93.8,92.94,0,Algeria
+1993,94.2,93.28,0,Algeria
+1994,94.59,93.62,0,Algeria
+1995,94.98,93.95,0,Algeria
+1996,95.35,94.27,0,Algeria
+1997,95.72,94.57,0,Algeria
+1998,96.06,94.85,0,Algeria
+1999,96.39,95.11,0,Algeria
+2000,96.7,95.36,0,Algeria
+2001,97,95.59,0,Algeria
+2002,97.3,95.82,0,Algeria
+2003,97.59,96.05,0,Algeria
+2004,97.88,96.29,0,Algeria
+2005,98.18,96.55,0,Algeria
+2006,98.49,96.82,0,Algeria
+2007,98.81,97.12,0,Algeria
+2008,99.3,97.91,100,Algeria
+2009,99.44,97.78,100,Algeria
+2010,99.71,98.13,100,Algeria
+2011,99.89,98.5,100,Algeria
+2012,99.97,98.87,100,Algeria
+2013,100,99.25,100,Algeria
+2014,100,99.63,100,Algeria
+1990,0,0,0,American Samoa
+1991,0,0,0,American Samoa
+1992,0,0,0,American Samoa
+1993,0,0,0,American Samoa
+1994,0,0,0,American Samoa
+1995,0,0,0,American Samoa
+1996,0,0,0,American Samoa
+1997,0,0,0,American Samoa
+1998,0,0,0,American Samoa
+1999,0,0,0,American Samoa
+2000,0,0,0,American Samoa
+2001,0,0,0,American Samoa
+2002,0,0,0,American Samoa
+2003,0,0,0,American Samoa
+2004,0,0,0,American Samoa
+2005,0,0,0,American Samoa
+2006,0,0,0,American Samoa
+2007,0,0,0,American Samoa
+2008,0,0,0,American Samoa
+2009,0,0,0,American Samoa
+2010,0,0,0,American Samoa
+2011,0,0,0,American Samoa
+2012,0,0,0,American Samoa
+2013,0,0,0,American Samoa
+2014,0,0,0,American Samoa
+1990,100,100,100,Andorra
+1991,100,100,100,Andorra
+1992,100,100,100,Andorra
+1993,100,100,100,Andorra
+1994,100,100,100,Andorra
+1995,100,100,100,Andorra
+1996,100,100,100,Andorra
+1997,100,100,100,Andorra
+1998,100,100,100,Andorra
+1999,100,100,100,Andorra
+2000,100,100,100,Andorra
+2001,100,100,100,Andorra
+2002,100,100,100,Andorra
+2003,100,100,100,Andorra
+2004,100,100,100,Andorra
+2005,100,100,100,Andorra
+2006,100,100,100,Andorra
+2007,100,100,100,Andorra
+2008,100,100,100,Andorra
+2009,100,100,100,Andorra
+2010,100,100,100,Andorra
+2011,100,100,100,Andorra
+2012,100,100,100,Andorra
+2013,100,100,100,Andorra
+2014,100,100,100,Andorra
+1990,47.83,20.09,0,Angola
+1991,47.26,19.45,0,Angola
+1992,46.69,18.81,0,Angola
+1993,46.11,18.17,0,Angola
+1994,45.53,17.52,0,Angola
+1995,44.94,16.87,0,Angola
+1996,44.34,16.2,0,Angola
+1997,43.73,15.51,0,Angola
+1998,43.1,14.8,0,Angola
+1999,42.45,14.08,0,Angola
+2000,41.79,13.33,0,Angola
+2001,41.11,12.58,0,Angola
+2002,40.43,11.82,0,Angola
+2003,39.75,11.07,0,Angola
+2004,39.07,10.32,0,Angola
+2005,38.39,9.59,0,Angola
+2006,37.71,8.87,0,Angola
+2007,37.5,8.8,66.1,Angola
+2008,36.41,7.52,82.54,Angola
+2009,35.77,6.87,80.4,Angola
+2010,35.13,6.23,78.3,Angola
+2011,34.6,5.5,82.5,Angola
+2012,33.88,5,74.26,Angola
+2013,33.26,4.39,72.33,Angola
+2014,32,3,51,Angola
+1990,89.03,0,0,Anguilla
+1991,89.75,0,0,Anguilla
+1992,90.4,0,0,Anguilla
+1993,91.2,0,0,Anguilla
+1994,91.91,0,0,Anguilla
+1995,92.62,0,0,Anguilla
+1996,93.32,0,0,Anguilla
+1997,94,0,0,Anguilla
+1998,94.67,0,0,Anguilla
+1999,95.32,0,0,Anguilla
+2000,95.95,0,0,Anguilla
+2001,96.7,0,0,Anguilla
+2002,97.19,0,0,Anguilla
+2003,97.81,0,0,Anguilla
+2004,98.42,0,0,Anguilla
+2005,99,0,0,Anguilla
+2006,99.49,0,0,Anguilla
+2007,99.81,0,0,Anguilla
+2008,99.95,0,0,Anguilla
+2009,99.99,0,0,Anguilla
+2010,100,0,0,Anguilla
+2011,100,0,0,Anguilla
+2012,100,0,0,Anguilla
+2013,100,0,0,Anguilla
+2014,100,0,0,Anguilla
+1990,81.76,100,0,Antigua and Barbuda
+1991,82.44,100,0,Antigua and Barbuda
+1992,83.11,100,0,Antigua and Barbuda
+1993,83.78,100,0,Antigua and Barbuda
+1994,84.44,100,0,Antigua and Barbuda
+1995,85.1,100,0,Antigua and Barbuda
+1996,85.74,100,0,Antigua and Barbuda
+1997,86.37,100,0,Antigua and Barbuda
+1998,86.99,100,0,Antigua and Barbuda
+1999,87.59,100,0,Antigua and Barbuda
+2000,88.17,100,0,Antigua and Barbuda
+2001,88.74,100,0,Antigua and Barbuda
+2002,89.3,100,100,Antigua and Barbuda
+2003,89.86,99.98,100,Antigua and Barbuda
+2004,90.42,99.95,100,Antigua and Barbuda
+2005,90.99,99.92,100,Antigua and Barbuda
+2006,91.56,99.9,100,Antigua and Barbuda
+2007,92.15,99.9,100,Antigua and Barbuda
+2008,92.75,99.9,100,Antigua and Barbuda
+2009,93.35,99.92,100,Antigua and Barbuda
+2010,93.96,99.95,100,Antigua and Barbuda
+2011,94.55,99.98,100,Antigua and Barbuda
+2012,95.2,99.99,80.91,Antigua and Barbuda
+2013,95.82,100,83.04,Antigua and Barbuda
+2014,96.44,100,85.3,Antigua and Barbuda
+1990,90.76,0,0,Argentina
+1991,91.22,0,0,Argentina
+1992,91.69,0,0,Argentina
+1993,92.15,0,0,Argentina
+1994,92.61,0,0,Argentina
+1995,93.06,0,0,Argentina
+1996,93.5,0,0,Argentina
+1997,93.92,0,0,Argentina
+1998,94.33,0,0,Argentina
+1999,94.72,0,0,Argentina
+2000,95.1,0,0,Argentina
+2001,95.51,0,0,Argentina
+2002,95.82,0,0,Argentina
+2003,96.17,0,0,Argentina
+2004,96.53,0,0,Argentina
+2005,96.88,0,0,Argentina
+2006,97.25,0,0,Argentina
+2007,97.63,0,0,Argentina
+2008,98.02,0,0,Argentina
+2009,98.42,0,0,Argentina
+2010,98.82,0,0,Argentina
+2011,99.22,0,0,Argentina
+2012,99.57,0,0,Argentina
+2013,99.83,0,0,Argentina
+2014,100,0,0,Argentina
+1990,97.25,96.81,0,Armenia
+1991,97.45,97.03,0,Armenia
+1992,97.65,97.26,0,Armenia
+1993,97.85,97.48,0,Armenia
+1994,98.04,97.69,0,Armenia
+1995,98.22,97.9,0,Armenia
+1996,98.39,98.07,0,Armenia
+1997,98.55,98.25,0,Armenia
+1998,98.69,98.4,0,Armenia
+1999,98.81,98.54,0,Armenia
+2000,98.9,98.6,99.1,Armenia
+2001,100,98.78,100,Armenia
+2002,98,98.89,97.51,Armenia
+2003,99.22,99,99.34,Armenia
+2004,99.31,99.12,99.41,Armenia
+2005,99.8,99.7,99.9,Armenia
+2006,99.51,99.4,99.57,Armenia
+2007,99.62,99.57,99.65,Armenia
+2008,99.74,99.74,99.74,Armenia
+2009,99.85,99.88,99.84,Armenia
+2010,99.8,99.8,99.7,Armenia
+2011,99.98,99.99,99.98,Armenia
+2012,100,100,100,Armenia
+2013,100,100,100,Armenia
+2014,100,100,100,Armenia
+1990,88.96,99.84,100,Aruba
+1991,89.25,99.89,100,Aruba
+1992,89.54,99.94,100,Aruba
+1993,89.83,99.98,100,Aruba
+1994,90.11,99.99,100,Aruba
+1995,90.38,100,100,Aruba
+1996,90.65,100,100,Aruba
+1997,90.9,100,100,Aruba
+1998,91.13,100,100,Aruba
+1999,91.34,100,100,Aruba
+2000,91.66,99.99,100,Aruba
+2001,91.73,99.98,82.19,Aruba
+2002,91.91,99.95,82.48,Aruba
+2003,92.09,99.9,82.78,Aruba
+2004,92.27,99.86,83.09,Aruba
+2005,92.46,99.84,83.39,Aruba
+2006,92.65,99.83,83.69,Aruba
+2007,92.85,99.83,84.02,Aruba
+2008,93.06,99.86,84.34,Aruba
+2009,93.29,99.9,84.67,Aruba
+2010,93.36,99.94,84.65,Aruba
+2011,93.75,99.98,85.39,Aruba
+2012,93.99,99.99,85.82,Aruba
+2013,94.23,100,86.28,Aruba
+2014,94.47,100,86.76,Aruba
+1990,100,100,100,Australia
+1991,100,100,100,Australia
+1992,100,100,100,Australia
+1993,100,100,100,Australia
+1994,100,100,100,Australia
+1995,100,100,100,Australia
+1996,100,100,100,Australia
+1997,100,100,100,Australia
+1998,100,100,100,Australia
+1999,100,100,100,Australia
+2000,100,100,100,Australia
+2001,100,100,100,Australia
+2002,100,100,100,Australia
+2003,100,100,100,Australia
+2004,100,100,100,Australia
+2005,100,100,100,Australia
+2006,100,100,100,Australia
+2007,100,100,100,Australia
+2008,100,100,100,Australia
+2009,100,100,100,Australia
+2010,100,100,100,Australia
+2011,100,100,100,Australia
+2012,100,100,100,Australia
+2013,100,100,100,Australia
+2014,100,100,100,Australia
+1990,100,100,100,Austria
+1991,100,100,100,Austria
+1992,100,100,100,Austria
+1993,100,100,100,Austria
+1994,100,100,100,Austria
+1995,100,100,100,Austria
+1996,100,100,100,Austria
+1997,100,100,100,Austria
+1998,100,100,100,Austria
+1999,100,100,100,Austria
+2000,100,100,100,Austria
+2001,100,100,100,Austria
+2002,100,100,100,Austria
+2003,100,100,100,Austria
+2004,100,100,100,Austria
+2005,100,100,100,Austria
+2006,100,100,100,Austria
+2007,100,100,100,Austria
+2008,100,100,100,Austria
+2009,100,100,100,Austria
+2010,100,100,100,Austria
+2011,100,100,100,Austria
+2012,100,100,100,Austria
+2013,100,100,100,Austria
+2014,100,100,100,Austria
+1990,93.82,90.24,0,Azerbaijan
+1991,94.27,90.85,0,Azerbaijan
+1992,94.72,91.46,0,Azerbaijan
+1993,95.17,92.07,0,Azerbaijan
+1994,95.62,92.67,0,Azerbaijan
+1995,96.05,93.25,0,Azerbaijan
+1996,96.48,93.83,0,Azerbaijan
+1997,96.89,94.39,0,Azerbaijan
+1998,97.28,94.93,0,Azerbaijan
+1999,97,95.45,0,Azerbaijan
+2000,98.02,95.96,99.96,Azerbaijan
+2001,98.37,96.45,100,Azerbaijan
+2002,100,96.94,100,Azerbaijan
+2003,99.06,97.43,100,Azerbaijan
+2004,99.39,97.93,100,Azerbaijan
+2005,99.67,98.46,100,Azerbaijan
+2006,99.5,99,99.8,Azerbaijan
+2007,99.97,99.44,100,Azerbaijan
+2008,100,99.77,100,Azerbaijan
+2009,100,99.94,100,Azerbaijan
+2010,100,99.99,100,Azerbaijan
+2011,100,100,100,Azerbaijan
+2012,100,100,100,Azerbaijan
+2013,100,100,100,Azerbaijan
+2014,100,100,100,Azerbaijan
+1990,90.27,99.84,100,The Bahamas
+1991,90.83,99.89,100,The Bahamas
+1992,91.4,99.94,100,The Bahamas
+1993,91.96,99.98,100,The Bahamas
+1994,92.51,99.99,100,The Bahamas
+1995,93.06,100,100,The Bahamas
+1996,93.59,100,100,The Bahamas
+1997,94.12,100,100,The Bahamas
+1998,94.62,100,100,The Bahamas
+1999,95.11,100,100,The Bahamas
+2000,95.58,99.99,100,The Bahamas
+2001,96.07,99.98,96.07,The Bahamas
+2002,96.5,99.95,95.75,The Bahamas
+2003,96.95,99.9,96.31,The Bahamas
+2004,97.4,99.86,96.87,The Bahamas
+2005,97.86,99.84,97.43,The Bahamas
+2006,98.33,99.83,98.01,The Bahamas
+2007,98.8,99.83,98.58,The Bahamas
+2008,99.26,99.86,99.13,The Bahamas
+2009,99.63,99.9,99.57,The Bahamas
+2010,99.86,99.94,99.85,The Bahamas
+2011,99.97,99.98,99.97,The Bahamas
+2012,100,99.99,100,The Bahamas
+2013,100,100,100,The Bahamas
+2014,100,100,100,The Bahamas
+1990,0,0,100,Bahrain
+1991,0,0,100,Bahrain
+1992,0,0,100,Bahrain
+1993,0,0,100,Bahrain
+1994,0,0,100,Bahrain
+1995,0,0,100,Bahrain
+1996,0,0,100,Bahrain
+1997,0,0,100,Bahrain
+1998,0,0,100,Bahrain
+1999,0,0,100,Bahrain
+2000,0,0,100,Bahrain
+2001,100,100,0,Bahrain
+2002,100,100,95.75,Bahrain
+2003,100,100,96.31,Bahrain
+2004,100,100,96.87,Bahrain
+2005,100,100,97.43,Bahrain
+2006,100,100,98.01,Bahrain
+2007,100,100,98.58,Bahrain
+2008,100,100,99.13,Bahrain
+2009,100,100,99.57,Bahrain
+2010,100,100,99.85,Bahrain
+2011,100,100,99.97,Bahrain
+2012,100,100,100,Bahrain
+2013,100,100,100,Bahrain
+2014,100,100,100,Bahrain
+1990,7.58,0,0,Bangladesh
+1991,10,1.75,0,Bangladesh
+1992,12.42,4.04,0,Bangladesh
+1993,14.84,6.33,0,Bangladesh
+1994,17.8,10.4,75.2,Bangladesh
+1995,19.65,10.88,51.31,Bangladesh
+1996,22.05,13.14,53.51,Bangladesh
+1997,22.4,15.1,79.5,Bangladesh
+1998,26.79,17.6,57.86,Bangladesh
+1999,29.14,19.8,60.02,Bangladesh
+2000,32,20.5,81.2,Bangladesh
+2001,33.79,24.16,64.1,Bangladesh
+2002,36.1,26.33,65.78,Bangladesh
+2003,38.41,28.51,67.44,Bangladesh
+2004,40.6,30.4,76.6,Bangladesh
+2005,44.23,31.19,82.61,Bangladesh
+2006,45.35,35.1,72.38,Bangladesh
+2007,46.5,36.6,82.1,Bangladesh
+2008,50.03,39.6,75.62,Bangladesh
+2009,52.39,41.88,77.25,Bangladesh
+2010,55.26,42.49,90.1,Bangladesh
+2011,59.6,49.3,90.2,Bangladesh
+2012,59.48,48.79,82.21,Bangladesh
+2013,61.5,54.2,88,Bangladesh
+2014,62.4,51.4,90.7,Bangladesh
+1990,0,0,0,Barbados
+1991,0,0,0,Barbados
+1992,0,0,0,Barbados
+1993,0,0,0,Barbados
+1994,0,0,0,Barbados
+1995,0,0,0,Barbados
+1996,0,0,0,Barbados
+1997,0,0,0,Barbados
+1998,0,0,0,Barbados
+1999,0,0,0,Barbados
+2000,100,100,100,Barbados
+2001,100,100,100,Barbados
+2002,100,100,100,Barbados
+2003,100,100,100,Barbados
+2004,100,100,100,Barbados
+2005,100,100,100,Barbados
+2006,100,100,100,Barbados
+2007,100,100,100,Barbados
+2008,100,100,100,Barbados
+2009,100,100,100,Barbados
+2010,100,100,100,Barbados
+2011,100,100,100,Barbados
+2012,100,100,100,Barbados
+2013,100,100,100,Barbados
+2014,100,100,100,Barbados
+1990,100,100,100,Belarus
+1991,100,100,100,Belarus
+1992,100,100,100,Belarus
+1993,100,100,100,Belarus
+1994,100,100,100,Belarus
+1995,100,100,100,Belarus
+1996,100,100,100,Belarus
+1997,100,100,100,Belarus
+1998,100,100,100,Belarus
+1999,100,100,100,Belarus
+2000,100,100,100,Belarus
+2001,100,100,100,Belarus
+2002,100,100,100,Belarus
+2003,100,100,100,Belarus
+2004,100,100,100,Belarus
+2005,100,100,100,Belarus
+2006,100,100,100,Belarus
+2007,100,100,100,Belarus
+2008,100,100,100,Belarus
+2009,100,100,100,Belarus
+2010,100,100,100,Belarus
+2011,100,100,100,Belarus
+2012,100,100,100,Belarus
+2013,100,100,100,Belarus
+2014,100,100,100,Belarus
+1990,100,100,100,Belgium
+1991,100,100,100,Belgium
+1992,100,100,100,Belgium
+1993,100,100,100,Belgium
+1994,100,100,100,Belgium
+1995,100,100,100,Belgium
+1996,100,100,100,Belgium
+1997,100,100,100,Belgium
+1998,100,100,100,Belgium
+1999,100,100,100,Belgium
+2000,100,100,100,Belgium
+2001,100,100,100,Belgium
+2002,100,100,100,Belgium
+2003,100,100,100,Belgium
+2004,100,100,100,Belgium
+2005,100,100,100,Belgium
+2006,100,100,100,Belgium
+2007,100,100,100,Belgium
+2008,100,100,100,Belgium
+2009,100,100,100,Belgium
+2010,100,100,100,Belgium
+2011,100,100,100,Belgium
+2012,100,100,100,Belgium
+2013,100,100,100,Belgium
+2014,100,100,100,Belgium
+1990,77.62,71.49,0,Belize
+1991,78.3,72.12,0,Belize
+1992,78.97,72.75,0,Belize
+1993,79.65,73.38,0,Belize
+1994,80.32,74,0,Belize
+1995,80.98,74.61,0,Belize
+1996,81.63,75.21,0,Belize
+1997,82.27,75.79,0,Belize
+1998,82.89,76.36,0,Belize
+1999,83.5,76.9,0,Belize
+2000,84.09,77.43,0,Belize
+2001,84.66,77.94,0,Belize
+2002,85.23,78.45,0,Belize
+2003,85.8,78.97,0,Belize
+2004,86.37,79.49,0,Belize
+2005,86.94,80.03,0,Belize
+2006,87.52,80.58,0,Belize
+2007,88.11,81.16,0,Belize
+2008,88.72,81.76,0,Belize
+2009,89.33,82.38,0,Belize
+2010,89.92,83.04,97,Belize
+2011,90.57,83.67,99.1,Belize
+2012,91.19,84.32,99.77,Belize
+2013,91.82,84.98,100,Belize
+2014,92.45,85.64,100,Belize
+1990,7.23,0,0,Benin
+1991,8.6,0.01,0,Benin
+1992,9.96,0.04,0,Benin
+1993,11.33,0.17,0,Benin
+1994,12.69,0.51,0,Benin
+1995,14.04,1.01,0,Benin
+1996,14.5,2,34.4,Benin
+1997,16.7,2.61,40.32,Benin
+1998,18.01,3.38,42.2,Benin
+1999,19.31,4.13,44.05,Benin
+2000,20.58,4.87,45.87,Benin
+2001,21.9,5.5,49.6,Benin
+2002,23.11,6.31,49.42,Benin
+2003,24.37,7.03,51.14,Benin
+2004,25.62,7.76,52.82,Benin
+2005,26.88,8.51,54.47,Benin
+2006,27.9,8.5,56.6,Benin
+2007,29.43,10.06,57.66,Benin
+2008,30.72,10.87,59.2,Benin
+2009,32.02,11.7,60.72,Benin
+2010,34.2,13.9,65.4,Benin
+2011,36.9,12.4,67,Benin
+2012,38.4,14.5,68.6,Benin
+2013,37.28,15.13,66.52,Benin
+2014,34.1,16,57.59,Benin
+1990,100,100,100,Bermuda
+1991,100,100,100,Bermuda
+1992,100,100,100,Bermuda
+1993,100,100,100,Bermuda
+1994,100,100,100,Bermuda
+1995,100,100,100,Bermuda
+1996,100,100,100,Bermuda
+1997,100,100,100,Bermuda
+1998,100,100,100,Bermuda
+1999,100,100,100,Bermuda
+2000,100,100,100,Bermuda
+2001,100,100,100,Bermuda
+2002,100,100,100,Bermuda
+2003,100,100,100,Bermuda
+2004,100,100,100,Bermuda
+2005,100,100,100,Bermuda
+2006,100,100,100,Bermuda
+2007,100,100,100,Bermuda
+2008,100,100,100,Bermuda
+2009,100,100,100,Bermuda
+2010,100,100,100,Bermuda
+2011,100,100,100,Bermuda
+2012,100,100,100,Bermuda
+2013,100,100,100,Bermuda
+2014,100,100,100,Bermuda
+1990,0,0,0,Bes Islands
+1991,0,0,0,Bes Islands
+1992,0,0,0,Bes Islands
+1993,0,0,0,Bes Islands
+1994,0,0,0,Bes Islands
+1995,0,0,0,Bes Islands
+1996,0,0,0,Bes Islands
+1997,0,0,0,Bes Islands
+1998,0,0,0,Bes Islands
+1999,0,0,0,Bes Islands
+2000,0,0,0,Bes Islands
+2001,0,0,0,Bes Islands
+2002,0,0,0,Bes Islands
+2003,0,0,0,Bes Islands
+2004,0,0,0,Bes Islands
+2005,0,0,0,Bes Islands
+2006,0,0,0,Bes Islands
+2007,0,0,0,Bes Islands
+2008,0,0,0,Bes Islands
+2009,0,0,0,Bes Islands
+2010,0,0,0,Bes Islands
+2011,0,0,0,Bes Islands
+2012,0,0,0,Bes Islands
+2013,0,0,0,Bes Islands
+2014,0,0,0,Bes Islands
+1990,0,0,0,Bhutan
+1991,0.03,0,0,Bhutan
+1992,0.26,0,0,Bhutan
+1993,1.18,0.01,0,Bhutan
+1994,1.57,0.12,0,Bhutan
+1995,6.68,0.76,0,Bhutan
+1996,11.79,2.67,0,Bhutan
+1997,16.88,5.58,0,Bhutan
+1998,21.95,10.88,0,Bhutan
+1999,27.01,16.17,0,Bhutan
+2000,32.05,21.43,0,Bhutan
+2001,37.08,26.68,0,Bhutan
+2002,42.1,31.93,0,Bhutan
+2003,41.1,37.19,0,Bhutan
+2004,52.14,42.45,74.95,Bhutan
+2005,59.81,43.68,96.78,Bhutan
+2006,62.2,53.01,81.98,Bhutan
+2007,71.8,60.3,98.73,Bhutan
+2008,72.3,63.67,89.63,Bhutan
+2009,77.36,69.03,93.53,Bhutan
+2010,82.44,74.41,97.48,Bhutan
+2011,87.51,79.79,100,Bhutan
+2012,91.5,87.3,99.6,Bhutan
+2013,97.67,90.58,100,Bhutan
+2014,100,95.98,100,Bhutan
+1990,54.75,0.55,0,Bolivia
+1991,56.3,3.52,0,Bolivia
+1992,57.85,6.49,94.57,Bolivia
+1993,59.4,9.46,96.04,Bolivia
+1994,64.1,26.5,93,Bolivia
+1995,62.47,15.37,94.66,Bolivia
+1996,63.99,18.31,94.59,Bolivia
+1997,67.33,24.55,95.82,Bolivia
+1998,71.2,29,96.1,Bolivia
+1999,70.93,25.68,97.84,Bolivia
+2000,69.96,24.93,95.81,Bolivia
+2001,69.26,28.4,94.21,Bolivia
+2002,64,22.96,88.58,Bolivia
+2003,72.3,35.7,94,Bolivia
+2004,75.69,41.31,95.26,Bolivia
+2005,68.29,28.9,89.92,Bolivia
+2006,76.21,44.02,95.17,Bolivia
+2007,80.16,46.56,98.2,Bolivia
+2008,84.67,56.14,99.23,Bolivia
+2009,86.77,63.5,98.87,Bolivia
+2010,84.49,58.88,97.44,Bolivia
+2011,88.34,66.62,99.08,Bolivia
+2012,90.39,72.46,99.23,Bolivia
+2013,89.51,69.34,99.52,Bolivia
+2014,90.04,71.47,99.31,Bolivia
+1990,96.27,91.39,100,Bosnia and Herzegovina
+1991,96.54,91.97,100,Bosnia and Herzegovina
+1992,96.8,92.54,100,Bosnia and Herzegovina
+1993,97.07,93.11,100,Bosnia and Herzegovina
+1994,97.33,93.68,100,Bosnia and Herzegovina
+1995,97.59,94.23,100,Bosnia and Herzegovina
+1996,97.83,94.77,100,Bosnia and Herzegovina
+1997,98.05,95.3,100,Bosnia and Herzegovina
+1998,98.26,95.8,100,Bosnia and Herzegovina
+1999,98.45,96.29,100,Bosnia and Herzegovina
+2000,98.64,96.76,100,Bosnia and Herzegovina
+2001,99.4,97.22,100,Bosnia and Herzegovina
+2002,98.5,97.7,99.3,Bosnia and Herzegovina
+2003,99.13,98.13,100,Bosnia and Herzegovina
+2004,99.3,98.6,100,Bosnia and Herzegovina
+2005,99.46,99.07,100,Bosnia and Herzegovina
+2006,99.63,99.49,99.86,Bosnia and Herzegovina
+2007,99.7,99.79,99.56,Bosnia and Herzegovina
+2008,99.91,99.95,99.86,Bosnia and Herzegovina
+2009,99.98,99.99,99.95,Bosnia and Herzegovina
+2010,100,100,99.99,Bosnia and Herzegovina
+2011,100,100,100,Bosnia and Herzegovina
+2012,100,100,100,Bosnia and Herzegovina
+2013,100,100,100,Bosnia and Herzegovina
+2014,100,100,100,Bosnia and Herzegovina
+1990,5.81,0,0,Botswana
+1991,10.1,2,17.5,Botswana
+1992,10.15,2,19.56,Botswana
+1993,12.32,3.65,21.98,Botswana
+1994,14.48,5.3,24.38,Botswana
+1995,16.64,6.94,26.74,Botswana
+1996,18.78,8.57,29.07,Botswana
+1997,20.92,10.18,31.36,Botswana
+1998,23.03,11.78,33.62,Botswana
+1999,25.13,13.35,35.84,Botswana
+2000,27.21,14.9,38.03,Botswana
+2001,24.8,8.1,37,Botswana
+2002,31.35,17.99,42.55,Botswana
+2003,33.41,19.53,44.94,Botswana
+2004,35.47,21.08,47.31,Botswana
+2005,37.53,22.65,49.67,Botswana
+2006,39.61,24.23,52.03,Botswana
+2007,41.69,25.84,54.38,Botswana
+2008,43.1,42.9,57.1,Botswana
+2009,45.89,29.12,59.06,Botswana
+2010,48,30.79,61.4,Botswana
+2011,53.24,23.87,69.13,Botswana
+2012,52.24,34.15,66.05,Botswana
+2013,54.36,35.84,68.37,Botswana
+2014,56.48,37.52,70.68,Botswana
+1990,87.48,55.42,97.54,Brazil
+1991,89.68,56.67,100,Brazil
+1992,88.8,54.33,97.52,Brazil
+1993,90,57.2,98.03,Brazil
+1994,91.37,62.66,99.99,Brazil
+1995,91.73,62.92,98.59,Brazil
+1996,92.87,66.94,98.92,Brazil
+1997,93.35,68.82,99.06,Brazil
+1998,94.19,72.78,99.14,Brazil
+1999,94.76,75.44,99.19,Brazil
+2000,94.46,74.32,99.12,Brazil
+2001,96.02,77.63,99.22,Brazil
+2002,96.65,80.18,99.43,Brazil
+2003,96.98,81.92,99.5,Brazil
+2004,96.77,81.51,99.59,Brazil
+2005,97.09,83.47,99.63,Brazil
+2006,97.59,86.07,99.71,Brazil
+2007,98.13,89.07,99.78,Brazil
+2008,98.53,91.4,99.82,Brazil
+2009,98.86,93.33,99.85,Brazil
+2010,99.16,93.64,100,Brazil
+2011,99.33,95.78,99.9,Brazil
+2012,99.52,97.02,99.93,Brazil
+2013,99.58,97.29,99.94,Brazil
+2014,99.65,97.84,99.95,Brazil
+1990,0,0,0,British Virgin Islands
+1991,0,0,0,British Virgin Islands
+1992,0,0,0,British Virgin Islands
+1993,0,0,0,British Virgin Islands
+1994,0,0,0,British Virgin Islands
+1995,0,0,0,British Virgin Islands
+1996,0,0,0,British Virgin Islands
+1997,0,0,0,British Virgin Islands
+1998,0,0,0,British Virgin Islands
+1999,0,0,0,British Virgin Islands
+2000,0,0,0,British Virgin Islands
+2001,0,0,0,British Virgin Islands
+2002,0,0,0,British Virgin Islands
+2003,0,0,0,British Virgin Islands
+2004,0,0,0,British Virgin Islands
+2005,0,0,0,British Virgin Islands
+2006,0,0,0,British Virgin Islands
+2007,0,0,0,British Virgin Islands
+2008,0,0,0,British Virgin Islands
+2009,0,0,0,British Virgin Islands
+2010,0,0,0,British Virgin Islands
+2011,0,0,0,British Virgin Islands
+2012,0,0,0,British Virgin Islands
+2013,0,0,0,British Virgin Islands
+2014,0,0,0,British Virgin Islands
+1990,100,100,100,Brunei
+1991,100,100,100,Brunei
+1992,100,100,100,Brunei
+1993,100,100,100,Brunei
+1994,100,100,100,Brunei
+1995,100,100,100,Brunei
+1996,100,100,100,Brunei
+1997,100,100,100,Brunei
+1998,100,100,100,Brunei
+1999,100,100,100,Brunei
+2000,100,100,100,Brunei
+2001,100,100,100,Brunei
+2002,100,100,100,Brunei
+2003,100,100,100,Brunei
+2004,100,100,100,Brunei
+2005,100,100,100,Brunei
+2006,100,100,100,Brunei
+2007,100,100,100,Brunei
+2008,100,100,100,Brunei
+2009,100,100,100,Brunei
+2010,100,100,100,Brunei
+2011,100,100,100,Brunei
+2012,100,100,100,Brunei
+2013,100,100,100,Brunei
+2014,100,100,100,Brunei
+1990,100,100,100,Bulgaria
+1991,100,100,100,Bulgaria
+1992,100,100,100,Bulgaria
+1993,100,100,100,Bulgaria
+1994,100,100,100,Bulgaria
+1995,100,100,100,Bulgaria
+1996,100,100,100,Bulgaria
+1997,100,100,100,Bulgaria
+1998,100,100,100,Bulgaria
+1999,100,100,100,Bulgaria
+2000,100,100,100,Bulgaria
+2001,100,100,100,Bulgaria
+2002,100,100,100,Bulgaria
+2003,100,100,100,Bulgaria
+2004,100,100,100,Bulgaria
+2005,100,100,100,Bulgaria
+2006,100,100,100,Bulgaria
+2007,100,100,100,Bulgaria
+2008,100,100,100,Bulgaria
+2009,100,100,100,Bulgaria
+2010,100,100,100,Bulgaria
+2011,100,100,100,Bulgaria
+2012,100,100,100,Bulgaria
+2013,100,100,100,Bulgaria
+2014,100,100,100,Bulgaria
+1990,2.75,0,0,Burkina Faso
+1991,3.43,0.01,0,Burkina Faso
+1992,4.11,0.03,0,Burkina Faso
+1993,6.1,0.6,29.4,Burkina Faso
+1994,5.45,0.16,35.73,Burkina Faso
+1995,6.11,0.29,38.76,Burkina Faso
+1996,6.76,0.42,41.54,Burkina Faso
+1997,7.39,0.56,43.6,Burkina Faso
+1998,8.01,0.67,45.15,Burkina Faso
+1999,6.9,0.2,39.7,Burkina Faso
+2000,9.2,0.83,47.75,Burkina Faso
+2001,9.78,0.89,48.82,Burkina Faso
+2002,10.35,0.95,49.75,Burkina Faso
+2003,11.4,0.8,52.4,Burkina Faso
+2004,11.48,1.07,51.19,Burkina Faso
+2005,12.05,1.15,51.73,Burkina Faso
+2006,12.62,1.25,52.16,Burkina Faso
+2007,13.21,1.38,52.48,Burkina Faso
+2008,13.81,1.53,52.74,Burkina Faso
+2009,14.42,1.69,52.97,Burkina Faso
+2010,13.1,1.4,48.5,Burkina Faso
+2011,15.66,2.06,53.36,Burkina Faso
+2012,16.28,2.26,53.53,Burkina Faso
+2013,16.91,2.47,53.71,Burkina Faso
+2014,19.2,3,58,Burkina Faso
+1990,1.45,0,0,Burundi
+1991,1.73,0.12,0,Burundi
+1992,2.01,0.23,0,Burundi
+1993,2.29,0.34,0,Burundi
+1994,2.56,0.45,0,Burundi
+1995,2.83,0.55,0,Burundi
+1996,3.08,0.64,0,Burundi
+1997,3.32,0.71,0,Burundi
+1998,3.9,0.9,60.6,Burundi
+1999,3.75,0.8,37.51,Burundi
+2000,3.94,0.81,38.71,Burundi
+2001,4.12,0.82,39.81,Burundi
+2002,4.29,0.82,40.8,Burundi
+2003,4.46,0.82,41.65,Burundi
+2004,4.62,0.83,42.37,Burundi
+2005,4.8,0.85,42.94,Burundi
+2006,4.98,0.9,43.36,Burundi
+2007,5.17,0.96,43.63,Burundi
+2008,4.8,1.2,39.6,Burundi
+2009,5.59,1.16,43.8,Burundi
+2010,5.3,1,49,Burundi
+2011,6.03,1.42,43.65,Burundi
+2012,6.5,1.2,58.5,Burundi
+2013,6.49,1.71,43.34,Burundi
+2014,7,2,52.1,Burundi
+1990,28.26,0,0,Cape Verde
+1991,30.9,0.04,0,Cape Verde
+1992,33.54,0.25,0,Cape Verde
+1993,36.18,1.07,0,Cape Verde
+1994,38.81,1.68,0,Cape Verde
+1995,41.44,5.59,0,Cape Verde
+1996,44.05,9.48,0,Cape Verde
+1997,46.65,13.36,0,Cape Verde
+1998,49.24,17.21,0,Cape Verde
+1999,51.8,21.05,0,Cape Verde
+2000,54.35,24.87,0,Cape Verde
+2001,56.89,28.68,0,Cape Verde
+2002,58.6,30.81,81.27,Cape Verde
+2003,61.95,36.3,82.12,Cape Verde
+2004,64.48,40.11,82.98,Cape Verde
+2005,67,44,85,Cape Verde
+2006,69.56,47.79,84.98,Cape Verde
+2007,72.11,51.67,86.11,Cape Verde
+2008,74.68,55.56,87.32,Cape Verde
+2009,77.25,59.48,88.61,Cape Verde
+2010,81.1,65.8,90.62,Cape Verde
+2011,82.42,67.35,91.41,Cape Verde
+2012,85.01,71.3,92.92,Cape Verde
+2013,87.6,75.25,94.5,Cape Verde
+2014,90.19,79.21,96.14,Cape Verde
+1990,0,0,0,Cambodia
+1991,0.1,0,0,Cambodia
+1992,0.47,0,0,Cambodia
+1993,0.55,0.02,0,Cambodia
+1994,2.74,0.14,0,Cambodia
+1995,4.92,0.57,0,Cambodia
+1996,7.09,0.94,0,Cambodia
+1997,9.24,2.83,0,Cambodia
+1998,18.67,12.29,55.98,Cambodia
+1999,13.5,6.55,44.13,Cambodia
+2000,16.6,9,60.6,Cambodia
+2001,17.69,10.21,50.22,Cambodia
+2002,19.78,12.03,53.21,Cambodia
+2003,19.3,13.85,42.63,Cambodia
+2004,23.95,15.68,59.06,Cambodia
+2005,20.5,12.6,66.8,Cambodia
+2006,28.13,19.38,64.71,Cambodia
+2007,30.24,21.27,67.45,Cambodia
+2008,26.4,13.1,87,Cambodia
+2009,34.48,25.11,72.76,Cambodia
+2010,31.1,18.8,91.3,Cambodia
+2011,38.75,29.01,77.82,Cambodia
+2012,40.9,30.97,80.27,Cambodia
+2013,43.04,32.93,82.67,Cambodia
+2014,56.1,49.2,96.9,Cambodia
+1990,30.06,13.31,0,Cameroon
+1991,29,8.7,63,Cameroon
+1992,32.48,14.13,59.09,Cameroon
+1993,33.69,14.54,60.8,Cameroon
+1994,34.89,14.94,62.45,Cameroon
+1995,36.08,15.33,64.07,Cameroon
+1996,37.26,15.71,65.64,Cameroon
+1997,38.43,16.07,67.17,Cameroon
+1998,40.7,22,79,Cameroon
+1999,40.71,16.73,70.09,Cameroon
+2000,41,21,79,Cameroon
+2001,46.2,18.51,83.95,Cameroon
+2002,44.04,17.63,74.14,Cameroon
+2003,45.14,17.92,75.41,Cameroon
+2004,47.1,15.5,77.1,Cameroon
+2005,47.34,18.54,77.87,Cameroon
+2006,49,14,73,Cameroon
+2007,48.2,23.4,90.4,Cameroon
+2008,50.7,19.61,81.37,Cameroon
+2009,51.84,20.02,82.51,Cameroon
+2010,52.99,20.43,83.63,Cameroon
+2011,53.7,18.5,87.5,Cameroon
+2012,55.3,21.29,85.85,Cameroon
+2013,56.46,21.73,86.95,Cameroon
+2014,56.8,22.17,86.52,Cameroon
+1990,100,100,100,Canada
+1991,100,100,100,Canada
+1992,100,100,100,Canada
+1993,100,100,100,Canada
+1994,100,100,100,Canada
+1995,100,100,100,Canada
+1996,100,100,100,Canada
+1997,100,100,100,Canada
+1998,100,100,100,Canada
+1999,100,100,100,Canada
+2000,100,100,100,Canada
+2001,100,100,100,Canada
+2002,100,100,100,Canada
+2003,100,100,100,Canada
+2004,100,100,100,Canada
+2005,100,100,100,Canada
+2006,100,100,100,Canada
+2007,100,100,100,Canada
+2008,100,100,100,Canada
+2009,100,100,100,Canada
+2010,100,100,100,Canada
+2011,100,100,100,Canada
+2012,100,100,100,Canada
+2013,100,100,100,Canada
+2014,100,100,100,Canada
+1990,100,100,100,Cayman Islands
+1991,100,100,100,Cayman Islands
+1992,100,100,100,Cayman Islands
+1993,100,100,100,Cayman Islands
+1994,100,100,100,Cayman Islands
+1995,100,100,100,Cayman Islands
+1996,100,100,100,Cayman Islands
+1997,100,100,100,Cayman Islands
+1998,100,100,100,Cayman Islands
+1999,100,100,100,Cayman Islands
+2000,100,100,100,Cayman Islands
+2001,100,100,100,Cayman Islands
+2002,100,100,100,Cayman Islands
+2003,100,100,100,Cayman Islands
+2004,100,100,100,Cayman Islands
+2005,100,100,100,Cayman Islands
+2006,100,100,100,Cayman Islands
+2007,100,100,100,Cayman Islands
+2008,100,100,100,Cayman Islands
+2009,100,100,100,Cayman Islands
+2010,100,100,100,Cayman Islands
+2011,100,100,100,Cayman Islands
+2012,100,100,100,Cayman Islands
+2013,100,100,100,Cayman Islands
+2014,100,100,100,Cayman Islands
+1990,0.4,0,0,Central African Republic
+1991,0.96,0,0,Central African Republic
+1992,1.51,0.01,0,Central African Republic
+1993,2.07,0.02,0,Central African Republic
+1994,2.62,0.07,0,Central African Republic
+1995,3,0.3,8,Central African Republic
+1996,3.69,0.29,9.41,Central African Republic
+1997,4.21,0.43,10.53,Central African Republic
+1998,4.71,0.58,11.59,Central African Republic
+1999,5.19,0.7,12.65,Central African Republic
+2000,6,0.7,15.6,Central African Republic
+2001,6.11,0.9,14.72,Central African Republic
+2002,6.56,0.99,15.74,Central African Republic
+2003,7.01,1.08,16.73,Central African Republic
+2004,7.46,1.18,17.72,Central African Republic
+2005,7.91,1.29,18.67,Central African Republic
+2006,8.37,1.42,19.61,Central African Republic
+2007,8.84,1.58,20.52,Central African Republic
+2008,9.32,1.76,21.41,Central African Republic
+2009,9.81,1.96,22.28,Central African Republic
+2010,9.8,1.7,24.9,Central African Republic
+2011,10.81,2.39,23.95,Central African Republic
+2012,11.31,2.63,24.76,Central African Republic
+2013,11.82,2.86,25.55,Central African Republic
+2014,12.33,3.1,26.32,Central African Republic
+1990,0,0,0,Chad
+1991,0.03,0,0,Chad
+1992,0.11,0,0,Chad
+1993,0.3,0,0,Chad
+1994,0.58,0,0,Chad
+1995,1.01,0,0,Chad
+1996,1.43,0.01,0,Chad
+1997,2.3,0.1,9.4,Chad
+1998,2.22,0.07,10.02,Chad
+1999,2.58,0.18,11.32,Chad
+2000,2.94,0.35,12.31,Chad
+2001,3.28,0.56,13.1,Chad
+2002,3.62,0.79,13.82,Chad
+2003,3.95,1.02,14.51,Chad
+2004,3.5,0.3,16.4,Chad
+2005,4.62,1.5,15.82,Chad
+2006,4.97,1.77,16.42,Chad
+2007,5.32,2.06,16.98,Chad
+2008,5.69,2.37,17.51,Chad
+2009,6.07,2.71,18.02,Chad
+2010,6.4,3.1,18.3,Chad
+2011,6.84,3.42,18.93,Chad
+2012,7.23,3.78,19.35,Chad
+2013,7.62,4.16,19.76,Chad
+2014,8.02,4.53,20.15,Chad
+1990,92.26,62.89,98.85,Chile
+1991,94.08,69.17,99.04,Chile
+1992,94.56,70.33,99.11,Chile
+1993,94.81,72.37,99.12,Chile
+1994,95.17,73.97,99.14,Chile
+1995,95.52,75.55,99.17,Chile
+1996,95.62,74.77,99.44,Chile
+1997,96.19,78.68,99.24,Chile
+1998,97.24,82.31,99.67,Chile
+1999,96.79,81.73,99.29,Chile
+2000,97.94,86.57,99.78,Chile
+2001,97.34,84.72,99.33,Chile
+2002,97.6,86.21,99.35,Chile
+2003,98.78,92.81,99.71,Chile
+2004,98.11,89.19,99.42,Chile
+2005,98.38,90.7,99.48,Chile
+2006,99.37,96.41,99.81,Chile
+2007,98.93,93.78,99.64,Chile
+2008,99.22,95.35,99.74,Chile
+2009,99.59,97.8,99.87,Chile
+2010,99.74,98.3,99.92,Chile
+2011,99.59,97.78,99.86,Chile
+2012,99.98,99.82,100,Chile
+2013,99.6,98,99.8,Chile
+2014,100,100,100,Chile
+1990,89.39,86.51,0,China
+1991,89.97,87.13,0,China
+1992,90.54,87.76,0,China
+1993,91.11,88.38,0,China
+1994,91.67,88.99,0,China
+1995,92.23,89.6,0,China
+1996,92.77,90.19,0,China
+1997,93.3,90.77,0,China
+1998,93.82,91.32,0,China
+1999,94.31,91.86,0,China
+2000,94.8,92.38,100,China
+2001,95.27,92.89,100,China
+2002,95.73,93.4,100,China
+2003,96.19,93.9,100,China
+2004,96.65,94.42,100,China
+2005,97.12,94.95,100,China
+2006,97.59,95.5,100,China
+2007,98.08,96.07,100,China
+2008,98.58,96.67,100,China
+2009,99.06,97.28,100,China
+2010,99.7,98,100,China
+2011,99.79,98.55,100,China
+2012,99.95,99.14,100,China
+2013,99.99,99.62,100,China
+2014,100,100,100,China
+1990,0,0,0,Taiwan
+1991,0,0,0,Taiwan
+1992,0,0,0,Taiwan
+1993,0,0,0,Taiwan
+1994,0,0,0,Taiwan
+1995,0,0,0,Taiwan
+1996,0,0,0,Taiwan
+1997,0,0,0,Taiwan
+1998,0,0,0,Taiwan
+1999,0,0,0,Taiwan
+2000,0,0,0,Taiwan
+2001,0,0,0,Taiwan
+2002,0,0,0,Taiwan
+2003,0,0,0,Taiwan
+2004,0,0,0,Taiwan
+2005,0,0,0,Taiwan
+2006,0,0,0,Taiwan
+2007,0,0,0,Taiwan
+2008,0,0,0,Taiwan
+2009,0,0,0,Taiwan
+2010,0,0,0,Taiwan
+2011,0,0,0,Taiwan
+2012,0,0,0,Taiwan
+2013,0,0,0,Taiwan
+2014,0,0,0,Taiwan
+1990,89.9,71,97.9,Colombia
+1991,90.71,73.22,98.64,Colombia
+1992,91.1,74.03,98.66,Colombia
+1993,91.48,74.84,98.68,Colombia
+1994,91.86,75.65,98.75,Colombia
+1995,91.2,73.6,99.2,Colombia
+1996,92.6,77.22,98.93,Colombia
+1997,92.94,77.98,99.01,Colombia
+1998,93.28,78.73,99.09,Colombia
+1999,93.59,79.45,99.15,Colombia
+2000,95.2,83.8,99.4,Colombia
+2001,94.18,80.86,99.26,Colombia
+2002,94.46,81.55,99.3,Colombia
+2003,94.73,82.25,99.35,Colombia
+2004,95.01,82.95,99.4,Colombia
+2005,96.8,89.2,99.3,Colombia
+2006,95.58,84.41,99.53,Colombia
+2007,95.88,85.17,99.61,Colombia
+2008,96.81,87.47,99.71,Colombia
+2009,96.06,84.54,99.61,Colombia
+2010,96.79,86.85,99.77,Colombia
+2011,96.69,86.36,99.79,Colombia
+2012,97.03,87.86,99.73,Colombia
+2013,97.78,90.53,99.82,Colombia
+2014,97.79,90.5,99.84,Colombia
+1990,14.42,3.44,0,Comoros
+1991,16.95,6.04,0,Comoros
+1992,19.48,8.65,0,Comoros
+1993,22.01,11.25,0,Comoros
+1994,24.54,13.85,0,Comoros
+1995,27.06,16.44,0,Comoros
+1996,28.9,19.6,51.8,Comoros
+1997,32.05,21.57,58.74,Comoros
+1998,34.53,24.11,61.11,Comoros
+1999,36.99,26.63,63.48,Comoros
+2000,39.43,29.13,65.83,Comoros
+2001,41.87,31.62,68.17,Comoros
+2002,44.8,32.5,74.6,Comoros
+2003,46.71,36.59,72.8,Comoros
+2004,49.13,39.09,75.08,Comoros
+2005,51.56,41.6,77.33,Comoros
+2006,54,44.13,79.54,Comoros
+2007,56.44,46.69,81.71,Comoros
+2008,58.9,49.27,83.85,Comoros
+2009,61.37,51.86,85.95,Comoros
+2010,63.84,54.47,88.02,Comoros
+2011,66.32,57.1,90.07,Comoros
+2012,69.3,61.4,85.1,Comoros
+2013,71.28,62.36,94.1,Comoros
+2014,73.76,64.99,96.1,Comoros
+1990,0,1.1,0,Democratic Republic of the Congo
+1991,0.59,1.14,0,Democratic Republic of the Congo
+1992,1.3,1.17,0,Democratic Republic of the Congo
+1993,2.01,1.21,0,Democratic Republic of the Congo
+1994,2.71,1.24,0,Democratic Republic of the Congo
+1995,3.41,1.26,0,Democratic Republic of the Congo
+1996,4.09,1.27,0,Democratic Republic of the Congo
+1997,4.76,1.26,0,Democratic Republic of the Congo
+1998,5.41,1.23,0,Democratic Republic of the Congo
+1999,6.05,1.18,0,Democratic Republic of the Congo
+2000,6.7,1,20,Democratic Republic of the Congo
+2001,7.28,1.04,18.59,Democratic Republic of the Congo
+2002,7.88,0.96,20.17,Democratic Republic of the Congo
+2003,8.48,0.88,21.7,Democratic Republic of the Congo
+2004,9.08,0.81,23.18,Democratic Republic of the Congo
+2005,6,0.75,30,Democratic Republic of the Congo
+2006,10.3,0.71,25.97,Democratic Republic of the Congo
+2007,15.2,1.1,36.6,Democratic Republic of the Congo
+2008,11.56,0.71,28.57,Democratic Republic of the Congo
+2009,12.2,0.74,29.8,Democratic Republic of the Congo
+2010,12.85,0.78,31,Democratic Republic of the Congo
+2011,13.51,0.84,32.16,Democratic Republic of the Congo
+2012,15.4,1,40.8,Democratic Republic of the Congo
+2013,14.83,0.97,34.39,Democratic Republic of the Congo
+2014,13.5,0.4,42,Democratic Republic of the Congo
+1990,17.73,18.86,0,Republic of Congo
+1991,18.85,18.55,0,Republic of Congo
+1992,19.97,18.24,0,Republic of Congo
+1993,21.09,17.93,0,Republic of Congo
+1994,22.2,17.6,0,Republic of Congo
+1995,23.3,17.27,0,Republic of Congo
+1996,24.4,16.93,0,Republic of Congo
+1997,25.48,16.57,0,Republic of Congo
+1998,26.54,16.19,0,Republic of Congo
+1999,27.58,15.79,0,Republic of Congo
+2000,28.61,15.38,0,Republic of Congo
+2001,29.63,14.95,0,Republic of Congo
+2002,30.65,14.52,0,Republic of Congo
+2003,31.65,14.09,0,Republic of Congo
+2004,32.66,13.67,0,Republic of Congo
+2005,33.8,14.8,50.8,Republic of Congo
+2006,34.7,12.88,48.39,Republic of Congo
+2007,35.73,12.51,50.03,Republic of Congo
+2008,36.78,12.18,51.64,Republic of Congo
+2009,37.1,9.4,53.6,Republic of Congo
+2010,38.89,11.55,54.79,Republic of Congo
+2011,39.95,11.25,56.33,Republic of Congo
+2012,41.6,11.7,58.9,Republic of Congo
+2013,42.09,10.68,59.35,Republic of Congo
+2014,43.16,10.4,60.84,Republic of Congo
+1990,95.33,96.5,0,Cook Islands
+1991,95.58,96.69,0,Cook Islands
+1992,95.83,96.87,0,Cook Islands
+1993,96.08,97.06,0,Cook Islands
+1994,96.33,97.23,0,Cook Islands
+1995,96.56,97.4,0,Cook Islands
+1996,96.79,97.55,0,Cook Islands
+1997,97,97.69,0,Cook Islands
+1998,97.19,97.81,0,Cook Islands
+1999,97.37,97.91,0,Cook Islands
+2000,97.53,97.99,0,Cook Islands
+2001,97.69,98.06,0,Cook Islands
+2002,97.83,98.13,0,Cook Islands
+2003,97.97,98.2,0,Cook Islands
+2004,98.11,98.28,0,Cook Islands
+2005,98.26,98.37,0,Cook Islands
+2006,98.61,98.88,98.48,Cook Islands
+2007,98.58,98.62,100,Cook Islands
+2008,98.75,98.77,98.86,Cook Islands
+2009,98.94,98.95,99.95,Cook Islands
+2010,99.13,99.14,100,Cook Islands
+2011,99.27,99.34,99.24,Cook Islands
+2012,99.52,99.56,100,Cook Islands
+2013,99.73,99.77,100,Cook Islands
+2014,99.93,99.98,100,Cook Islands
+1990,97.24,94.86,0,Costa Rica
+1991,97.4,95.08,0,Costa Rica
+1992,97.57,95.3,0,Costa Rica
+1993,97.73,95.51,0,Costa Rica
+1994,97.88,95.73,0,Costa Rica
+1995,98.03,95.93,0,Costa Rica
+1996,98.16,96.12,0,Costa Rica
+1997,98.29,96.29,0,Costa Rica
+1998,98.39,96.44,0,Costa Rica
+1999,98.48,96.58,0,Costa Rica
+2000,98.55,96.69,0,Costa Rica
+2001,98.25,95.77,99.87,Costa Rica
+2002,98.51,96.47,99.86,Costa Rica
+2003,98.7,96.9,99.88,Costa Rica
+2004,98.95,97.59,99.85,Costa Rica
+2005,99.05,97.8,99.89,Costa Rica
+2006,99.15,97.96,99.93,Costa Rica
+2007,99.22,98.17,99.92,Costa Rica
+2008,99.26,98.28,99.92,Costa Rica
+2009,99.41,98.64,99.93,Costa Rica
+2010,99,97.73,99.75,Costa Rica
+2011,99.23,97.99,99.96,Costa Rica
+2012,99.5,98.69,99.98,Costa Rica
+2013,99.56,98.92,99.94,Costa Rica
+2014,99.36,98.41,99.7,Costa Rica
+1990,36.66,13.57,0,Ivory Coast
+1991,37.79,14.57,0,Ivory Coast
+1992,38.91,15.57,0,Ivory Coast
+1993,40.04,16.57,0,Ivory Coast
+1994,36.5,13.7,69.7,Ivory Coast
+1995,42.27,18.53,76.13,Ivory Coast
+1996,43.37,19.5,76.9,Ivory Coast
+1997,44.46,20.45,77.66,Ivory Coast
+1998,45.53,21.38,78.41,Ivory Coast
+1999,48.2,22.5,85.9,Ivory Coast
+2000,47.62,23.19,79.3,Ivory Coast
+2001,48.64,24.07,79.67,Ivory Coast
+2002,51.4,24.95,83.92,Ivory Coast
+2003,50.68,25.83,80.43,Ivory Coast
+2004,51.7,26.72,80.81,Ivory Coast
+2005,58.9,37,86.4,Ivory Coast
+2006,53.75,28.55,81.6,Ivory Coast
+2007,54.79,29.49,81.9,Ivory Coast
+2008,55.84,30.46,82.21,Ivory Coast
+2009,56.9,31.45,82.55,Ivory Coast
+2010,57.96,32.46,82.91,Ivory Coast
+2011,59.04,33.47,83.3,Ivory Coast
+2012,55.8,29,88.1,Ivory Coast
+2013,61.19,35.52,84.17,Ivory Coast
+2014,61.9,36.54,83.96,Ivory Coast
+1990,100,100,100,Croatia
+1991,100,100,100,Croatia
+1992,100,100,100,Croatia
+1993,100,100,100,Croatia
+1994,100,100,100,Croatia
+1995,100,100,100,Croatia
+1996,100,100,100,Croatia
+1997,100,100,100,Croatia
+1998,100,100,100,Croatia
+1999,100,100,100,Croatia
+2000,100,100,100,Croatia
+2001,100,100,100,Croatia
+2002,100,100,100,Croatia
+2003,100,100,100,Croatia
+2004,100,100,100,Croatia
+2005,100,100,100,Croatia
+2006,100,100,100,Croatia
+2007,100,100,100,Croatia
+2008,100,100,100,Croatia
+2009,100,100,100,Croatia
+2010,100,100,100,Croatia
+2011,100,100,100,Croatia
+2012,100,100,100,Croatia
+2013,100,100,100,Croatia
+2014,100,100,100,Croatia
+1990,92.07,80.69,0,Cuba
+1991,92.59,81.45,0,Cuba
+1992,93.11,82.22,0,Cuba
+1993,93.63,82.98,0,Cuba
+1994,94.14,83.73,0,Cuba
+1995,94.65,84.47,0,Cuba
+1996,95.14,85.2,0,Cuba
+1997,95.62,85.92,0,Cuba
+1998,96.09,86.62,0,Cuba
+1999,96.54,87.29,0,Cuba
+2000,97,87.9,100,Cuba
+2001,97.39,88.6,100,Cuba
+2002,97.8,89.24,100,Cuba
+2003,98.21,89.89,100,Cuba
+2004,98.63,90.54,100,Cuba
+2005,99.04,91.21,100,Cuba
+2006,99.43,91.9,100,Cuba
+2007,99.73,92.61,100,Cuba
+2008,99.91,93.34,100,Cuba
+2009,99.98,94.1,100,Cuba
+2010,100,94.86,100,Cuba
+2011,100,95.64,100,Cuba
+2012,100,96.43,100,Cuba
+2013,100,97.22,100,Cuba
+2014,100,98.01,100,Cuba
+1990,100,100,100,Curacao
+1991,100,100,100,Curacao
+1992,100,100,100,Curacao
+1993,100,100,100,Curacao
+1994,100,100,100,Curacao
+1995,100,100,100,Curacao
+1996,100,100,100,Curacao
+1997,100,100,100,Curacao
+1998,100,100,100,Curacao
+1999,100,100,100,Curacao
+2000,100,100,100,Curacao
+2001,100,100,100,Curacao
+2002,100,100,100,Curacao
+2003,100,100,100,Curacao
+2004,100,100,100,Curacao
+2005,100,100,100,Curacao
+2006,100,100,100,Curacao
+2007,100,100,100,Curacao
+2008,100,100,100,Curacao
+2009,100,100,100,Curacao
+2010,100,100,100,Curacao
+2011,100,100,100,Curacao
+2012,100,100,100,Curacao
+2013,100,100,100,Curacao
+2014,100,100,100,Curacao
+1990,100,100,100,Cyprus
+1991,100,100,100,Cyprus
+1992,100,100,100,Cyprus
+1993,100,100,100,Cyprus
+1994,100,100,100,Cyprus
+1995,100,100,100,Cyprus
+1996,100,100,100,Cyprus
+1997,100,100,100,Cyprus
+1998,100,100,100,Cyprus
+1999,100,100,100,Cyprus
+2000,100,100,100,Cyprus
+2001,100,100,100,Cyprus
+2002,100,100,100,Cyprus
+2003,100,100,100,Cyprus
+2004,100,100,100,Cyprus
+2005,100,100,100,Cyprus
+2006,100,100,100,Cyprus
+2007,100,100,100,Cyprus
+2008,100,100,100,Cyprus
+2009,100,100,100,Cyprus
+2010,100,100,100,Cyprus
+2011,100,100,100,Cyprus
+2012,100,100,100,Cyprus
+2013,100,100,100,Cyprus
+2014,100,100,100,Cyprus
+1990,100,100,100,Czech Republic
+1991,100,100,100,Czech Republic
+1992,100,100,100,Czech Republic
+1993,100,100,100,Czech Republic
+1994,100,100,100,Czech Republic
+1995,100,100,100,Czech Republic
+1996,100,100,100,Czech Republic
+1997,100,100,100,Czech Republic
+1998,100,100,100,Czech Republic
+1999,100,100,100,Czech Republic
+2000,100,100,100,Czech Republic
+2001,100,100,100,Czech Republic
+2002,100,100,100,Czech Republic
+2003,100,100,100,Czech Republic
+2004,100,100,100,Czech Republic
+2005,100,100,100,Czech Republic
+2006,100,100,100,Czech Republic
+2007,100,100,100,Czech Republic
+2008,100,100,100,Czech Republic
+2009,100,100,100,Czech Republic
+2010,100,100,100,Czech Republic
+2011,100,100,100,Czech Republic
+2012,100,100,100,Czech Republic
+2013,100,100,100,Czech Republic
+2014,100,100,100,Czech Republic
+1990,100,100,100,Denmark
+1991,100,100,100,Denmark
+1992,100,100,100,Denmark
+1993,100,100,100,Denmark
+1994,100,100,100,Denmark
+1995,100,100,100,Denmark
+1996,100,100,100,Denmark
+1997,100,100,100,Denmark
+1998,100,100,100,Denmark
+1999,100,100,100,Denmark
+2000,100,100,100,Denmark
+2001,100,100,100,Denmark
+2002,100,100,100,Denmark
+2003,100,100,100,Denmark
+2004,100,100,100,Denmark
+2005,100,100,100,Denmark
+2006,100,100,100,Denmark
+2007,100,100,100,Denmark
+2008,100,100,100,Denmark
+2009,100,100,100,Denmark
+2010,100,100,100,Denmark
+2011,100,100,100,Denmark
+2012,100,100,100,Denmark
+2013,100,100,100,Denmark
+2014,100,100,100,Denmark
+1990,63.36,10.61,0,Djibouti
+1991,62.73,10.64,0,Djibouti
+1992,62.09,10.67,0,Djibouti
+1993,61.46,10.7,0,Djibouti
+1994,60.82,10.73,0,Djibouti
+1995,60.17,10.74,0,Djibouti
+1996,62,11.1,0,Djibouti
+1997,58.84,10.73,73.7,Djibouti
+1998,58.15,10.7,72.77,Djibouti
+1999,57.44,10.64,71.83,Djibouti
+2000,56.72,10.57,70.87,Djibouti
+2001,55.98,10.49,69.9,Djibouti
+2002,49.7,10.2,56.9,Djibouti
+2003,54.5,10.32,67.94,Djibouti
+2004,53.76,10.25,66.96,Djibouti
+2005,53.02,10.18,65.98,Djibouti
+2006,55.5,9.9,62.4,Djibouti
+2007,51.57,10.12,64.05,Djibouti
+2008,50.86,10.13,63.09,Djibouti
+2009,50.16,10.15,62.14,Djibouti
+2010,49.46,10.19,61.2,Djibouti
+2011,48.78,10.24,60.25,Djibouti
+2012,48.09,10.3,59.31,Djibouti
+2013,47.41,10.36,58.36,Djibouti
+2014,46.73,10.42,57.41,Djibouti
+1990,65.47,0,0,Dominica
+1991,67.02,0,0,Dominica
+1992,68.57,0,0,Dominica
+1993,70.12,0,0,Dominica
+1994,71.67,0,0,Dominica
+1995,73.2,0,0,Dominica
+1996,74.73,0,0,Dominica
+1997,76.24,0,0,Dominica
+1998,75,0,0,Dominica
+1999,79.21,0,0,Dominica
+2000,80.68,0,0,Dominica
+2001,82.13,0,0,Dominica
+2002,87.7,0,0,Dominica
+2003,85.01,0,0,Dominica
+2004,86.45,0,0,Dominica
+2005,87.9,0,0,Dominica
+2006,89.35,0,0,Dominica
+2007,90.82,0,0,Dominica
+2008,90.9,0,0,Dominica
+2009,93.78,0,0,Dominica
+2010,95.27,0,0,Dominica
+2011,96.77,0,0,Dominica
+2012,98.11,0,0,Dominica
+2013,99.19,0,0,Dominica
+2014,100,0,0,Dominica
+1990,79.11,53.15,0,Dominican Republic
+1991,78.2,48.4,96.5,Dominican Republic
+1992,81,57.2,99.88,Dominican Republic
+1993,81.94,59.23,99.76,Dominican Republic
+1994,82.88,61.24,99.37,Dominican Republic
+1995,83.81,63.25,98.94,Dominican Republic
+1996,84.72,65.24,98.58,Dominican Republic
+1997,85.63,67.22,98.28,Dominican Republic
+1998,86.51,69.18,98.02,Dominican Republic
+1999,91,76.6,98.9,Dominican Republic
+2000,88.76,73.79,96.57,Dominican Republic
+2001,89.79,76.37,96.95,Dominican Republic
+2002,89.75,76.72,96.67,Dominican Republic
+2003,89.17,78.6,95.04,Dominican Republic
+2004,90.32,80.45,95.52,Dominican Republic
+2005,90.14,80.8,95.18,Dominican Republic
+2006,90.12,81.99,94.39,Dominican Republic
+2007,96.88,91.85,99.61,Dominican Republic
+2008,97.58,93.31,99.57,Dominican Republic
+2009,97.86,93.9,99.73,Dominican Republic
+2010,98.15,94.68,99.77,Dominican Republic
+2011,97.9,94.01,99.72,Dominican Republic
+2012,97.87,94.21,99.65,Dominican Republic
+2013,98.39,95.23,99.88,Dominican Republic
+2014,98.47,95.64,99.86,Dominican Republic
+1990,88.81,72.81,0,Ecuador
+1991,89.3,73.84,0,Ecuador
+1992,89.78,74.87,0,Ecuador
+1993,90.26,75.89,0,Ecuador
+1994,90.74,76.91,0,Ecuador
+1995,89.83,74.88,97.91,Ecuador
+1996,91.66,78.91,100,Ecuador
+1997,92.11,79.89,100,Ecuador
+1998,92.73,81.98,99.63,Ecuador
+1999,93.07,82.36,99.29,Ecuador
+2000,93.34,82.71,100,Ecuador
+2001,93.72,83.62,100,Ecuador
+2002,94.09,84.53,100,Ecuador
+2003,94.97,85.87,99.29,Ecuador
+2004,94.84,86.36,100,Ecuador
+2005,95.83,87.72,99.67,Ecuador
+2006,96.32,89.44,99.53,Ecuador
+2007,96.81,90.7,99.63,Ecuador
+2008,97.21,92.14,99.59,Ecuador
+2009,96.47,91.16,98.98,Ecuador
+2010,97.46,92.66,99.72,Ecuador
+2011,96.87,91.16,99.78,Ecuador
+2012,97.19,92.33,99.63,Ecuador
+2013,98.03,94.73,99.55,Ecuador
+2014,98.98,97.05,99.83,Ecuador
+1990,93.8,89.13,0,Egypt
+1991,94.17,89.72,0,Egypt
+1992,93.4,87.9,98.4,Egypt
+1993,94.91,90.9,100,Egypt
+1994,95.27,91.48,100,Egypt
+1995,95.5,91.9,99,Egypt
+1996,95.97,92.61,100,Egypt
+1997,96.3,93.16,100,Egypt
+1998,96.62,93.68,100,Egypt
+1999,96.91,94.18,100,Egypt
+2000,97.7,95.9,99.5,Egypt
+2001,97.46,95.14,100,Egypt
+2002,97.73,95.62,100,Egypt
+2003,98.8,97.8,99.7,Egypt
+2004,98.25,96.57,100,Egypt
+2005,99.4,99.1,99.8,Egypt
+2006,99.04,97.58,100,Egypt
+2007,99.08,98.14,100,Egypt
+2008,99.8,99.3,99.9,Egypt
+2009,99.64,99.22,100,Egypt
+2010,99.84,99.63,100,Egypt
+2011,99.95,99.88,100,Egypt
+2012,99.99,99.98,100,Egypt
+2013,100,100,100,Egypt
+2014,99.8,99.8,99.9,Egypt
+1990,72.17,42.77,0,El Salvador
+1991,69.61,43.53,93.62,El Salvador
+1992,74.34,46.92,100,El Salvador
+1993,75.42,48.99,100,El Salvador
+1994,76.5,51.05,99.36,El Salvador
+1995,77,51.43,94.98,El Salvador
+1996,77.88,53.22,95.23,El Salvador
+1997,79.67,57.18,96.97,El Salvador
+1998,81.64,58.63,95.73,El Salvador
+1999,79.13,56.23,93.06,El Salvador
+2000,84.52,65.17,96.1,El Salvador
+2001,87.06,70.07,97.11,El Salvador
+2002,87.55,71.06,97.27,El Salvador
+2003,86.96,71.22,96.5,El Salvador
+2004,87.36,71.9,96.48,El Salvador
+2005,87.53,72.17,96.46,El Salvador
+2006,89.2,75.65,97.2,El Salvador
+2007,91.11,79.51,97.08,El Salvador
+2008,91,79.39,96.49,El Salvador
+2009,91.08,80.33,96.57,El Salvador
+2010,91.58,81.5,96.87,El Salvador
+2011,92.57,83.82,97.23,El Salvador
+2012,93.68,85.67,97.85,El Salvador
+2013,95.04,90,97.76,El Salvador
+2014,95.13,90.26,97.79,El Salvador
+1990,54.83,29.56,0,Equatorial Guinea
+1991,55.42,30.24,0,Equatorial Guinea
+1992,56.02,30.92,0,Equatorial Guinea
+1993,56.6,31.59,0,Equatorial Guinea
+1994,57.19,32.26,0,Equatorial Guinea
+1995,57.76,32.92,0,Equatorial Guinea
+1996,58.32,33.56,0,Equatorial Guinea
+1997,58.87,34.19,0,Equatorial Guinea
+1998,59.41,34.8,0,Equatorial Guinea
+1999,59.92,35.39,0,Equatorial Guinea
+2000,60.43,35.97,0,Equatorial Guinea
+2001,60.91,36.53,0,Equatorial Guinea
+2002,61.4,37.09,0,Equatorial Guinea
+2003,61.88,37.65,0,Equatorial Guinea
+2004,62.36,38.22,0,Equatorial Guinea
+2005,62.84,38.8,0,Equatorial Guinea
+2006,63.33,39.4,0,Equatorial Guinea
+2007,63.84,40.03,0,Equatorial Guinea
+2008,64.35,40.68,0,Equatorial Guinea
+2009,64.88,41.35,0,Equatorial Guinea
+2010,65.41,42.03,0,Equatorial Guinea
+2011,66.1,43,93.1,Equatorial Guinea
+2012,66.48,43.43,100,Equatorial Guinea
+2013,67.02,44.13,100,Equatorial Guinea
+2014,67.56,44.84,100,Equatorial Guinea
+1990,17.06,0.09,0,Eritrea
+1991,18.32,0.43,0,Eritrea
+1992,19.58,0.76,0,Eritrea
+1993,20.84,1.1,0,Eritrea
+1994,22.09,1.42,0,Eritrea
+1995,22.9,2.1,80.6,Eritrea
+1996,24.56,2.04,100,Eritrea
+1997,25.78,2.33,100,Eritrea
+1998,26.98,2.6,100,Eritrea
+1999,28.17,2.85,100,Eritrea
+2000,29.34,3.08,100,Eritrea
+2001,30.5,3.31,100,Eritrea
+2002,32.2,3,78.3,Eritrea
+2003,32.79,3.74,100,Eritrea
+2004,33.94,3.97,100,Eritrea
+2005,35.1,4.21,100,Eritrea
+2006,36.26,4.47,100,Eritrea
+2007,37.43,4.76,100,Eritrea
+2008,38.61,5.07,100,Eritrea
+2009,39.8,5.39,100,Eritrea
+2010,41,5.73,100,Eritrea
+2011,42.21,6.09,100,Eritrea
+2012,43.41,6.45,100,Eritrea
+2013,44.62,6.81,100,Eritrea
+2014,45.83,7.18,100,Eritrea
+1990,100,100,100,Estonia
+1991,100,100,100,Estonia
+1992,100,100,100,Estonia
+1993,100,100,100,Estonia
+1994,100,100,100,Estonia
+1995,100,100,100,Estonia
+1996,100,100,100,Estonia
+1997,100,100,100,Estonia
+1998,100,100,100,Estonia
+1999,100,100,100,Estonia
+2000,100,100,100,Estonia
+2001,100,100,100,Estonia
+2002,100,100,100,Estonia
+2003,100,100,100,Estonia
+2004,100,100,100,Estonia
+2005,100,100,100,Estonia
+2006,100,100,100,Estonia
+2007,100,100,100,Estonia
+2008,100,100,100,Estonia
+2009,100,100,100,Estonia
+2010,100,100,100,Estonia
+2011,100,100,100,Estonia
+2012,100,100,100,Estonia
+2013,100,100,100,Estonia
+2014,100,100,100,Estonia
+1990,0,0,0,Ethiopia
+1991,1.14,0,0,Ethiopia
+1992,2.29,0,0,Ethiopia
+1993,3.45,0,0,Ethiopia
+1994,4.59,0,0,Ethiopia
+1995,5.73,0,0,Ethiopia
+1996,6.86,0,0,Ethiopia
+1997,7.98,0,0,Ethiopia
+1998,9.08,0.01,0,Ethiopia
+1999,10.16,0.02,0,Ethiopia
+2000,12.7,0.4,76.2,Ethiopia
+2001,12.28,0.35,80.32,Ethiopia
+2002,13.33,0.71,84.17,Ethiopia
+2003,14.38,1.39,86.19,Ethiopia
+2004,15.42,2.08,88.12,Ethiopia
+2005,14,1.9,85.7,Ethiopia
+2006,17.53,3.5,91.72,Ethiopia
+2007,18.6,4.25,93.29,Ethiopia
+2008,19.68,5.02,93.82,Ethiopia
+2009,20.77,5.8,94.29,Ethiopia
+2010,21.86,6.61,94.7,Ethiopia
+2011,23,4.8,85.2,Ethiopia
+2012,24.07,8.24,95.41,Ethiopia
+2013,25.18,9.06,95.73,Ethiopia
+2014,27.2,12.2,91.98,Ethiopia
+1990,100,100,100,Faroe Islands
+1991,100,100,100,Faroe Islands
+1992,100,100,100,Faroe Islands
+1993,100,100,100,Faroe Islands
+1994,100,100,100,Faroe Islands
+1995,100,100,100,Faroe Islands
+1996,100,100,100,Faroe Islands
+1997,100,100,100,Faroe Islands
+1998,100,100,100,Faroe Islands
+1999,100,100,100,Faroe Islands
+2000,100,100,100,Faroe Islands
+2001,100,100,100,Faroe Islands
+2002,100,100,100,Faroe Islands
+2003,100,100,100,Faroe Islands
+2004,100,100,100,Faroe Islands
+2005,100,100,100,Faroe Islands
+2006,100,100,100,Faroe Islands
+2007,100,100,100,Faroe Islands
+2008,100,100,100,Faroe Islands
+2009,100,100,100,Faroe Islands
+2010,100,100,100,Faroe Islands
+2011,100,100,100,Faroe Islands
+2012,100,100,100,Faroe Islands
+2013,100,100,100,Faroe Islands
+2014,100,100,100,Faroe Islands
+1990,0,0,0,Falkland Islands
+1991,0,0,0,Falkland Islands
+1992,0,0,0,Falkland Islands
+1993,0,0,0,Falkland Islands
+1994,0,0,0,Falkland Islands
+1995,0,0,0,Falkland Islands
+1996,0,0,0,Falkland Islands
+1997,0,0,0,Falkland Islands
+1998,0,0,0,Falkland Islands
+1999,0,0,0,Falkland Islands
+2000,0,0,0,Falkland Islands
+2001,0,0,0,Falkland Islands
+2002,0,0,0,Falkland Islands
+2003,0,0,0,Falkland Islands
+2004,0,0,0,Falkland Islands
+2005,0,0,0,Falkland Islands
+2006,0,0,0,Falkland Islands
+2007,0,0,0,Falkland Islands
+2008,0,0,0,Falkland Islands
+2009,0,0,0,Falkland Islands
+2010,0,0,0,Falkland Islands
+2011,0,0,0,Falkland Islands
+2012,0,0,0,Falkland Islands
+2013,0,0,0,Falkland Islands
+2014,0,0,0,Falkland Islands
+1990,55.25,60.83,0,Fiji
+1991,57.24,61.51,0,Fiji
+1992,59.23,62.2,0,Fiji
+1993,61.22,62.88,0,Fiji
+1994,63.2,63.56,0,Fiji
+1995,65.17,64.23,0,Fiji
+1996,66.9,64.88,0,Fiji
+1997,69.09,65.52,73.15,Fiji
+1998,71.02,66.14,76.49,Fiji
+1999,72.94,66.74,79.78,Fiji
+2000,74.84,67.32,83.01,Fiji
+2001,76.72,67.89,86.18,Fiji
+2002,78.61,68.46,89.3,Fiji
+2003,80,69,92,Fiji
+2004,82.37,69.61,95.39,Fiji
+2005,84.25,70.2,98.37,Fiji
+2006,86.14,70.81,100,Fiji
+2007,88.9,71.44,100,Fiji
+2008,89.96,72.1,100,Fiji
+2009,91.88,72.78,100,Fiji
+2010,93.81,73.47,100,Fiji
+2011,95.75,74.17,100,Fiji
+2012,97.68,74.88,100,Fiji
+2013,98.92,75.6,100,Fiji
+2014,100,76.31,100,Fiji
+1990,100,100,100,Finland
+1991,100,100,100,Finland
+1992,100,100,100,Finland
+1993,100,100,100,Finland
+1994,100,100,100,Finland
+1995,100,100,100,Finland
+1996,100,100,100,Finland
+1997,100,100,100,Finland
+1998,100,100,100,Finland
+1999,100,100,100,Finland
+2000,100,100,100,Finland
+2001,100,100,100,Finland
+2002,100,100,100,Finland
+2003,100,100,100,Finland
+2004,100,100,100,Finland
+2005,100,100,100,Finland
+2006,100,100,100,Finland
+2007,100,100,100,Finland
+2008,100,100,100,Finland
+2009,100,100,100,Finland
+2010,100,100,100,Finland
+2011,100,100,100,Finland
+2012,100,100,100,Finland
+2013,100,100,100,Finland
+2014,100,100,100,Finland
+1990,100,100,100,France
+1991,100,100,100,France
+1992,100,100,100,France
+1993,100,100,100,France
+1994,100,100,100,France
+1995,100,100,100,France
+1996,100,100,100,France
+1997,100,100,100,France
+1998,100,100,100,France
+1999,100,100,100,France
+2000,100,100,100,France
+2001,100,100,100,France
+2002,100,100,100,France
+2003,100,100,100,France
+2004,100,100,100,France
+2005,100,100,100,France
+2006,100,100,100,France
+2007,100,100,100,France
+2008,100,100,100,France
+2009,100,100,100,France
+2010,100,100,100,France
+2011,100,100,100,France
+2012,100,100,100,France
+2013,100,100,100,France
+2014,100,100,100,France
+1990,0,0,0,French Guiana
+1991,0,0,0,French Guiana
+1992,0,0,0,French Guiana
+1993,0,0,0,French Guiana
+1994,0,0,0,French Guiana
+1995,0,0,0,French Guiana
+1996,0,0,0,French Guiana
+1997,0,0,0,French Guiana
+1998,0,0,0,French Guiana
+1999,0,0,0,French Guiana
+2000,0,0,0,French Guiana
+2001,0,0,0,French Guiana
+2002,0,0,0,French Guiana
+2003,0,0,0,French Guiana
+2004,0,0,0,French Guiana
+2005,0,0,0,French Guiana
+2006,0,0,0,French Guiana
+2007,0,0,0,French Guiana
+2008,0,0,0,French Guiana
+2009,0,0,0,French Guiana
+2010,0,0,0,French Guiana
+2011,0,0,0,French Guiana
+2012,0,0,0,French Guiana
+2013,0,0,0,French Guiana
+2014,0,0,0,French Guiana
+1990,100,100,100,French Polynesia
+1991,100,100,100,French Polynesia
+1992,100,100,100,French Polynesia
+1993,100,100,100,French Polynesia
+1994,100,100,100,French Polynesia
+1995,100,100,100,French Polynesia
+1996,100,100,100,French Polynesia
+1997,100,100,100,French Polynesia
+1998,100,100,100,French Polynesia
+1999,100,100,100,French Polynesia
+2000,100,100,100,French Polynesia
+2001,100,100,100,French Polynesia
+2002,100,100,100,French Polynesia
+2003,100,100,100,French Polynesia
+2004,100,100,100,French Polynesia
+2005,100,100,100,French Polynesia
+2006,100,100,100,French Polynesia
+2007,100,100,100,French Polynesia
+2008,100,100,100,French Polynesia
+2009,100,100,100,French Polynesia
+2010,100,100,100,French Polynesia
+2011,100,100,100,French Polynesia
+2012,100,100,100,French Polynesia
+2013,100,100,100,French Polynesia
+2014,100,100,100,French Polynesia
+1990,63.9,21.64,0,Gabon
+1991,65.03,22.54,0,Gabon
+1992,66.15,23.44,0,Gabon
+1993,67.28,24.34,0,Gabon
+1994,68.4,25.23,0,Gabon
+1995,69.51,26.12,0,Gabon
+1996,70.61,26.99,0,Gabon
+1997,71.69,27.84,0,Gabon
+1998,72.76,28.68,0,Gabon
+1999,73.81,29.49,0,Gabon
+2000,73.6,29.7,90.2,Gabon
+2001,75.88,31.08,86.49,Gabon
+2002,76.9,31.86,87.07,Gabon
+2003,77.91,32.65,87.69,Gabon
+2004,78.93,33.44,88.34,Gabon
+2005,81.6,34.6,93.2,Gabon
+2006,80.98,35.08,89.75,Gabon
+2007,82.02,35.93,90.51,Gabon
+2008,83.07,36.81,91.3,Gabon
+2009,84.13,37.7,92.12,Gabon
+2010,85.19,38.61,92.97,Gabon
+2011,86.27,39.53,93.84,Gabon
+2012,89.3,44.9,98.1,Gabon
+2013,86.4,37.4,94.3,Gabon
+2014,89.49,42.31,96.59,Gabon
+1990,16.77,21.39,0,Gambia
+1991,18.1,21.08,0,Gambia
+1992,19.43,20.77,0,Gambia
+1993,17.7,20.46,0,Gambia
+1994,22.08,20.14,24.7,Gambia
+1995,23.39,19.81,28.06,Gambia
+1996,24.69,19.47,31.27,Gambia
+1997,25.98,19.11,34.32,Gambia
+1998,27.25,18.73,37.22,Gambia
+1999,28.5,18.34,39.99,Gambia
+2000,34.3,18.19,51.16,Gambia
+2001,30.97,17.5,45.12,Gambia
+2002,32.19,17.07,47.51,Gambia
+2003,33.41,16.64,49.79,Gambia
+2004,34.63,16.22,51.97,Gambia
+2005,35.85,15.82,54.09,Gambia
+2006,37.08,15.43,56.14,Gambia
+2007,38.32,15.07,58.13,Gambia
+2008,39.57,14.73,60.07,Gambia
+2009,40.83,14.41,61.97,Gambia
+2010,42.1,14.1,63.84,Gambia
+2011,43.38,13.81,65.67,Gambia
+2012,44.65,13.52,67.47,Gambia
+2013,44.5,12.9,66.4,Gambia
+2014,47.21,12.96,71,Gambia
+1990,99,99.07,0,Georgia
+1991,99.11,99.16,0,Georgia
+1992,99.22,99.25,0,Georgia
+1993,99.32,99.33,0,Georgia
+1994,99.42,99.41,0,Georgia
+1995,99.5,99.47,0,Georgia
+1996,99.58,99.53,0,Georgia
+1997,99.65,99.57,0,Georgia
+1998,99.7,99.58,0,Georgia
+1999,99.73,99.58,0,Georgia
+2000,99.75,99.58,0,Georgia
+2001,99.76,99.56,0,Georgia
+2002,99.9,99.7,100,Georgia
+2003,99.76,99.51,99.99,Georgia
+2004,99.76,99.5,100,Georgia
+2005,99.77,99.5,100,Georgia
+2006,99.78,99.51,100,Georgia
+2007,99.8,99.54,100,Georgia
+2008,99.83,99.6,100,Georgia
+2009,99.86,99.67,100,Georgia
+2010,99.91,99.76,100,Georgia
+2011,99.95,99.85,100,Georgia
+2012,100,100,100,Georgia
+2013,99.99,99.98,100,Georgia
+2014,100,100,100,Georgia
+1990,100,100,100,Germany
+1991,100,100,100,Germany
+1992,100,100,100,Germany
+1993,100,100,100,Germany
+1994,100,100,100,Germany
+1995,100,100,100,Germany
+1996,100,100,100,Germany
+1997,100,100,100,Germany
+1998,100,100,100,Germany
+1999,100,100,100,Germany
+2000,100,100,100,Germany
+2001,100,100,100,Germany
+2002,100,100,100,Germany
+2003,100,100,100,Germany
+2004,100,100,100,Germany
+2005,100,100,100,Germany
+2006,100,100,100,Germany
+2007,100,100,100,Germany
+2008,100,100,100,Germany
+2009,100,100,100,Germany
+2010,100,100,100,Germany
+2011,100,100,100,Germany
+2012,100,100,100,Germany
+2013,100,100,100,Germany
+2014,100,100,100,Germany
+1990,23.88,0,0,Ghana
+1991,26,1.09,0,Ghana
+1992,28.13,3.41,0,Ghana
+1993,30.6,6,74.6,Ghana
+1994,32.36,8.03,69.8,Ghana
+1995,34.47,10.33,70.47,Ghana
+1996,36.57,12.62,71.19,Ghana
+1997,38.65,14.89,71.94,Ghana
+1998,42.6,20.9,82.4,Ghana
+1999,42.77,19.37,73.56,Ghana
+2000,44.81,21.58,74.45,Ghana
+2001,46.83,23.78,75.45,Ghana
+2002,48.85,25.98,76.48,Ghana
+2003,48.3,24.1,76.9,Ghana
+2004,52.87,30.39,78.6,Ghana
+2005,54.89,32.61,79.7,Ghana
+2006,56.92,34.86,80.83,Ghana
+2007,58.95,37.12,81.98,Ghana
+2008,60.5,38.2,84.8,Ghana
+2009,63.06,41.72,84.37,Ghana
+2010,65.12,44.04,85.61,Ghana
+2011,64.06,40.95,84.95,Ghana
+2012,69.26,48.72,88.18,Ghana
+2013,70.7,48.6,88.5,Ghana
+2014,78.3,63,90.8,Ghana
+1990,100,100,100,Gibraltar
+1991,100,100,100,Gibraltar
+1992,100,100,100,Gibraltar
+1993,100,100,100,Gibraltar
+1994,100,100,100,Gibraltar
+1995,100,100,100,Gibraltar
+1996,100,100,100,Gibraltar
+1997,100,100,100,Gibraltar
+1998,100,100,100,Gibraltar
+1999,100,100,100,Gibraltar
+2000,100,100,100,Gibraltar
+2001,100,100,100,Gibraltar
+2002,100,100,100,Gibraltar
+2003,100,100,100,Gibraltar
+2004,100,100,100,Gibraltar
+2005,100,100,100,Gibraltar
+2006,100,100,100,Gibraltar
+2007,100,100,100,Gibraltar
+2008,100,100,100,Gibraltar
+2009,100,100,100,Gibraltar
+2010,100,100,100,Gibraltar
+2011,100,100,100,Gibraltar
+2012,100,100,100,Gibraltar
+2013,100,100,100,Gibraltar
+2014,100,100,100,Gibraltar
+1990,100,100,100,Greece
+1991,100,100,100,Greece
+1992,100,100,100,Greece
+1993,100,100,100,Greece
+1994,100,100,100,Greece
+1995,100,100,100,Greece
+1996,100,100,100,Greece
+1997,100,100,100,Greece
+1998,100,100,100,Greece
+1999,100,100,100,Greece
+2000,100,100,100,Greece
+2001,100,100,100,Greece
+2002,100,100,100,Greece
+2003,100,100,100,Greece
+2004,100,100,100,Greece
+2005,100,100,100,Greece
+2006,100,100,100,Greece
+2007,100,100,100,Greece
+2008,100,100,100,Greece
+2009,100,100,100,Greece
+2010,100,100,100,Greece
+2011,100,100,100,Greece
+2012,100,100,100,Greece
+2013,100,100,100,Greece
+2014,100,100,100,Greece
+1990,100,100,100,Greenland
+1991,100,100,100,Greenland
+1992,100,100,100,Greenland
+1993,100,100,100,Greenland
+1994,100,100,100,Greenland
+1995,100,100,100,Greenland
+1996,100,100,100,Greenland
+1997,100,100,100,Greenland
+1998,100,100,100,Greenland
+1999,100,100,100,Greenland
+2000,100,100,100,Greenland
+2001,100,100,100,Greenland
+2002,100,100,100,Greenland
+2003,100,100,100,Greenland
+2004,100,100,100,Greenland
+2005,100,100,100,Greenland
+2006,100,100,100,Greenland
+2007,100,100,100,Greenland
+2008,100,100,100,Greenland
+2009,100,100,100,Greenland
+2010,100,100,100,Greenland
+2011,100,100,100,Greenland
+2012,100,100,100,Greenland
+2013,100,100,100,Greenland
+2014,100,100,100,Greenland
+1990,75.61,0,0,Grenada
+1991,76.3,0,0,Grenada
+1992,77,0,0,Grenada
+1993,77.69,0,0,Grenada
+1994,78.37,0,0,Grenada
+1995,79.05,0,0,Grenada
+1996,79.72,0,0,Grenada
+1997,80.37,0,0,Grenada
+1998,81.01,0,0,Grenada
+1999,81.63,0,0,Grenada
+2000,82.23,0,0,Grenada
+2001,82.82,0,0,Grenada
+2002,83.41,0,0,Grenada
+2003,83.99,0,0,Grenada
+2004,84.57,0,0,Grenada
+2005,85.16,0,0,Grenada
+2006,85.76,0,0,Grenada
+2007,86.36,0,0,Grenada
+2008,86.98,0,0,Grenada
+2009,87.61,0,0,Grenada
+2010,88.24,0,0,Grenada
+2011,88.8,0,0,Grenada
+2012,89.52,0,0,Grenada
+2013,90.16,0,0,Grenada
+2014,90.81,0,0,Grenada
+1990,0,0,0,Guadeloupe
+1991,0,0,0,Guadeloupe
+1992,0,0,0,Guadeloupe
+1993,0,0,0,Guadeloupe
+1994,0,0,0,Guadeloupe
+1995,0,0,0,Guadeloupe
+1996,0,0,0,Guadeloupe
+1997,0,0,0,Guadeloupe
+1998,0,0,0,Guadeloupe
+1999,0,0,0,Guadeloupe
+2000,0,0,0,Guadeloupe
+2001,0,0,0,Guadeloupe
+2002,0,0,0,Guadeloupe
+2003,0,0,0,Guadeloupe
+2004,0,0,0,Guadeloupe
+2005,0,0,0,Guadeloupe
+2006,0,0,0,Guadeloupe
+2007,0,0,0,Guadeloupe
+2008,0,0,0,Guadeloupe
+2009,0,0,0,Guadeloupe
+2010,0,0,0,Guadeloupe
+2011,0,0,0,Guadeloupe
+2012,0,0,0,Guadeloupe
+2013,0,0,0,Guadeloupe
+2014,0,0,0,Guadeloupe
+1990,0,0,0,Guam
+1991,0,0,0,Guam
+1992,0,0,0,Guam
+1993,0,0,0,Guam
+1994,0,0,0,Guam
+1995,100,100,100,Guam
+1996,100,100,100,Guam
+1997,100,100,100,Guam
+1998,100,100,100,Guam
+1999,100,100,100,Guam
+2000,100,100,100,Guam
+2001,100,100,100,Guam
+2002,100,100,100,Guam
+2003,100,100,100,Guam
+2004,100,100,100,Guam
+2005,100,100,100,Guam
+2006,100,100,100,Guam
+2007,100,100,100,Guam
+2008,100,100,100,Guam
+2009,100,100,100,Guam
+2010,100,100,100,Guam
+2011,100,100,100,Guam
+2012,100,100,100,Guam
+2013,100,100,100,Guam
+2014,100,100,100,Guam
+1990,60.16,39.94,0,Guatemala
+1991,61.43,41.65,0,Guatemala
+1992,62.7,43.35,0,Guatemala
+1993,63.97,45.06,0,Guatemala
+1994,65.23,46.75,0,Guatemala
+1995,60.8,40.1,88.9,Guatemala
+1996,67.72,50.11,90.59,Guatemala
+1997,68.95,51.77,90.9,Guatemala
+1998,70.17,53.41,91.22,Guatemala
+1999,70.9,54,91.3,Guatemala
+2000,73.32,56.38,95.4,Guatemala
+2001,73.71,58.22,92.24,Guatemala
+2002,78.67,67.08,95.71,Guatemala
+2003,78.51,66.14,96.03,Guatemala
+2004,77.19,62.99,93.35,Guatemala
+2005,78.35,64.6,93.75,Guatemala
+2006,83.73,71.35,94.41,Guatemala
+2007,80.71,67.89,94.58,Guatemala
+2008,81.9,69.57,95.02,Guatemala
+2009,83.1,71.26,95.48,Guatemala
+2010,84.31,72.97,95.96,Guatemala
+2011,84.03,72.11,94.6,Guatemala
+2012,86.74,76.43,96.97,Guatemala
+2013,87.96,78.16,97.51,Guatemala
+2014,85.49,74.82,94.46,Guatemala
+1990,8.83,0.18,0,Guinea
+1991,9.68,0.38,0,Guinea
+1992,10.52,0.58,0,Guinea
+1993,11.36,0.77,0,Guinea
+1994,12.2,0.96,0,Guinea
+1995,13.02,1.14,0,Guinea
+1996,13.84,1.31,0,Guinea
+1997,14.65,1.46,0,Guinea
+1998,15.43,1.59,0,Guinea
+1999,16.4,1.5,53.8,Guinea
+2000,16.96,1.8,50.67,Guinea
+2001,17.7,1.88,52.33,Guinea
+2002,18.44,1.96,53.93,Guinea
+2003,19.17,2.04,55.46,Guinea
+2004,19.9,2.13,56.93,Guinea
+2005,20.2,2.8,63.8,Guinea
+2006,21.39,2.36,59.67,Guinea
+2007,22.14,2.51,60.95,Guinea
+2008,22.91,2.68,62.17,Guinea
+2009,23.69,2.87,63.34,Guinea
+2010,24.47,3.07,64.46,Guinea
+2011,25.26,3.29,65.54,Guinea
+2012,26.2,2.9,74.2,Guinea
+2013,26.85,3.74,67.56,Guinea
+2014,27.64,3.96,68.51,Guinea
+1990,0,0,0,Guinea Bissau
+1991,0,0.06,0,Guinea Bissau
+1992,0,0.17,0,Guinea Bissau
+1993,0,0.34,0,Guinea Bissau
+1994,0,0.56,0,Guinea Bissau
+1995,0,0.78,0,Guinea Bissau
+1996,0,0.99,0,Guinea Bissau
+1997,0,1.18,0,Guinea Bissau
+1998,0,1.35,0,Guinea Bissau
+1999,0,1.51,0,Guinea Bissau
+2000,0,1.64,0,Guinea Bissau
+2001,0,1.77,0,Guinea Bissau
+2002,0,1.89,0,Guinea Bissau
+2003,0,2.02,0,Guinea Bissau
+2004,0.02,2.15,0,Guinea Bissau
+2005,0.08,2.3,0,Guinea Bissau
+2006,0.41,2.46,0,Guinea Bissau
+2007,1.29,2.65,0,Guinea Bissau
+2008,2.6,2.87,0,Guinea Bissau
+2009,4.7,3.1,0,Guinea Bissau
+2010,6,3.5,11.8,Guinea Bissau
+2011,9.37,3.6,16.11,Guinea Bissau
+2012,11.63,3.87,20.41,Guinea Bissau
+2013,13.9,4.14,24.58,Guinea Bissau
+2014,17.2,4,33.1,Guinea Bissau
+1990,69.18,58.77,0,Guyana
+1991,69.85,59.77,0,Guyana
+1992,70.53,60.78,0,Guyana
+1993,72.38,61.7,90.4,Guyana
+1994,71.87,62.79,93.87,Guyana
+1995,72.53,63.78,93.82,Guyana
+1996,73.18,64.75,93.77,Guyana
+1997,73.82,65.71,93.69,Guyana
+1998,74.44,66.65,93.61,Guyana
+1999,75.04,67.57,93.5,Guyana
+2000,75.62,68.48,93.38,Guyana
+2001,76.2,69.37,93.24,Guyana
+2002,76.77,70.26,93.08,Guyana
+2003,77.33,71.15,92.89,Guyana
+2004,77.9,72.05,92.67,Guyana
+2005,77.5,75.5,81.6,Guyana
+2006,79.05,73.9,92.12,Guyana
+2007,79.64,74.86,91.79,Guyana
+2008,80.24,75.84,91.43,Guyana
+2009,77.6,72.3,90.9,Guyana
+2010,81.46,77.85,90.65,Guyana
+2011,82.08,78.87,90.23,Guyana
+2012,82.71,79.9,89.8,Guyana
+2013,83.33,80.94,89.37,Guyana
+2014,86.9,84,94.4,Guyana
+1990,28.44,0.38,0,Haiti
+1991,28.9,1.12,0,Haiti
+1992,29.35,1.86,0,Haiti
+1993,29.81,2.6,0,Haiti
+1994,30.25,3.33,0,Haiti
+1995,31.3,3.9,76.5,Haiti
+1996,31.12,4.77,84.16,Haiti
+1997,31.54,5.46,82.64,Haiti
+1998,31.94,6.14,81.17,Haiti
+1999,32.32,6.79,79.75,Haiti
+2000,33.7,5.2,81.9,Haiti
+2001,31.54,10.44,62.46,Haiti
+2002,33.39,8.68,72.15,Haiti
+2003,33.74,9.3,69.42,Haiti
+2004,34.08,9.93,66.91,Haiti
+2005,34.43,10.58,64.68,Haiti
+2006,33.9,11.7,68.9,Haiti
+2007,35.16,11.94,60.93,Haiti
+2008,35.54,12.65,59.38,Haiti
+2009,35.93,13.38,58,Haiti
+2010,36.32,14.13,56.79,Haiti
+2011,36.72,14.89,55.73,Haiti
+2012,37.9,15.2,72.6,Haiti
+2013,37.53,16.42,54.01,Haiti
+2014,37.94,17.19,53.31,Haiti
+1990,55.11,25.88,0,Honduras
+1991,54.78,28.94,88.7,Honduras
+1992,58.91,32.04,89.85,Honduras
+1993,61.1,36.34,92.08,Honduras
+1994,64.73,42.13,92.14,Honduras
+1995,66.12,43.25,93.26,Honduras
+1996,61.68,34.07,93.88,Honduras
+1997,64.79,37.96,95.07,Honduras
+1998,66.86,40.51,96.04,Honduras
+1999,67.39,41.93,95.32,Honduras
+2000,67.51,43.35,96.49,Honduras
+2001,68.68,45.02,96.49,Honduras
+2002,63.14,34.15,93.14,Honduras
+2003,65.09,37.12,94.47,Honduras
+2004,67.11,40.1,95.89,Honduras
+2005,68.9,42.35,96.04,Honduras
+2006,71.27,46.94,96.86,Honduras
+2007,73.55,50.45,97.54,Honduras
+2008,76.4,55.27,97.96,Honduras
+2009,78.27,59.19,97.92,Honduras
+2010,80.98,63.87,98.76,Honduras
+2011,82.2,65.76,99.17,Honduras
+2012,83.61,69.22,98.49,Honduras
+2013,87.18,75.78,98.99,Honduras
+2014,88.65,76.32,98.76,Honduras
+1990,100,100,100,Hong Kong S.A.R.
+1991,100,100,100,Hong Kong S.A.R.
+1992,100,100,100,Hong Kong S.A.R.
+1993,100,100,100,Hong Kong S.A.R.
+1994,100,100,100,Hong Kong S.A.R.
+1995,100,100,100,Hong Kong S.A.R.
+1996,100,100,100,Hong Kong S.A.R.
+1997,100,100,100,Hong Kong S.A.R.
+1998,100,100,100,Hong Kong S.A.R.
+1999,100,100,100,Hong Kong S.A.R.
+2000,100,100,100,Hong Kong S.A.R.
+2001,100,100,100,Hong Kong S.A.R.
+2002,100,100,100,Hong Kong S.A.R.
+2003,100,100,100,Hong Kong S.A.R.
+2004,100,100,100,Hong Kong S.A.R.
+2005,100,100,100,Hong Kong S.A.R.
+2006,100,100,100,Hong Kong S.A.R.
+2007,100,100,100,Hong Kong S.A.R.
+2008,100,100,100,Hong Kong S.A.R.
+2009,100,100,100,Hong Kong S.A.R.
+2010,100,100,100,Hong Kong S.A.R.
+2011,100,100,100,Hong Kong S.A.R.
+2012,100,100,100,Hong Kong S.A.R.
+2013,100,100,100,Hong Kong S.A.R.
+2014,100,100,100,Hong Kong S.A.R.
+1990,100,100,100,Hungary
+1991,100,100,100,Hungary
+1992,100,100,100,Hungary
+1993,100,100,100,Hungary
+1994,100,100,100,Hungary
+1995,100,100,100,Hungary
+1996,100,100,100,Hungary
+1997,100,100,100,Hungary
+1998,100,100,100,Hungary
+1999,100,100,100,Hungary
+2000,100,100,100,Hungary
+2001,100,100,100,Hungary
+2002,100,100,100,Hungary
+2003,100,100,100,Hungary
+2004,100,100,100,Hungary
+2005,100,100,100,Hungary
+2006,100,100,100,Hungary
+2007,100,100,100,Hungary
+2008,100,100,100,Hungary
+2009,100,100,100,Hungary
+2010,100,100,100,Hungary
+2011,100,100,100,Hungary
+2012,100,100,100,Hungary
+2013,100,100,100,Hungary
+2014,100,100,100,Hungary
+1990,100,100,100,Iceland
+1991,100,100,100,Iceland
+1992,100,100,100,Iceland
+1993,100,100,100,Iceland
+1994,100,100,100,Iceland
+1995,100,100,100,Iceland
+1996,100,100,100,Iceland
+1997,100,100,100,Iceland
+1998,100,100,100,Iceland
+1999,100,100,100,Iceland
+2000,100,100,100,Iceland
+2001,100,100,100,Iceland
+2002,100,100,100,Iceland
+2003,100,100,100,Iceland
+2004,100,100,100,Iceland
+2005,100,100,100,Iceland
+2006,100,100,100,Iceland
+2007,100,100,100,Iceland
+2008,100,100,100,Iceland
+2009,100,100,100,Iceland
+2010,100,100,100,Iceland
+2011,100,100,100,Iceland
+2012,100,100,100,Iceland
+2013,100,100,100,Iceland
+2014,100,100,100,Iceland
+1990,45.06,31.93,0,India
+1991,46.54,33.56,0,India
+1992,48.03,35.19,0,India
+1993,50.9,38.7,82.8,India
+1994,50.98,38.43,85.96,India
+1995,52.44,40.04,86.65,India
+1996,53.9,41.64,87.35,India
+1997,55.34,43.22,88.06,India
+1998,56.76,44.78,88.77,India
+1999,60.1,48.1,91.3,India
+2000,59.56,47.85,90.19,India
+2001,55.8,43.6,87.6,India
+2002,62.3,50.87,91.34,India
+2003,63.69,52.38,91.95,India
+2004,64.4,53.9,90.23,India
+2005,66.43,55.43,93.05,India
+2006,67.9,55.7,93.1,India
+2007,69.21,58.57,94.16,India
+2008,70.62,60.17,94.71,India
+2009,75,66,96.1,India
+2010,76.3,65.7,94,India
+2011,67.6,55.8,92.9,India
+2012,79.9,72.7,96.1,India
+2013,77.74,68.37,97.64,India
+2014,79.17,70.03,98.27,India
+1990,60.34,43.52,0,Indonesia
+1991,48.9,32.8,87.6,Indonesia
+1992,64.03,48.25,96.51,Indonesia
+1993,55.43,50.61,64.88,Indonesia
+1994,62.8,49.4,94.6,Indonesia
+1995,66.86,55.3,87.34,Indonesia
+1996,72.39,57.64,97.26,Indonesia
+1997,80.3,73.4,97.5,Indonesia
+1998,80.94,62.25,100,Indonesia
+1999,83.73,64.52,100,Indonesia
+2000,86.3,66.78,100,Indonesia
+2001,86.26,69.03,100,Indonesia
+2002,87.6,71.28,100,Indonesia
+2003,87.94,84.5,98.1,Indonesia
+2004,89.01,75.78,100,Indonesia
+2005,87.13,78.05,97.82,Indonesia
+2006,90.62,80.33,100,Indonesia
+2007,91.1,86.1,98.2,Indonesia
+2008,92.73,84.98,100,Indonesia
+2009,93.55,88.5,98.9,Indonesia
+2010,94.15,89.39,98.96,Indonesia
+2011,94.83,90.4,99.35,Indonesia
+2012,96,92.9,99.2,Indonesia
+2013,96.46,93.28,99.67,Indonesia
+2014,97.01,94.29,99.74,Indonesia
+1990,96.15,94.11,0,Iran
+1991,96.35,94.18,0,Iran
+1992,96.55,94.26,0,Iran
+1993,96.74,94.33,0,Iran
+1994,96.93,94.39,0,Iran
+1995,97.11,94.45,0,Iran
+1996,97.28,94.49,0,Iran
+1997,97.44,94.52,0,Iran
+1998,97.58,94.53,0,Iran
+1999,97.7,94.51,0,Iran
+2000,97.9,94.6,100,Iran
+2001,97.91,94.44,99.79,Iran
+2002,98,94.4,99.89,Iran
+2003,98.08,94.36,99.99,Iran
+2004,98.17,94.32,100,Iran
+2005,98.26,94.3,100,Iran
+2006,98.4,94.53,100,Iran
+2007,98.47,94.33,100,Iran
+2008,98.59,94.37,100,Iran
+2009,98.72,94.44,100,Iran
+2010,98.86,94.52,100,Iran
+2011,99,94.61,100,Iran
+2012,99.15,94.71,100,Iran
+2013,99.29,94.81,100,Iran
+2014,99.44,94.91,100,Iran
+1990,95.33,81.98,0,Iraq
+1991,95.54,82.61,0,Iraq
+1992,95.74,83.24,0,Iraq
+1993,95.95,83.87,0,Iraq
+1994,96.14,84.49,0,Iraq
+1995,96.33,85.1,0,Iraq
+1996,96.51,85.69,0,Iraq
+1997,96.67,86.27,0,Iraq
+1998,96.82,86.83,0,Iraq
+1999,96.95,87.37,0,Iraq
+2000,97.06,87.9,0,Iraq
+2001,97.17,88.41,0,Iraq
+2002,97.26,88.92,0,Iraq
+2003,97.36,89.43,0,Iraq
+2004,97.45,89.95,0,Iraq
+2005,97.55,90.49,0,Iraq
+2006,97.65,91.04,0,Iraq
+2007,98.1,91.62,0,Iraq
+2008,97.9,92.22,100,Iraq
+2009,98.04,92.84,100,Iraq
+2010,98.18,93.47,100,Iraq
+2011,98,94.09,100,Iraq
+2012,98.48,94.77,100,Iraq
+2013,98.64,95.42,100,Iraq
+2014,98.79,96.08,99.99,Iraq
+1990,100,100,100,Ireland
+1991,100,100,100,Ireland
+1992,100,100,100,Ireland
+1993,100,100,100,Ireland
+1994,100,100,100,Ireland
+1995,100,100,100,Ireland
+1996,100,100,100,Ireland
+1997,100,100,100,Ireland
+1998,100,100,100,Ireland
+1999,100,100,100,Ireland
+2000,100,100,100,Ireland
+2001,100,100,100,Ireland
+2002,100,100,100,Ireland
+2003,100,100,100,Ireland
+2004,100,100,100,Ireland
+2005,100,100,100,Ireland
+2006,100,100,100,Ireland
+2007,100,100,100,Ireland
+2008,100,100,100,Ireland
+2009,100,100,100,Ireland
+2010,100,100,100,Ireland
+2011,100,100,100,Ireland
+2012,100,100,100,Ireland
+2013,100,100,100,Ireland
+2014,100,100,100,Ireland
+1990,100,100,100,Isle of Man
+1991,100,100,100,Isle of Man
+1992,100,100,100,Isle of Man
+1993,100,100,100,Isle of Man
+1994,100,100,100,Isle of Man
+1995,100,100,100,Isle of Man
+1996,100,100,100,Isle of Man
+1997,100,100,100,Isle of Man
+1998,100,100,100,Isle of Man
+1999,100,100,100,Isle of Man
+2000,100,100,100,Isle of Man
+2001,100,100,100,Isle of Man
+2002,100,100,100,Isle of Man
+2003,100,100,100,Isle of Man
+2004,100,100,100,Isle of Man
+2005,100,100,100,Isle of Man
+2006,100,100,100,Isle of Man
+2007,100,100,100,Isle of Man
+2008,100,100,100,Isle of Man
+2009,100,100,100,Isle of Man
+2010,100,100,100,Isle of Man
+2011,100,100,100,Isle of Man
+2012,100,100,100,Isle of Man
+2013,100,100,100,Isle of Man
+2014,100,100,100,Isle of Man
+1990,100,100,100,Israel
+1991,100,100,100,Israel
+1992,100,100,100,Israel
+1993,100,100,100,Israel
+1994,100,100,100,Israel
+1995,100,100,100,Israel
+1996,100,100,100,Israel
+1997,100,100,100,Israel
+1998,100,100,100,Israel
+1999,100,100,100,Israel
+2000,100,100,100,Israel
+2001,100,100,100,Israel
+2002,100,100,100,Israel
+2003,100,100,100,Israel
+2004,100,100,100,Israel
+2005,100,100,100,Israel
+2006,100,100,100,Israel
+2007,100,100,100,Israel
+2008,100,100,100,Israel
+2009,100,100,100,Israel
+2010,100,100,100,Israel
+2011,100,100,100,Israel
+2012,100,100,100,Israel
+2013,100,100,100,Israel
+2014,100,100,100,Israel
+1990,100,100,100,Italy
+1991,100,100,100,Italy
+1992,100,100,100,Italy
+1993,100,100,100,Italy
+1994,100,100,100,Italy
+1995,100,100,100,Italy
+1996,100,100,100,Italy
+1997,100,100,100,Italy
+1998,100,100,100,Italy
+1999,100,100,100,Italy
+2000,100,100,100,Italy
+2001,100,100,100,Italy
+2002,100,100,100,Italy
+2003,100,100,100,Italy
+2004,100,100,100,Italy
+2005,100,100,100,Italy
+2006,100,100,100,Italy
+2007,100,100,100,Italy
+2008,100,100,100,Italy
+2009,100,100,100,Italy
+2010,100,100,100,Italy
+2011,100,100,100,Italy
+2012,100,100,100,Italy
+2013,100,100,100,Italy
+2014,100,100,100,Italy
+1990,70.33,53.2,82.11,Jamaica
+1991,76.28,62.17,90.59,Jamaica
+1992,77.25,63.88,90.68,Jamaica
+1993,78.22,65.58,90.78,Jamaica
+1994,79.18,67.28,90.9,Jamaica
+1995,80.13,68.96,91.02,Jamaica
+1996,85.71,75.91,92.36,Jamaica
+1997,82,72.3,91.28,Jamaica
+1998,82.91,73.93,91.41,Jamaica
+1999,84.55,79.39,88.5,Jamaica
+2000,84.68,77.15,91.68,Jamaica
+2001,87.71,81.82,92.72,Jamaica
+2002,86.68,81.57,92.64,Jamaica
+2003,87.26,81.92,92.11,Jamaica
+2004,88.12,83.52,92.26,Jamaica
+2005,88.98,85.13,92.42,Jamaica
+2006,89.85,86.76,92.59,Jamaica
+2007,90.73,88.41,92.77,Jamaica
+2008,92,83.87,99.5,Jamaica
+2009,92.52,91.79,93.16,Jamaica
+2010,93.43,93.5,93.37,Jamaica
+2011,91.1,95.22,87.58,Jamaica
+2012,95.26,96.95,93.83,Jamaica
+2013,96.18,98.5,94.23,Jamaica
+2014,97.1,100,94.68,Jamaica
+1990,100,100,100,Japan
+1991,100,100,100,Japan
+1992,100,100,100,Japan
+1993,100,100,100,Japan
+1994,100,100,100,Japan
+1995,100,100,100,Japan
+1996,100,100,100,Japan
+1997,100,100,100,Japan
+1998,100,100,100,Japan
+1999,100,100,100,Japan
+2000,100,100,100,Japan
+2001,100,100,100,Japan
+2002,100,100,100,Japan
+2003,100,100,100,Japan
+2004,100,100,100,Japan
+2005,100,100,100,Japan
+2006,100,100,100,Japan
+2007,100,100,100,Japan
+2008,100,100,100,Japan
+2009,100,100,100,Japan
+2010,100,100,100,Japan
+2011,100,100,100,Japan
+2012,100,100,100,Japan
+2013,100,100,100,Japan
+2014,100,100,100,Japan
+1990,96.8,90,99.23,Jordan
+1991,97.48,91.59,99.5,Jordan
+1992,97.65,92.06,99.46,Jordan
+1993,97.82,92.52,99.44,Jordan
+1994,97.99,92.98,99.42,Jordan
+1995,98.14,93.43,99.44,Jordan
+1996,98.29,93.87,99.48,Jordan
+1997,98.9,94.4,99.8,Jordan
+1998,98.53,94.69,99.54,Jordan
+1999,98.64,95.07,99.55,Jordan
+2000,98.72,95.43,99.56,Jordan
+2001,98.8,95.79,99.55,Jordan
+2002,99.5,98.7,99.7,Jordan
+2003,98.94,96.49,99.52,Jordan
+2004,99.17,96.85,99.72,Jordan
+2005,99.07,97.22,99.5,Jordan
+2006,99.15,97.62,99.5,Jordan
+2007,98.8,97.8,99,Jordan
+2008,99.33,98.49,99.52,Jordan
+2009,99.4,98.67,99.6,Jordan
+2010,99.55,99.37,99.59,Jordan
+2011,99.67,99.7,99.66,Jordan
+2012,99.5,99.4,99.5,Jordan
+2013,99.9,99.98,99.88,Jordan
+2014,100,100,100,Jordan
+1990,97.65,96.01,0,Kazakhstan
+1991,97.82,96.23,0,Kazakhstan
+1992,97.98,96.45,0,Kazakhstan
+1993,98.14,96.66,0,Kazakhstan
+1994,98.29,96.87,0,Kazakhstan
+1995,99.9,99.9,99.9,Kazakhstan
+1996,98.57,97.25,99.6,Kazakhstan
+1997,98.69,97.42,99.69,Kazakhstan
+1998,98.79,97.57,99.76,Kazakhstan
+1999,97,93.9,99.4,Kazakhstan
+2000,98.96,97.81,99.87,Kazakhstan
+2001,99.02,97.92,99.91,Kazakhstan
+2002,99.08,98.01,99.94,Kazakhstan
+2003,99.14,98.12,99.97,Kazakhstan
+2004,99.19,98.23,99.98,Kazakhstan
+2005,99.25,98.36,99.99,Kazakhstan
+2006,99.32,98.5,100,Kazakhstan
+2007,99.39,98.67,100,Kazakhstan
+2008,99.48,98.85,100,Kazakhstan
+2009,100,100,100,Kazakhstan
+2010,99.67,99.28,100,Kazakhstan
+2011,99.78,99.5,100,Kazakhstan
+2012,99.88,99.72,100,Kazakhstan
+2013,99.95,99.88,100,Kazakhstan
+2014,100,100,100,Kazakhstan
+1990,5.61,0.98,0,Kenya
+1991,6.65,1.42,0,Kenya
+1992,7.69,1.86,0,Kenya
+1993,10.9,3.4,42.5,Kenya
+1994,9.77,2.72,41.98,Kenya
+1995,10.79,3.14,45.06,Kenya
+1996,11.81,3.54,48.03,Kenya
+1997,12.81,3.93,50.92,Kenya
+1998,14.5,4.3,47.5,Kenya
+1999,14.76,4.65,56.38,Kenya
+2000,15.72,4.98,58.94,Kenya
+2001,16.66,5.31,61.4,Kenya
+2002,17.59,5.62,63.75,Kenya
+2003,16,4.6,50.2,Kenya
+2004,19.46,6.27,68.14,Kenya
+2005,20.39,6.61,70.18,Kenya
+2006,21.34,6.98,72.12,Kenya
+2007,22.29,7.36,73.96,Kenya
+2008,23.26,7.77,75.7,Kenya
+2009,23,8.1,65.6,Kenya
+2010,19.2,6.7,58.2,Kenya
+2011,26.2,9.09,80.48,Kenya
+2012,27.19,9.55,81.94,Kenya
+2013,28.19,10.02,83.34,Kenya
+2014,36,12.6,68.4,Kenya
+1990,95.15,94.51,0,Kiribati
+1991,93.25,91.53,0,Kiribati
+1992,91.35,88.56,0,Kiribati
+1993,89.45,85.59,0,Kiribati
+1994,87.54,82.61,0,Kiribati
+1995,85.62,79.62,0,Kiribati
+1996,83.69,76.61,0,Kiribati
+1997,81.75,73.6,0,Kiribati
+1998,79.79,70.56,0,Kiribati
+1999,77.82,67.5,0,Kiribati
+2000,75.83,64.42,0,Kiribati
+2001,73.83,61.34,0,Kiribati
+2002,71.82,58.25,0,Kiribati
+2003,69.8,55.16,0,Kiribati
+2004,67.79,52.08,0,Kiribati
+2005,69.68,55.33,93.61,Kiribati
+2006,63.79,45.96,86.87,Kiribati
+2007,61.8,42.94,86.19,Kiribati
+2008,59.82,39.94,85.49,Kiribati
+2009,46.4,19.7,89.8,Kiribati
+2010,63.17,44.23,89.55,Kiribati
+2011,53.93,31.04,83.24,Kiribati
+2012,51.98,28.09,82.45,Kiribati
+2013,50.03,25.15,81.63,Kiribati
+2014,48.08,22.2,80.78,Kiribati
+1990,4.37,0,0,North Korea
+1991,5.6,0,0,North Korea
+1992,6.82,0,0,North Korea
+1993,8.05,0,0,North Korea
+1994,9.27,0,0,North Korea
+1995,10.48,0,0,North Korea
+1996,11.68,0,0,North Korea
+1997,12.87,0,0,North Korea
+1998,14.04,0,0,North Korea
+1999,15.19,0,0,North Korea
+2000,16.33,0,0,North Korea
+2001,17.45,0,0,North Korea
+2002,18.57,0,0,North Korea
+2003,19.69,0,0,North Korea
+2004,20.8,0,0,North Korea
+2005,21.92,0,0,North Korea
+2006,23.05,0,0,North Korea
+2007,24.19,0,0,North Korea
+2008,25.34,0,0,North Korea
+2009,26,0,0,North Korea
+2010,27.67,0,0,North Korea
+2011,28.84,0,0,North Korea
+2012,30.02,0,0,North Korea
+2013,31.2,0,0,North Korea
+2014,32.37,0,0,North Korea
+1990,0,0,0,South Korea
+1991,0,0,0,South Korea
+1992,0,0,0,South Korea
+1993,0,0,0,South Korea
+1994,0,0,0,South Korea
+1995,100,100,100,South Korea
+1996,100,100,100,South Korea
+1997,100,100,100,South Korea
+1998,100,100,100,South Korea
+1999,100,100,100,South Korea
+2000,100,100,100,South Korea
+2001,100,100,100,South Korea
+2002,100,100,100,South Korea
+2003,100,100,100,South Korea
+2004,100,100,100,South Korea
+2005,100,100,100,South Korea
+2006,100,100,100,South Korea
+2007,100,100,100,South Korea
+2008,100,100,100,South Korea
+2009,100,100,100,South Korea
+2010,100,100,100,South Korea
+2011,100,100,100,South Korea
+2012,100,100,100,South Korea
+2013,100,100,100,South Korea
+2014,100,100,100,South Korea
+1990,87.09,99.84,0,Kosovo
+1991,87.75,99.89,0,Kosovo
+1992,88.41,99.94,0,Kosovo
+1993,89.06,99.98,0,Kosovo
+1994,89.71,99.99,0,Kosovo
+1995,90.35,100,0,Kosovo
+1996,90.98,100,0,Kosovo
+1997,91.6,100,0,Kosovo
+1998,92.2,100,0,Kosovo
+1999,92.78,100,0,Kosovo
+2000,93.35,99.99,0,Kosovo
+2001,93.91,99.98,0,Kosovo
+2002,94.46,99.95,0,Kosovo
+2003,95,99.9,0,Kosovo
+2004,95.55,99.86,0,Kosovo
+2005,96.1,99.84,0,Kosovo
+2006,96.66,99.84,0,Kosovo
+2007,97.23,99.84,0,Kosovo
+2008,97.81,99.86,0,Kosovo
+2009,98.4,99.9,0,Kosovo
+2010,99,99.95,0,Kosovo
+2011,99.46,99.98,0,Kosovo
+2012,99.79,99.99,0,Kosovo
+2013,99.95,100,0,Kosovo
+2014,100,100,0,Kosovo
+1990,100,100,100,Kuwait
+1991,100,100,100,Kuwait
+1992,100,100,100,Kuwait
+1993,100,100,100,Kuwait
+1994,100,100,100,Kuwait
+1995,100,100,100,Kuwait
+1996,100,100,100,Kuwait
+1997,100,100,100,Kuwait
+1998,100,100,100,Kuwait
+1999,100,100,100,Kuwait
+2000,100,100,100,Kuwait
+2001,100,100,100,Kuwait
+2002,100,100,100,Kuwait
+2003,100,100,100,Kuwait
+2004,100,100,100,Kuwait
+2005,100,100,100,Kuwait
+2006,100,100,100,Kuwait
+2007,100,100,100,Kuwait
+2008,100,100,100,Kuwait
+2009,100,100,100,Kuwait
+2010,100,100,100,Kuwait
+2011,100,100,100,Kuwait
+2012,100,100,100,Kuwait
+2013,100,100,100,Kuwait
+2014,100,100,100,Kuwait
+1990,99.36,98.24,0,Kyrgyzstan
+1991,99.43,98.34,0,Kyrgyzstan
+1992,99.5,98.45,0,Kyrgyzstan
+1993,99.58,98.55,0,Kyrgyzstan
+1994,99.64,98.65,0,Kyrgyzstan
+1995,99.7,98.74,0,Kyrgyzstan
+1996,99.75,98.81,0,Kyrgyzstan
+1997,99.8,99.6,100,Kyrgyzstan
+1998,99.8,98.91,100,Kyrgyzstan
+1999,99.8,98.93,100,Kyrgyzstan
+2000,99.78,98.93,100,Kyrgyzstan
+2001,99.75,98.92,100,Kyrgyzstan
+2002,100,98,100,Kyrgyzstan
+2003,99.68,98.9,100,Kyrgyzstan
+2004,99.64,98.9,100,Kyrgyzstan
+2005,99.61,98.91,100,Kyrgyzstan
+2006,99.59,98.94,100,Kyrgyzstan
+2007,99.58,98.99,100,Kyrgyzstan
+2008,99.57,99.07,100,Kyrgyzstan
+2009,99.58,99.17,100,Kyrgyzstan
+2010,99,99.28,98.49,Kyrgyzstan
+2011,99.61,99.4,99.99,Kyrgyzstan
+2012,99.8,99.8,99.8,Kyrgyzstan
+2013,99.66,99.67,99.64,Kyrgyzstan
+2014,99.8,99.7,99.9,Kyrgyzstan
+1990,17.69,0.88,0,Laos
+1991,20.27,3.73,0,Laos
+1992,22.84,6.57,0,Laos
+1993,31,10,97,Laos
+1994,27.99,12.24,100,Laos
+1995,25,15.06,72.25,Laos
+1996,33.1,17.87,100,Laos
+1997,35.63,20.67,98.95,Laos
+1998,38.15,23.44,96.87,Laos
+1999,40.66,26.19,95.09,Laos
+2000,43.14,28.93,93.6,Laos
+2001,45.62,31.66,92.38,Laos
+2002,46.3,34.38,83.95,Laos
+2003,48,33,97,Laos
+2004,53.02,39.84,90.07,Laos
+2005,57.2,43.79,92.2,Laos
+2006,57.97,45.35,89.57,Laos
+2007,60.46,48.14,89.64,Laos
+2008,66,53,99,Laos
+2009,65.47,53.79,90.32,Laos
+2010,67.99,56.63,90.91,Laos
+2011,70,59.49,90.17,Laos
+2012,73.03,62.36,92.55,Laos
+2013,75.56,65.23,93.56,Laos
+2014,78.09,68.1,94.71,Laos
+1990,100,100,100,Latvia
+1991,100,100,100,Latvia
+1992,100,100,100,Latvia
+1993,100,100,100,Latvia
+1994,100,100,100,Latvia
+1995,100,100,100,Latvia
+1996,100,100,100,Latvia
+1997,100,100,100,Latvia
+1998,100,100,100,Latvia
+1999,100,100,100,Latvia
+2000,100,100,100,Latvia
+2001,100,100,100,Latvia
+2002,100,100,100,Latvia
+2003,100,100,100,Latvia
+2004,100,100,100,Latvia
+2005,100,100,100,Latvia
+2006,100,100,100,Latvia
+2007,100,100,100,Latvia
+2008,100,100,100,Latvia
+2009,100,100,100,Latvia
+2010,100,100,100,Latvia
+2011,100,100,100,Latvia
+2012,100,100,100,Latvia
+2013,100,100,100,Latvia
+2014,100,100,100,Latvia
+1990,97.19,89.76,0,Lebanon
+1991,97.42,90.34,0,Lebanon
+1992,97.64,90.92,0,Lebanon
+1993,97.86,91.49,0,Lebanon
+1994,98.08,92.06,0,Lebanon
+1995,98.28,92.62,0,Lebanon
+1996,98.48,93.17,0,Lebanon
+1997,98.66,93.7,0,Lebanon
+1998,98.83,94.22,0,Lebanon
+1999,98.98,94.71,0,Lebanon
+2000,99.11,95.18,0,Lebanon
+2001,99.24,95.65,0,Lebanon
+2002,99.36,96.11,0,Lebanon
+2003,99.48,96.57,0,Lebanon
+2004,99.9,97.04,0,Lebanon
+2005,99.71,97.53,100,Lebanon
+2006,99.83,98.05,100,Lebanon
+2007,99.9,98.57,100,Lebanon
+2008,99.9,99.2,100,Lebanon
+2009,99.99,99.53,100,Lebanon
+2010,100,99.82,100,Lebanon
+2011,100,99.96,100,Lebanon
+2012,100,100,100,Lebanon
+2013,100,100,100,Lebanon
+2014,100,100,100,Lebanon
+1990,0,0,0,Lesotho
+1991,0,0,0,Lesotho
+1992,0,0,0,Lesotho
+1993,0,0,0,Lesotho
+1994,0,0,0,Lesotho
+1995,0,0,0,Lesotho
+1996,0,0,0,Lesotho
+1997,0,0,0,Lesotho
+1998,0.02,0,0,Lesotho
+1999,0.09,0,0,Lesotho
+2000,0.41,0,0,Lesotho
+2001,1.24,0.03,0,Lesotho
+2002,2.47,0.13,0,Lesotho
+2003,4.51,0.47,0,Lesotho
+2004,6.8,0.8,26.2,Lesotho
+2005,8.6,1.98,31.75,Lesotho
+2006,9.7,2.99,32.4,Lesotho
+2007,12.72,4.03,41.36,Lesotho
+2008,14.8,5.08,45.95,Lesotho
+2009,17,6,43.2,Lesotho
+2010,18.98,7.25,54.62,Lesotho
+2011,21.08,8.36,58.72,Lesotho
+2012,23.18,9.47,62.69,Lesotho
+2013,25.28,10.58,66.53,Lesotho
+2014,27.8,11.8,61.5,Lesotho
+1990,0,0,0,Liberia
+1991,0,0,0,Liberia
+1992,0,0,0,Liberia
+1993,0,0,0,Liberia
+1994,0,0,0,Liberia
+1995,0,0,0,Liberia
+1996,0,0,0,Liberia
+1997,0,0,0,Liberia
+1998,0,0,0,Liberia
+1999,0,0.01,0,Liberia
+2000,0,0.01,0,Liberia
+2001,0,0.02,0,Liberia
+2002,0,0.04,0,Liberia
+2003,0.02,0.08,0,Liberia
+2004,0.07,0.14,0,Liberia
+2005,0.29,0.22,0,Liberia
+2006,0.8,0.33,0,Liberia
+2007,3,0.8,6.9,Liberia
+2008,2.58,0.58,4.84,Liberia
+2009,1.9,0.5,3.5,Liberia
+2010,4.75,0.92,8.94,Liberia
+2011,4.1,1,7.2,Liberia
+2012,6.94,1.31,12.92,Liberia
+2013,9.8,1.2,16.4,Liberia
+2014,9.14,1.71,16.78,Liberia
+1990,100,100,0,Libya
+1991,100,100,0,Libya
+1992,99.99,100,0,Libya
+1993,99.98,100,0,Libya
+1994,99.97,100,0,Libya
+1995,99.95,100,0,Libya
+1996,99.91,99.96,0,Libya
+1997,99.87,99.84,0,Libya
+1998,99.8,99.58,0,Libya
+1999,99.73,99.18,0,Libya
+2000,99.8,99.1,100,Libya
+2001,99.53,98.17,99.95,Libya
+2002,99.42,97.65,99.97,Libya
+2003,99.31,97.12,99.98,Libya
+2004,99.2,96.59,99.99,Libya
+2005,99.09,96.08,99.99,Libya
+2006,98.99,95.6,100,Libya
+2007,98.9,95.13,100,Libya
+2008,98.81,94.69,100,Libya
+2009,98.74,94.27,100,Libya
+2010,98.67,93.86,100,Libya
+2011,98.61,93.46,100,Libya
+2012,98.56,93.07,100,Libya
+2013,98.5,92.69,100,Libya
+2014,98.45,92.3,100,Libya
+1990,100,100,100,Liechtenstein
+1991,100,100,100,Liechtenstein
+1992,100,100,100,Liechtenstein
+1993,100,100,100,Liechtenstein
+1994,100,100,100,Liechtenstein
+1995,100,100,100,Liechtenstein
+1996,100,100,100,Liechtenstein
+1997,100,100,100,Liechtenstein
+1998,100,100,100,Liechtenstein
+1999,100,100,100,Liechtenstein
+2000,100,100,100,Liechtenstein
+2001,100,100,100,Liechtenstein
+2002,100,100,100,Liechtenstein
+2003,100,100,100,Liechtenstein
+2004,100,100,100,Liechtenstein
+2005,100,100,100,Liechtenstein
+2006,100,100,100,Liechtenstein
+2007,100,100,100,Liechtenstein
+2008,100,100,100,Liechtenstein
+2009,100,100,100,Liechtenstein
+2010,100,100,100,Liechtenstein
+2011,100,100,100,Liechtenstein
+2012,100,100,100,Liechtenstein
+2013,100,100,100,Liechtenstein
+2014,100,100,100,Liechtenstein
+1990,100,100,100,Lithuania
+1991,100,100,100,Lithuania
+1992,100,100,100,Lithuania
+1993,100,100,100,Lithuania
+1994,100,100,100,Lithuania
+1995,100,100,100,Lithuania
+1996,100,100,100,Lithuania
+1997,100,100,100,Lithuania
+1998,100,100,100,Lithuania
+1999,100,100,100,Lithuania
+2000,100,100,100,Lithuania
+2001,100,100,100,Lithuania
+2002,100,100,100,Lithuania
+2003,100,100,100,Lithuania
+2004,100,100,100,Lithuania
+2005,100,100,100,Lithuania
+2006,100,100,100,Lithuania
+2007,100,100,100,Lithuania
+2008,100,100,100,Lithuania
+2009,100,100,100,Lithuania
+2010,100,100,100,Lithuania
+2011,100,100,100,Lithuania
+2012,100,100,100,Lithuania
+2013,100,100,100,Lithuania
+2014,100,100,100,Lithuania
+1990,100,100,100,Luxembourg
+1991,100,100,100,Luxembourg
+1992,100,100,100,Luxembourg
+1993,100,100,100,Luxembourg
+1994,100,100,100,Luxembourg
+1995,100,100,100,Luxembourg
+1996,100,100,100,Luxembourg
+1997,100,100,100,Luxembourg
+1998,100,100,100,Luxembourg
+1999,100,100,100,Luxembourg
+2000,100,100,100,Luxembourg
+2001,100,100,100,Luxembourg
+2002,100,100,100,Luxembourg
+2003,100,100,100,Luxembourg
+2004,100,100,100,Luxembourg
+2005,100,100,100,Luxembourg
+2006,100,100,100,Luxembourg
+2007,100,100,100,Luxembourg
+2008,100,100,100,Luxembourg
+2009,100,100,100,Luxembourg
+2010,100,100,100,Luxembourg
+2011,100,100,100,Luxembourg
+2012,100,100,100,Luxembourg
+2013,100,100,100,Luxembourg
+2014,100,100,100,Luxembourg
+1990,0,0,0,Macao S.A.R
+1991,0,0,0,Macao S.A.R
+1992,0,0,0,Macao S.A.R
+1993,0,0,0,Macao S.A.R
+1994,100,100,100,Macao S.A.R
+1995,100,100,100,Macao S.A.R
+1996,100,100,100,Macao S.A.R
+1997,100,100,100,Macao S.A.R
+1998,100,100,100,Macao S.A.R
+1999,100,100,100,Macao S.A.R
+2000,100,100,100,Macao S.A.R
+2001,100,100,100,Macao S.A.R
+2002,100,100,100,Macao S.A.R
+2003,100,100,100,Macao S.A.R
+2004,100,100,100,Macao S.A.R
+2005,100,100,100,Macao S.A.R
+2006,100,100,100,Macao S.A.R
+2007,100,100,100,Macao S.A.R
+2008,100,100,100,Macao S.A.R
+2009,100,100,100,Macao S.A.R
+2010,100,100,100,Macao S.A.R
+2011,100,100,100,Macao S.A.R
+2012,100,100,100,Macao S.A.R
+2013,100,100,100,Macao S.A.R
+2014,100,100,100,Macao S.A.R
+1990,89.84,88.97,100,Macedonia
+1991,90.47,89.6,100,Macedonia
+1992,91.1,90.22,100,Macedonia
+1993,91.73,90.85,100,Macedonia
+1994,92.35,91.46,100,Macedonia
+1995,92.97,92.07,100,Macedonia
+1996,93.57,92.67,100,Macedonia
+1997,94.16,93.25,100,Macedonia
+1998,94.74,93.8,100,Macedonia
+1999,95.29,94.34,100,Macedonia
+2000,95.84,94.87,100,Macedonia
+2001,96.37,95.38,100,Macedonia
+2002,96.89,95.89,100,Macedonia
+2003,97.41,96.39,100,Macedonia
+2004,97.93,96.91,100,Macedonia
+2005,98.46,97.44,100,Macedonia
+2006,99,98,98,Macedonia
+2007,99.44,98.58,100,Macedonia
+2008,99.77,99.13,100,Macedonia
+2009,99.94,99.57,100,Macedonia
+2010,99.99,99.85,100,Macedonia
+2011,100,99.97,100,Macedonia
+2012,100,100,100,Macedonia
+2013,100,100,100,Macedonia
+2014,100,100,100,Macedonia
+1990,10.55,1.35,0,Madagascar
+1991,10.87,1.78,0,Madagascar
+1992,9.2,1.9,46.9,Madagascar
+1993,11.51,2.64,37.79,Madagascar
+1994,11.83,3.06,37.4,Madagascar
+1995,12.13,3.47,37.06,Madagascar
+1996,12.43,3.87,36.72,Madagascar
+1997,10.9,2.1,38.1,Madagascar
+1998,12.97,4.61,36.07,Madagascar
+1999,13.22,4.95,35.74,Madagascar
+2000,13.45,5.28,35.42,Madagascar
+2001,14.8,5.9,42.08,Madagascar
+2002,13.89,5.9,34.77,Madagascar
+2003,14.1,6.21,34.43,Madagascar
+2004,20.3,10.8,52.7,Madagascar
+2005,14.52,6.87,33.43,Madagascar
+2006,14.75,7.22,32.79,Madagascar
+2007,14.98,7.6,32.17,Madagascar
+2008,15.22,8,31.56,Madagascar
+2009,17.4,8.2,68.6,Madagascar
+2010,15.74,8.85,30.42,Madagascar
+2011,14.3,9.4,61.5,Madagascar
+2012,16.28,9.75,29.4,Madagascar
+2013,12.9,8.1,60.7,Madagascar
+2014,16.82,10.67,28.52,Madagascar
+1990,1.9,0.28,0,Malawi
+1991,2.28,0.47,0,Malawi
+1992,3.2,1.1,19.8,Malawi
+1993,3.05,0.85,18.38,Malawi
+1994,3.43,1.03,19.61,Malawi
+1995,3.8,1.2,20.77,Malawi
+1996,4.15,1.36,21.87,Malawi
+1997,4.5,1.5,22.92,Malawi
+1998,4.83,1.62,23.9,Malawi
+1999,5.14,1.72,25.22,Malawi
+2000,4.8,1,28.7,Malawi
+2001,5.72,1.88,27.95,Malawi
+2002,5.99,1.96,29.26,Malawi
+2003,6.2,2.27,37.15,Malawi
+2004,6.9,2.2,30.2,Malawi
+2005,6.82,2.2,32.87,Malawi
+2006,7.11,2.32,33.94,Malawi
+2007,7.4,2.46,34.93,Malawi
+2008,7.71,2.62,35.86,Malawi
+2009,8.03,2.8,36.72,Malawi
+2010,8.7,3.5,34.7,Malawi
+2011,7.6,2.9,32.6,Malawi
+2012,7.4,2.3,37.1,Malawi
+2013,9,3.4,36.6,Malawi
+2014,11.9,4.7,46.1,Malawi
+1990,93.45,88.75,0,Malaysia
+1991,93.8,89.28,0,Malaysia
+1992,94.16,89.8,0,Malaysia
+1993,94.51,90.33,0,Malaysia
+1994,94.86,90.84,0,Malaysia
+1995,95.2,91.35,0,Malaysia
+1996,95.53,91.84,0,Malaysia
+1997,95.84,92.32,0,Malaysia
+1998,96.14,92.77,0,Malaysia
+1999,96.42,93.21,0,Malaysia
+2000,96.69,93.63,0,Malaysia
+2001,96.94,94.04,0,Malaysia
+2002,97.19,94.45,0,Malaysia
+2003,97.43,94.85,0,Malaysia
+2004,97.68,95.27,0,Malaysia
+2005,97.93,95.7,0,Malaysia
+2006,98.19,96.15,0,Malaysia
+2007,98.46,96.62,0,Malaysia
+2008,98.74,97.12,0,Malaysia
+2009,99.3,98,99.9,Malaysia
+2010,99.32,98.17,99.78,Malaysia
+2011,99.59,98.71,99.94,Malaysia
+2012,99.8,99.3,99.9,Malaysia
+2013,99.94,99.64,100,Malaysia
+2014,100,100,100,Malaysia
+1990,72.7,96.53,0,Maldives
+1991,73.99,96.73,0,Maldives
+1992,75.28,96.92,0,Maldives
+1993,76.57,97.12,0,Maldives
+1994,77.85,97.3,0,Maldives
+1995,79.13,97.48,0,Maldives
+1996,80.39,97.64,0,Maldives
+1997,81.64,97.79,0,Maldives
+1998,82.87,97.92,0,Maldives
+1999,84.09,98.01,0,Maldives
+2000,83.8,98.11,0,Maldives
+2001,86.48,98.19,57.61,Maldives
+2002,87.66,98.27,62.96,Maldives
+2003,88.84,98.35,67.92,Maldives
+2004,90.02,98.44,72.52,Maldives
+2005,91.21,98.55,76.8,Maldives
+2006,92.4,98.67,80.77,Maldives
+2007,93.6,98.81,84.46,Maldives
+2008,94.82,98.98,87.9,Maldives
+2009,99.9,99.8,99.9,Maldives
+2010,97.27,99.36,94.14,Maldives
+2011,98.38,99.56,96.7,Maldives
+2012,99.25,99.75,98.57,Maldives
+2013,99.76,99.9,99.58,Maldives
+2014,100,100,100,Maldives
+1990,0,0,0,Mali
+1991,0.29,0,0,Mali
+1992,0.84,0,0,Mali
+1993,1.65,0,0,Mali
+1994,2.93,0,0,Mali
+1995,4.2,0.02,0,Mali
+1996,6.2,0.4,21.5,Mali
+1997,6.72,0.3,24.58,Mali
+1998,7.95,0.61,27.84,Mali
+1999,9.17,1.27,29.82,Mali
+2000,10.37,1.92,31.7,Mali
+2001,10.8,2.2,37,Mali
+2002,12.74,3.19,35.21,Mali
+2003,13.92,3.83,36.85,Mali
+2004,15.09,4.47,38.41,Mali
+2005,16.28,5.13,39.91,Mali
+2006,16.6,3.2,47.4,Mali
+2007,18.67,6.5,42.71,Mali
+2008,19.89,7.23,44.03,Mali
+2009,21.11,7.97,45.3,Mali
+2010,22.34,8.73,46.54,Mali
+2011,23.57,9.5,47.76,Mali
+2012,25.6,11.9,76,Mali
+2013,26.05,11.05,50.16,Mali
+2014,27.29,11.83,51.33,Mali
+1990,100,100,100,Malta
+1991,100,100,100,Malta
+1992,100,100,100,Malta
+1993,100,100,100,Malta
+1994,100,100,100,Malta
+1995,100,100,100,Malta
+1996,100,100,100,Malta
+1997,100,100,100,Malta
+1998,100,100,100,Malta
+1999,100,100,100,Malta
+2000,100,100,100,Malta
+2001,100,100,100,Malta
+2002,100,100,100,Malta
+2003,100,100,100,Malta
+2004,100,100,100,Malta
+2005,100,100,100,Malta
+2006,100,100,100,Malta
+2007,100,100,100,Malta
+2008,100,100,100,Malta
+2009,100,100,100,Malta
+2010,100,100,100,Malta
+2011,100,100,100,Malta
+2012,100,100,100,Malta
+2013,100,100,100,Malta
+2014,100,100,100,Malta
+1990,51.97,0,0,Marshall Islands
+1991,53.62,0.06,0,Marshall Islands
+1992,55.26,0.42,0,Marshall Islands
+1993,56.91,1.59,0,Marshall Islands
+1994,58.54,3.19,0,Marshall Islands
+1995,60.17,7.09,0,Marshall Islands
+1996,61.79,10.98,0,Marshall Islands
+1997,63.4,14.86,0,Marshall Islands
+1998,64.99,18.71,0,Marshall Islands
+1999,68.52,28.47,88.91,Marshall Islands
+2000,68.11,26.36,87.44,Marshall Islands
+2001,69.66,30.16,87.67,Marshall Islands
+2002,71.2,33.97,87.93,Marshall Islands
+2003,72.73,37.77,88.22,Marshall Islands
+2004,74.27,41.58,88.54,Marshall Islands
+2005,75.8,45.41,88.89,Marshall Islands
+2006,77.35,49.25,89.28,Marshall Islands
+2007,72.3,32.1,91.6,Marshall Islands
+2008,80.48,57.01,90.17,Marshall Islands
+2009,82.06,60.93,90.66,Marshall Islands
+2010,83.64,64.85,91.19,Marshall Islands
+2011,89.92,83.73,92.5,Marshall Islands
+2012,86.83,72.73,92.34,Marshall Islands
+2013,88.42,76.68,92.95,Marshall Islands
+2014,90.02,80.63,93.6,Marshall Islands
+1990,0,0,0,Martinique
+1991,0,0,0,Martinique
+1992,0,0,0,Martinique
+1993,0,0,0,Martinique
+1994,0,0,0,Martinique
+1995,0,0,0,Martinique
+1996,0,0,0,Martinique
+1997,0,0,0,Martinique
+1998,0,0,0,Martinique
+1999,0,0,0,Martinique
+2000,0,0,0,Martinique
+2001,0,0,0,Martinique
+2002,0,0,0,Martinique
+2003,0,0,0,Martinique
+2004,0,0,0,Martinique
+2005,0,0,0,Martinique
+2006,0,0,0,Martinique
+2007,0,0,0,Martinique
+2008,0,0,0,Martinique
+2009,0,0,0,Martinique
+2010,0,0,0,Martinique
+2011,0,0,0,Martinique
+2012,0,0,0,Martinique
+2013,0,0,0,Martinique
+2014,0,0,0,Martinique
+1990,2.18,1.58,0,Mauritania
+1991,3.72,1.68,0,Mauritania
+1992,5.26,1.79,0,Mauritania
+1993,6.79,1.89,0,Mauritania
+1994,8.33,1.98,0,Mauritania
+1995,9.85,2.07,0,Mauritania
+1996,11.36,2.14,0,Mauritania
+1997,12.86,2.19,0,Mauritania
+1998,14.35,2.23,0,Mauritania
+1999,15.81,2.25,0,Mauritania
+2000,17.26,2.24,0,Mauritania
+2001,22.2,2.5,49.7,Mauritania
+2002,20.13,2.22,37.46,Mauritania
+2003,21.56,2.2,39.71,Mauritania
+2004,22.99,2.2,41.9,Mauritania
+2005,18.2,1.6,41.6,Mauritania
+2006,25.87,2.23,46.11,Mauritania
+2007,27.32,2.29,48.14,Mauritania
+2008,30,2.36,52.34,Mauritania
+2009,30.26,2.46,52.1,Mauritania
+2010,31.74,2.56,54.03,Mauritania
+2011,33.22,2.68,55.93,Mauritania
+2012,34.71,2.81,57.81,Mauritania
+2013,36.2,2.94,59.66,Mauritania
+2014,38.8,2.3,76.9,Mauritania
+1990,98.64,100,0,Mauritius
+1991,98.72,100,0,Mauritius
+1992,98.8,100,0,Mauritius
+1993,98.88,100,0,Mauritius
+1994,98.96,100,0,Mauritius
+1995,99.02,100,0,Mauritius
+1996,99.08,100,0,Mauritius
+1997,99.12,100,0,Mauritius
+1998,99.15,99.99,0,Mauritius
+1999,99.15,99.92,0,Mauritius
+2000,99,99.64,100,Mauritius
+2001,99.13,98.92,99.41,Mauritius
+2002,99.4,98.9,100,Mauritius
+2003,99.07,96.2,100,Mauritius
+2004,99.04,94.53,100,Mauritius
+2005,99.02,92.88,100,Mauritius
+2006,99.01,91.24,100,Mauritius
+2007,99,89.63,100,Mauritius
+2008,99.01,88.05,100,Mauritius
+2009,99.02,86.48,100,Mauritius
+2010,99.04,84.93,100,Mauritius
+2011,99.4,83.38,100,Mauritius
+2012,99.1,81.85,100,Mauritius
+2013,99.13,80.32,100,Mauritius
+2014,99.17,78.79,100,Mauritius
+1990,0,0,0,Mayotte
+1991,0,0,0,Mayotte
+1992,0,0,0,Mayotte
+1993,0,0,0,Mayotte
+1994,0,0,0,Mayotte
+1995,0,0,0,Mayotte
+1996,0,0,0,Mayotte
+1997,0,0,0,Mayotte
+1998,0,0,0,Mayotte
+1999,0,0,0,Mayotte
+2000,0,0,0,Mayotte
+2001,0,0,0,Mayotte
+2002,0,0,0,Mayotte
+2003,0,0,0,Mayotte
+2004,0,0,0,Mayotte
+2005,0,0,0,Mayotte
+2006,0,0,0,Mayotte
+2007,0,0,0,Mayotte
+2008,0,0,0,Mayotte
+2009,0,0,0,Mayotte
+2010,0,0,0,Mayotte
+2011,0,0,0,Mayotte
+2012,0,0,0,Mayotte
+2013,0,0,0,Mayotte
+2014,0,0,0,Mayotte
+1990,94.04,79.87,0,Mexico
+1991,94.36,80.83,0,Mexico
+1992,93.15,76.05,98.58,Mexico
+1993,95.01,82.74,99.64,Mexico
+1994,95.24,82.36,99.26,Mexico
+1995,95.64,84.63,99.64,Mexico
+1996,96.09,86.35,99.08,Mexico
+1997,96.23,86.47,99.67,Mexico
+1998,96.09,86.37,99.18,Mexico
+1999,96.75,88.23,99.67,Mexico
+2000,98.01,93.06,99.43,Mexico
+2001,97.21,89.93,99.63,Mexico
+2002,97.9,92.46,99.53,Mexico
+2003,97.64,91.61,99.58,Mexico
+2004,98.6,95.87,99.39,Mexico
+2005,98.93,96.56,99.61,Mexico
+2006,99.11,97.04,99.71,Mexico
+2007,98.55,95.11,99.58,Mexico
+2008,98.91,95.94,99.73,Mexico
+2009,99.06,96.99,99.66,Mexico
+2010,99.24,97.52,99.7,Mexico
+2011,99.57,98.82,99.78,Mexico
+2012,99.11,97.19,99.65,Mexico
+2013,99.92,99.85,99.94,Mexico
+2014,99.17,97.53,99.64,Mexico
+1990,27.71,0,0,Federated States of Micronesia
+1991,29.61,0,0,Federated States of Micronesia
+1992,31.5,0,0,Federated States of Micronesia
+1993,33.39,0,0,Federated States of Micronesia
+1994,35.28,0,0,Federated States of Micronesia
+1995,37.15,0.05,0,Federated States of Micronesia
+1996,39.02,0.35,0,Federated States of Micronesia
+1997,40.87,1.42,0,Federated States of Micronesia
+1998,42.71,2.46,0,Federated States of Micronesia
+1999,44.52,7.02,0,Federated States of Micronesia
+2000,46,10,70,Federated States of Micronesia
+2001,48.12,16.09,100,Federated States of Micronesia
+2002,49.9,20.62,100,Federated States of Micronesia
+2003,51.69,25.15,100,Federated States of Micronesia
+2004,53.47,29.68,100,Federated States of Micronesia
+2005,55.25,34.23,100,Federated States of Micronesia
+2006,57.05,38.8,100,Federated States of Micronesia
+2007,58.86,43.4,100,Federated States of Micronesia
+2008,60.67,48.02,100,Federated States of Micronesia
+2009,62.5,52.65,96.79,Federated States of Micronesia
+2010,64.53,58.59,84.59,Federated States of Micronesia
+2011,66.17,61.97,80.8,Federated States of Micronesia
+2012,68.01,66.64,72.79,Federated States of Micronesia
+2013,69.85,71.31,64.78,Federated States of Micronesia
+2014,71.69,75.98,56.82,Federated States of Micronesia
+1990,96.12,89.72,100,Moldova
+1991,96.38,90.33,100,Moldova
+1992,96.63,90.94,100,Moldova
+1993,96.88,91.55,100,Moldova
+1994,97.13,92.16,100,Moldova
+1995,97.37,92.75,100,Moldova
+1996,97.6,93.33,100,Moldova
+1997,97.81,93.9,100,Moldova
+1998,98,94.44,100,Moldova
+1999,98.18,94.97,100,Moldova
+2000,98.35,95.48,100,Moldova
+2001,98.51,95.97,100,Moldova
+2002,99,96.47,100,Moldova
+2003,98.8,96.96,100,Moldova
+2004,99.1,97.47,100,Moldova
+2005,98.6,98,99.4,Moldova
+2006,99.26,98.54,100,Moldova
+2007,99.43,99.06,99.88,Moldova
+2008,99.6,99.51,99.72,Moldova
+2009,99.77,99.81,99.72,Moldova
+2010,99.9,99.95,99.83,Moldova
+2011,99.97,99.99,99.94,Moldova
+2012,100,100,99.99,Moldova
+2013,100,100,100,Moldova
+2014,100,100,100,Moldova
+1990,100,100,100,Monaco
+1991,100,100,100,Monaco
+1992,100,100,100,Monaco
+1993,100,100,100,Monaco
+1994,100,100,100,Monaco
+1995,100,100,100,Monaco
+1996,100,100,100,Monaco
+1997,100,100,100,Monaco
+1998,100,100,100,Monaco
+1999,100,100,100,Monaco
+2000,100,100,100,Monaco
+2001,100,100,100,Monaco
+2002,100,100,100,Monaco
+2003,100,100,100,Monaco
+2004,100,100,100,Monaco
+2005,100,100,100,Monaco
+2006,100,100,100,Monaco
+2007,100,100,100,Monaco
+2008,100,100,100,Monaco
+2009,100,100,100,Monaco
+2010,100,100,100,Monaco
+2011,100,100,100,Monaco
+2012,100,100,100,Monaco
+2013,100,100,100,Monaco
+2014,100,100,100,Monaco
+1990,63.82,100,0,Mongolia
+1991,64.79,99.17,0,Mongolia
+1992,65.75,97.87,0,Mongolia
+1993,66.72,96.16,0,Mongolia
+1994,67.68,94.04,0,Mongolia
+1995,68.63,91.91,0,Mongolia
+1996,69.57,89.77,0,Mongolia
+1997,70.49,87.61,0,Mongolia
+1998,71.4,85.43,0,Mongolia
+1999,72.29,83.23,0,Mongolia
+2000,67.3,81.02,0,Mongolia
+2001,74.04,78.79,70.62,Mongolia
+2002,74.89,76.56,73.75,Mongolia
+2003,76.3,77.5,99.5,Mongolia
+2004,76.6,72.11,79.42,Mongolia
+2005,86.2,67.1,97.9,Mongolia
+2006,78.33,67.72,84.42,Mongolia
+2007,79.21,65.56,86.71,Mongolia
+2008,80.1,63.42,88.86,Mongolia
+2009,81,61.3,90.89,Mongolia
+2010,81.91,59.19,92.81,Mongolia
+2011,82.82,57.1,94.63,Mongolia
+2012,83.73,55.01,96.36,Mongolia
+2013,81.2,52,97.8,Mongolia
+2014,85.57,50.85,99.6,Mongolia
+1990,100,100,100,Montenegro
+1991,100,100,100,Montenegro
+1992,100,100,100,Montenegro
+1993,100,100,100,Montenegro
+1994,100,100,100,Montenegro
+1995,100,100,100,Montenegro
+1996,100,100,100,Montenegro
+1997,100,100,100,Montenegro
+1998,100,100,100,Montenegro
+1999,100,100,100,Montenegro
+2000,100,100,100,Montenegro
+2001,100,100,100,Montenegro
+2002,100,100,100,Montenegro
+2003,100,100,100,Montenegro
+2004,100,100,100,Montenegro
+2005,100,100,100,Montenegro
+2006,100,100,100,Montenegro
+2007,100,100,100,Montenegro
+2008,100,100,100,Montenegro
+2009,100,100,100,Montenegro
+2010,100,100,100,Montenegro
+2011,100,100,100,Montenegro
+2012,100,100,100,Montenegro
+2013,100,100,100,Montenegro
+2014,100,100,100,Montenegro
+1990,0,0,0,Montserrat
+1991,0,0,0,Montserrat
+1992,0,0,0,Montserrat
+1993,0,0,0,Montserrat
+1994,0,0,0,Montserrat
+1995,0,0,0,Montserrat
+1996,0,0,0,Montserrat
+1997,0,0,0,Montserrat
+1998,0,0,0,Montserrat
+1999,0,0,0,Montserrat
+2000,0,0,0,Montserrat
+2001,0,0,0,Montserrat
+2002,0,0,0,Montserrat
+2003,0,0,0,Montserrat
+2004,0,0,0,Montserrat
+2005,0,0,0,Montserrat
+2006,0,0,0,Montserrat
+2007,0,0,0,Montserrat
+2008,0,0,0,Montserrat
+2009,0,0,0,Montserrat
+2010,0,0,0,Montserrat
+2011,0,0,0,Montserrat
+2012,0,0,0,Montserrat
+2013,0,0,0,Montserrat
+2014,0,0,0,Montserrat
+1990,46.88,8.93,0,Morocco
+1991,48.88,12.08,0,Morocco
+1992,49.2,15.6,84.7,Morocco
+1993,52.89,18.38,86.61,Morocco
+1994,54.88,21.52,86.55,Morocco
+1995,56.5,24.2,90.6,Morocco
+1996,58.84,27.77,87.49,Morocco
+1997,60.8,30.88,88.04,Morocco
+1998,62.75,33.96,88.61,Morocco
+1999,64.68,37.02,89.2,Morocco
+2000,66.59,40.07,89.8,Morocco
+2001,68.49,43.11,90.42,Morocco
+2002,70.39,46.14,91.05,Morocco
+2003,72.28,49.17,91.71,Morocco
+2004,78.2,51.3,94.6,Morocco
+2005,76.07,55.27,93,Morocco
+2006,77.97,58.34,93.62,Morocco
+2007,79.89,61.44,94.29,Morocco
+2008,81.81,64.57,95,Morocco
+2009,83.75,67.71,95.76,Morocco
+2010,85.69,70.86,96.57,Morocco
+2011,87.64,74.03,97.42,Morocco
+2012,89.59,77.21,98.3,Morocco
+2013,91.54,80.38,99.23,Morocco
+2014,91.6,84.6,95.2,Morocco
+1990,0,0,0,Mozambique
+1991,0.02,0,0,Mozambique
+1992,0.1,0,0,Mozambique
+1993,0.37,0.01,0,Mozambique
+1994,0.66,0.04,0,Mozambique
+1995,1.74,0.12,0,Mozambique
+1996,2.81,0.29,0,Mozambique
+1997,6.6,2.1,25.8,Mozambique
+1998,4.92,0.83,15.05,Mozambique
+1999,5.94,1.12,17.81,Mozambique
+2000,6.95,1.38,20.53,Mozambique
+2001,5.7,0.4,20.1,Mozambique
+2002,8.94,1.89,25.83,Mozambique
+2003,8.1,1.1,25,Mozambique
+2004,10.92,2.41,30.96,Mozambique
+2005,11.92,2.69,33.45,Mozambique
+2006,12.92,2.98,35.9,Mozambique
+2007,13.93,3.3,38.3,Mozambique
+2008,14.95,3.65,40.66,Mozambique
+2009,15,3.8,43.1,Mozambique
+2010,17.03,4.39,45.22,Mozambique
+2011,20.2,5.4,54.5,Mozambique
+2012,19.12,5.17,49.57,Mozambique
+2013,20.17,5.57,51.67,Mozambique
+2014,21.22,5.97,53.73,Mozambique
+1990,41.32,0,0,Myanmar
+1991,41.81,0,0,Myanmar
+1992,42.3,0,0,Myanmar
+1993,42.78,0.04,0,Myanmar
+1994,43.26,0.23,0,Myanmar
+1995,43.74,0.89,0,Myanmar
+1996,44.2,1.66,0,Myanmar
+1997,44.64,4.19,0,Myanmar
+1998,45.07,6.7,0,Myanmar
+1999,45.49,9.19,0,Myanmar
+2000,45.89,11.67,0,Myanmar
+2001,46.27,14.13,0,Myanmar
+2002,47,16.59,0,Myanmar
+2003,47.03,19.05,100,Myanmar
+2004,47.41,21.52,100,Myanmar
+2005,47.79,24.01,100,Myanmar
+2006,48.18,26.51,100,Myanmar
+2007,48.58,29.04,94.47,Myanmar
+2008,48.99,31.59,88.9,Myanmar
+2009,49.41,34.16,83.55,Myanmar
+2010,48.8,34.3,89,Myanmar
+2011,50.27,39.34,73.57,Myanmar
+2012,50.71,41.94,68.94,Myanmar
+2013,51.14,44.54,64.54,Myanmar
+2014,52,49,85.5,Myanmar
+1990,25.2,3.67,0,Namibia
+1991,26.27,4.44,0,Namibia
+1992,26.4,4.2,66,Namibia
+1993,28.42,5.99,83.81,Namibia
+1994,29.49,6.76,84.29,Namibia
+1995,30.55,7.52,84.77,Namibia
+1996,31.6,8.26,85.24,Namibia
+1997,32.63,8.99,85.7,Namibia
+1998,33.65,9.7,86.15,Namibia
+1999,34.65,10.38,86.58,Namibia
+2000,36.5,13.2,73.2,Namibia
+2001,36.61,11.72,87.4,Namibia
+2002,37.58,12.37,87.03,Namibia
+2003,38.54,13.03,86.54,Namibia
+2004,39.51,13.7,86.07,Namibia
+2005,40.48,14.38,85.63,Namibia
+2006,41.46,15.08,85.22,Namibia
+2007,43.7,14.6,77.6,Namibia
+2008,43.44,16.55,84.47,Namibia
+2009,44.45,17.32,84.15,Namibia
+2010,45.47,18.1,83.87,Namibia
+2011,46.49,18.89,83.62,Namibia
+2012,47.51,19.69,83.41,Namibia
+2013,47.4,20.5,72.2,Namibia
+2014,49.56,21.29,83.18,Namibia
+1990,99.86,0,0,Nauru
+1991,99.9,0,0,Nauru
+1992,99.93,0,0,Nauru
+1993,99.96,0,0,Nauru
+1994,99.98,0,0,Nauru
+1995,99.99,0,0,Nauru
+1996,99.99,0,0,Nauru
+1997,99.99,0,0,Nauru
+1998,99.96,0,0,Nauru
+1999,99.93,0,0,Nauru
+2000,99.87,0,0,Nauru
+2001,99.81,0,0,Nauru
+2002,99.74,0,0,Nauru
+2003,99.66,0,0,Nauru
+2004,99.59,0,0,Nauru
+2005,99.52,0,0,Nauru
+2006,99.45,0,0,Nauru
+2007,99.8,0,0,Nauru
+2008,99.36,0,0,Nauru
+2009,99.32,0,0,Nauru
+2010,99.29,0,0,Nauru
+2011,99,0,99,Nauru
+2012,99.25,0,99,Nauru
+2013,99.23,0,99,Nauru
+2014,99.21,0,99,Nauru
+1990,0,0,0,Nepal
+1991,0.05,0,0,Nepal
+1992,0.38,0,0,Nepal
+1993,1.49,0.06,0,Nepal
+1994,2.83,0.42,0,Nepal
+1995,6.93,1.61,0,Nepal
+1996,17.9,12.1,78.4,Nepal
+1997,15.1,7.36,72.68,Nepal
+1998,19.16,11.58,72.93,Nepal
+1999,23.21,15.78,73.42,Nepal
+2000,27.24,19.96,74.11,Nepal
+2001,24.6,17.4,85.7,Nepal
+2002,35.26,28.3,77.09,Nepal
+2003,39.27,32.48,79.13,Nepal
+2004,37.2,27.3,87.4,Nepal
+2005,47.29,40.85,83.28,Nepal
+2006,51.2,43.2,90.1,Nepal
+2007,55.34,49.3,87.49,Nepal
+2008,59.38,53.55,89.63,Nepal
+2009,63.43,57.83,91.8,Nepal
+2010,67.49,62.13,94.01,Nepal
+2011,76.3,72.9,97,Nepal
+2012,75.62,70.74,98.58,Nepal
+2013,79.69,75.06,100,Nepal
+2014,84.9,81.7,97.7,Nepal
+1990,100,100,100,Netherlands
+1991,100,100,100,Netherlands
+1992,100,100,100,Netherlands
+1993,100,100,100,Netherlands
+1994,100,100,100,Netherlands
+1995,100,100,100,Netherlands
+1996,100,100,100,Netherlands
+1997,100,100,100,Netherlands
+1998,100,100,100,Netherlands
+1999,100,100,100,Netherlands
+2000,100,100,100,Netherlands
+2001,100,100,100,Netherlands
+2002,100,100,100,Netherlands
+2003,100,100,100,Netherlands
+2004,100,100,100,Netherlands
+2005,100,100,100,Netherlands
+2006,100,100,100,Netherlands
+2007,100,100,100,Netherlands
+2008,100,100,100,Netherlands
+2009,100,100,100,Netherlands
+2010,100,100,100,Netherlands
+2011,100,100,100,Netherlands
+2012,100,100,100,Netherlands
+2013,100,100,100,Netherlands
+2014,100,100,100,Netherlands
+1990,0,0,0,New Caledonia
+1991,0,0,0,New Caledonia
+1992,0,0,0,New Caledonia
+1993,0,0,0,New Caledonia
+1994,0,0,0,New Caledonia
+1995,100,100,100,New Caledonia
+1996,100,100,100,New Caledonia
+1997,100,100,100,New Caledonia
+1998,100,100,100,New Caledonia
+1999,100,100,100,New Caledonia
+2000,100,100,100,New Caledonia
+2001,100,100,100,New Caledonia
+2002,100,100,100,New Caledonia
+2003,100,100,100,New Caledonia
+2004,100,100,100,New Caledonia
+2005,100,100,100,New Caledonia
+2006,100,100,100,New Caledonia
+2007,100,100,100,New Caledonia
+2008,100,100,100,New Caledonia
+2009,100,100,100,New Caledonia
+2010,100,100,100,New Caledonia
+2011,100,100,100,New Caledonia
+2012,100,100,100,New Caledonia
+2013,100,100,100,New Caledonia
+2014,100,100,100,New Caledonia
+1990,100,100,100,New Zealand
+1991,100,100,100,New Zealand
+1992,100,100,100,New Zealand
+1993,100,100,100,New Zealand
+1994,100,100,100,New Zealand
+1995,100,100,100,New Zealand
+1996,100,100,100,New Zealand
+1997,100,100,100,New Zealand
+1998,100,100,100,New Zealand
+1999,100,100,100,New Zealand
+2000,100,100,100,New Zealand
+2001,100,100,100,New Zealand
+2002,100,100,100,New Zealand
+2003,100,100,100,New Zealand
+2004,100,100,100,New Zealand
+2005,100,100,100,New Zealand
+2006,100,100,100,New Zealand
+2007,100,100,100,New Zealand
+2008,100,100,100,New Zealand
+2009,100,100,100,New Zealand
+2010,100,100,100,New Zealand
+2011,100,100,100,New Zealand
+2012,100,100,100,New Zealand
+2013,100,100,100,New Zealand
+2014,100,100,100,New Zealand
+1990,66.92,36.08,0,Nicaragua
+1991,67.54,36.83,0,Nicaragua
+1992,68.16,37.58,0,Nicaragua
+1993,72.06,42.47,93.55,Nicaragua
+1994,69.39,39.07,95.96,Nicaragua
+1995,69.99,39.8,96.2,Nicaragua
+1996,70.59,40.52,96.43,Nicaragua
+1997,71.16,41.22,96.66,Nicaragua
+1998,69.05,40.68,90.71,Nicaragua
+1999,72.27,42.57,97.08,Nicaragua
+2000,72.8,43.21,97.27,Nicaragua
+2001,72.22,41.21,91.89,Nicaragua
+2002,73.83,44.48,97.64,Nicaragua
+2003,74.34,45.11,97.82,Nicaragua
+2004,74.85,45.76,97.99,Nicaragua
+2005,73.82,43.59,95.43,Nicaragua
+2006,75.89,47.09,98.35,Nicaragua
+2007,76.42,47.79,98.52,Nicaragua
+2008,76.96,48.51,98.69,Nicaragua
+2009,77.92,47.23,97.94,Nicaragua
+2010,78.07,50.01,99.03,Nicaragua
+2011,78.64,50.77,99.2,Nicaragua
+2012,79.2,51.55,99.36,Nicaragua
+2013,79.77,52.33,99.53,Nicaragua
+2014,81.85,57.14,98.41,Nicaragua
+1990,2.95,0,0,Niger
+1991,3.48,0,0,Niger
+1992,4.4,0.2,26.7,Niger
+1993,4.55,0.03,28.95,Niger
+1994,5.07,0.1,31.77,Niger
+1995,6.2,0.25,37.95,Niger
+1996,7,0.48,41.61,Niger
+1997,6.59,0.75,37.4,Niger
+1998,6.7,0.2,36.5,Niger
+1999,7.53,1.25,40.23,Niger
+2000,7.97,1.47,41.62,Niger
+2001,8.4,1.68,42.98,Niger
+2002,8.83,1.89,44.28,Niger
+2003,9.25,2.1,45.5,Niger
+2004,9.67,2.32,46.64,Niger
+2005,7.1,2.55,29.75,Niger
+2006,9.3,1.5,47.2,Niger
+2007,10.98,3.08,49.52,Niger
+2008,11.44,3.38,50.29,Niger
+2009,11.91,3.7,50.97,Niger
+2010,12.38,4.03,51.59,Niger
+2011,14.3,4.8,59.9,Niger
+2012,14.4,5.2,61.8,Niger
+2013,13.83,5.08,53.08,Niger
+2014,14.31,5.44,53.48,Niger
+1990,27.3,8.6,82.4,Nigeria
+1991,32.6,14.92,73.48,Nigeria
+1992,33.75,16.03,73.79,Nigeria
+1993,34.9,17.13,74.12,Nigeria
+1994,36.04,18.22,74.45,Nigeria
+1995,37.18,19.3,74.8,Nigeria
+1996,38.3,20.38,75.16,Nigeria
+1997,39.42,21.43,75.52,Nigeria
+1998,40.51,22.47,75.89,Nigeria
+1999,44.9,27.9,84.3,Nigeria
+2000,42.65,24.48,76.64,Nigeria
+2001,43.7,25.47,76.59,Nigeria
+2002,44.75,26.45,76.56,Nigeria
+2003,52.2,33.8,84.9,Nigeria
+2004,46.83,28.43,76.58,Nigeria
+2005,47.88,29.44,76.62,Nigeria
+2006,48.93,30.47,76.69,Nigeria
+2007,50,31.52,76.78,Nigeria
+2008,50.3,31.4,84.8,Nigeria
+2009,52.16,33.69,77.05,Nigeria
+2010,48,34.9,79.8,Nigeria
+2011,55.9,35.5,87.1,Nigeria
+2012,55.45,37.04,77.73,Nigeria
+2013,55.6,34.4,83.6,Nigeria
+2014,57.65,39.3,78.39,Nigeria
+1990,0,0,0,Niue
+1991,0,0,0,Niue
+1992,0,0,0,Niue
+1993,0,0,0,Niue
+1994,0,0,0,Niue
+1995,0,0,0,Niue
+1996,0,0,0,Niue
+1997,0,0,0,Niue
+1998,0,0,0,Niue
+1999,0,0,0,Niue
+2000,0,0,0,Niue
+2001,0,0,0,Niue
+2002,0,0,0,Niue
+2003,0,0,0,Niue
+2004,0,0,0,Niue
+2005,0,0,0,Niue
+2006,0,0,0,Niue
+2007,0,0,0,Niue
+2008,0,0,0,Niue
+2009,0,0,0,Niue
+2010,0,0,0,Niue
+2011,0,0,0,Niue
+2012,0,0,0,Niue
+2013,0,0,0,Niue
+2014,0,0,0,Niue
+1990,0,0,0,Northern Mariana Islands
+1991,0,0,0,Northern Mariana Islands
+1992,0,0,0,Northern Mariana Islands
+1993,0,0,0,Northern Mariana Islands
+1994,0,0,0,Northern Mariana Islands
+1995,100,100,100,Northern Mariana Islands
+1996,100,100,100,Northern Mariana Islands
+1997,100,100,100,Northern Mariana Islands
+1998,100,100,100,Northern Mariana Islands
+1999,100,100,100,Northern Mariana Islands
+2000,100,100,100,Northern Mariana Islands
+2001,100,100,100,Northern Mariana Islands
+2002,100,100,100,Northern Mariana Islands
+2003,100,100,100,Northern Mariana Islands
+2004,100,100,100,Northern Mariana Islands
+2005,100,100,100,Northern Mariana Islands
+2006,100,100,100,Northern Mariana Islands
+2007,100,100,100,Northern Mariana Islands
+2008,100,100,100,Northern Mariana Islands
+2009,100,100,100,Northern Mariana Islands
+2010,100,100,100,Northern Mariana Islands
+2011,100,100,100,Northern Mariana Islands
+2012,100,100,100,Northern Mariana Islands
+2013,100,100,100,Northern Mariana Islands
+2014,100,100,100,Northern Mariana Islands
+1990,100,100,100,Norway
+1991,100,100,100,Norway
+1992,100,100,100,Norway
+1993,100,100,100,Norway
+1994,100,100,100,Norway
+1995,100,100,100,Norway
+1996,100,100,100,Norway
+1997,100,100,100,Norway
+1998,100,100,100,Norway
+1999,100,100,100,Norway
+2000,100,100,100,Norway
+2001,100,100,100,Norway
+2002,100,100,100,Norway
+2003,100,100,100,Norway
+2004,100,100,100,Norway
+2005,100,100,100,Norway
+2006,100,100,100,Norway
+2007,100,100,100,Norway
+2008,100,100,100,Norway
+2009,100,100,100,Norway
+2010,100,100,100,Norway
+2011,100,100,100,Norway
+2012,100,100,100,Norway
+2013,100,100,100,Norway
+2014,100,100,100,Norway
+1990,0,0,0,Oman
+1991,0,0,0,Oman
+1992,0,0,0,Oman
+1993,0,0,0,Oman
+1994,0,0,0,Oman
+1995,0,0,0,Oman
+1996,0,0,0,Oman
+1997,0,0,0,Oman
+1998,0,0,0,Oman
+1999,0,0,0,Oman
+2000,0,0,0,Oman
+2001,0,0,0,Oman
+2002,0,0,0,Oman
+2003,0,0,0,Oman
+2004,0,0,0,Oman
+2005,0,0,0,Oman
+2006,0,0,0,Oman
+2007,100,100,100,Oman
+2008,100,100,100,Oman
+2009,100,100,100,Oman
+2010,100,100,100,Oman
+2011,100,100,100,Oman
+2012,100,100,100,Oman
+2013,100,100,100,Oman
+2014,100,100,100,Oman
+1990,58.74,43.27,0,Pakistan
+1991,59.6,44.7,95.2,Pakistan
+1992,62.09,47.72,93.98,Pakistan
+1993,63.77,49.94,94.09,Pakistan
+1994,65.44,52.15,94.23,Pakistan
+1995,67.1,54.35,94.39,Pakistan
+1996,68.75,56.54,94.57,Pakistan
+1997,70.38,58.72,94.78,Pakistan
+1998,70.46,60.07,93.14,Pakistan
+1999,73.61,63.01,95.25,Pakistan
+2000,75.19,65.13,95.49,Pakistan
+2001,77.7,67.23,98.53,Pakistan
+2002,78.34,69.34,96,Pakistan
+2003,79.9,71.44,96.28,Pakistan
+2004,81.47,73.56,96.56,Pakistan
+2005,83.85,74.27,96.4,Pakistan
+2006,84.62,77.83,97.18,Pakistan
+2007,89.2,84.4,98.3,Pakistan
+2008,87.81,82.2,97.86,Pakistan
+2009,90.73,87.1,97.73,Pakistan
+2010,91.03,86.64,98.65,Pakistan
+2011,91.37,87.9,98.08,Pakistan
+2012,94.28,91.12,99.56,Pakistan
+2013,93.6,90.5,99.8,Pakistan
+2014,97.53,95.63,100,Pakistan
+1990,97.49,96.42,0,Palau
+1991,97.61,96.51,0,Palau
+1992,97.74,96.61,0,Palau
+1993,97.85,96.7,0,Palau
+1994,97.97,96.78,0,Palau
+1995,98.07,96.86,0,Palau
+1996,98.17,96.92,0,Palau
+1997,98.25,96.97,0,Palau
+1998,98.31,96.99,0,Palau
+1999,98.36,97,0,Palau
+2000,98.39,96.99,0,Palau
+2001,98.41,96.97,0,Palau
+2002,98.42,96.94,0,Palau
+2003,98.43,96.92,0,Palau
+2004,98.44,96.91,0,Palau
+2005,98.92,97.55,0,Palau
+2006,98.48,96.92,98.89,Palau
+2007,98.52,96.97,98.9,Palau
+2008,98.56,97.03,98.91,Palau
+2009,98.61,97.12,98.93,Palau
+2010,98.67,97.22,98.97,Palau
+2011,98.74,97.33,99.01,Palau
+2012,97.63,96.25,98.49,Palau
+2013,98.88,97.57,99.1,Palau
+2014,99.81,98.6,100,Palau
+1990,0,0,0,Palestine
+1991,0,0,0,Palestine
+1992,0,0,0,Palestine
+1993,0,0,0,Palestine
+1994,0,0,0,Palestine
+1995,0,0,0,Palestine
+1996,0,0,0,Palestine
+1997,0,0,0,Palestine
+1998,0,0,0,Palestine
+1999,0,0,0,Palestine
+2000,0,0,0,Palestine
+2001,0,0,0,Palestine
+2002,0,0,0,Palestine
+2003,0,0,0,Palestine
+2004,0,0,0,Palestine
+2005,0,0,0,Palestine
+2006,0,0,0,Palestine
+2007,0,0,0,Palestine
+2008,0,0,0,Palestine
+2009,0,0,0,Palestine
+2010,0,0,0,Palestine
+2011,0,0,0,Palestine
+2012,0,0,0,Palestine
+2013,0,0,0,Palestine
+2014,0,0,0,Palestine
+1990,70.19,43.49,95.56,Panama
+1991,73.34,44.27,97.36,Panama
+1992,74.2,45.25,97.31,Panama
+1993,75.05,46.22,97.29,Panama
+1994,75.9,47.18,97.3,Panama
+1995,76.74,48.13,97.34,Panama
+1996,77.57,49.08,97.39,Panama
+1997,78.39,50,97.47,Panama
+1998,79.19,50.91,97.55,Panama
+1999,79.97,51.79,97.65,Panama
+2000,81.4,52.16,97.19,Panama
+2001,81.49,53.52,98.28,Panama
+2002,82.24,54.37,98.76,Panama
+2003,87.8,55.23,100,Panama
+2004,83.73,56.09,99.71,Panama
+2005,84.48,56.97,100,Panama
+2006,85.24,57.86,100,Panama
+2007,86.01,58.79,100,Panama
+2008,86.79,59.73,100,Panama
+2009,87.58,60.69,100,Panama
+2010,86.85,61.65,98.7,Panama
+2011,89.18,62.66,100,Panama
+2012,89.98,63.66,100,Panama
+2013,89.1,64.66,100,Panama
+2014,91.6,65.66,100,Panama
+1990,6.17,0,0,Papua New Guinea
+1991,6.81,0.21,0,Papua New Guinea
+1992,7.46,0.53,0,Papua New Guinea
+1993,8.11,0.97,0,Papua New Guinea
+1994,8.75,1.53,0,Papua New Guinea
+1995,9.38,2.08,0,Papua New Guinea
+1996,11,2.9,63.1,Papua New Guinea
+1997,10.61,3.13,57.6,Papua New Guinea
+1998,11.2,3.63,59.47,Papua New Guinea
+1999,11.77,4.11,61.38,Papua New Guinea
+2000,12.33,4.57,63.31,Papua New Guinea
+2001,12.88,5.03,64.58,Papua New Guinea
+2002,13.42,5.47,65.8,Papua New Guinea
+2003,13.95,5.92,66.99,Papua New Guinea
+2004,14.49,6.38,68.14,Papua New Guinea
+2005,15.03,6.85,69.23,Papua New Guinea
+2006,12.4,6.5,61.3,Papua New Guinea
+2007,16.14,7.86,71.19,Papua New Guinea
+2008,16.71,8.4,72.07,Papua New Guinea
+2009,17.29,8.96,72.89,Papua New Guinea
+2010,19.5,9,71.2,Papua New Guinea
+2011,18.47,10.11,74.41,Papua New Guinea
+2012,19.07,10.7,75.13,Papua New Guinea
+2013,19.67,11.3,75.78,Papua New Guinea
+2014,20.26,11.89,76.35,Papua New Guinea
+1990,79.01,58.52,0,Paraguay
+1991,80.01,60.42,0,Paraguay
+1992,81.01,62.31,0,Paraguay
+1993,82,64.2,0,Paraguay
+1994,82.99,66.08,0,Paraguay
+1995,77.47,55.11,96.45,Paraguay
+1996,84.94,69.81,98.48,Paraguay
+1997,86.41,71.69,97.57,Paraguay
+1998,86.84,73.48,98.19,Paraguay
+1999,88.52,76.61,97.52,Paraguay
+2000,88.67,77.07,98.03,Paraguay
+2001,91.04,82.04,97.93,Paraguay
+2002,91.67,82.57,97.75,Paraguay
+2003,92.56,84.99,97.8,Paraguay
+2004,93.25,86.99,97.53,Paraguay
+2005,94.69,89,98.39,Paraguay
+2006,96.75,94.09,98.54,Paraguay
+2007,96.45,92.74,98.83,Paraguay
+2008,96.68,93.26,99.01,Paraguay
+2009,96.89,94.6,98.39,Paraguay
+2010,97.43,94.27,99.5,Paraguay
+2011,98.24,96.25,99.56,Paraguay
+2012,97.84,95.14,99.64,Paraguay
+2013,99.02,97.89,99.77,Paraguay
+2014,99,97.75,99.83,Paraguay
+1990,60.29,1.77,0,Peru
+1991,61.67,4.59,0,Peru
+1992,70.1,19.6,90.3,Peru
+1993,64.42,10.22,87.55,Peru
+1994,65.79,13.03,87.84,Peru
+1995,67.15,15.83,88.16,Peru
+1996,67,17.8,92,Peru
+1997,69.16,23.85,91.79,Peru
+1998,72.07,29.17,93.42,Peru
+1999,74.08,29.03,95.06,Peru
+2000,72.5,28.94,95.16,Peru
+2001,72.11,27.62,92.36,Peru
+2002,74.38,29.97,93.83,Peru
+2003,74.38,29.7,93.76,Peru
+2004,75.69,32.03,94.31,Peru
+2005,77.17,34.58,94.66,Peru
+2006,80.16,39.63,96.16,Peru
+2007,81.99,45.41,95.81,Peru
+2008,84.68,50.13,97.04,Peru
+2009,86.42,55.13,97.48,Peru
+2010,88.12,58.59,98.14,Peru
+2011,89.71,64.24,98.38,Peru
+2012,91.1,68.56,98.63,Peru
+2013,92.14,71.6,98.78,Peru
+2014,92.92,74.5,98.88,Peru
+1990,61.98,38.89,0,Philippines
+1991,63.18,40.75,0,Philippines
+1992,64.37,42.61,0,Philippines
+1993,65.4,46.4,83.7,Philippines
+1994,66.74,46.32,88.56,Philippines
+1995,67.91,48.16,89.07,Philippines
+1996,69.08,49.99,89.57,Philippines
+1997,70.23,51.8,90.06,Philippines
+1998,71.3,51.9,91.1,Philippines
+1999,72.48,55.36,90.98,Philippines
+2000,73.58,57.12,91.45,Philippines
+2001,74.67,58.87,92.01,Philippines
+2002,75.76,60.61,92.56,Philippines
+2003,76.6,59.8,92,Philippines
+2004,77.92,64.1,93.57,Philippines
+2005,79,65.87,94.05,Philippines
+2006,80.09,67.65,94.5,Philippines
+2007,81.2,69.46,94.94,Philippines
+2008,83.3,72.8,93.7,Philippines
+2009,83.44,73.14,95.75,Philippines
+2010,84.57,75.01,96.13,Philippines
+2011,85.7,76.89,96.47,Philippines
+2012,86.84,78.77,96.78,Philippines
+2013,87.5,81.5,94.1,Philippines
+2014,89.13,82.55,97.33,Philippines
+1990,100,100,100,Poland
+1991,100,100,100,Poland
+1992,100,100,100,Poland
+1993,100,100,100,Poland
+1994,100,100,100,Poland
+1995,100,100,100,Poland
+1996,100,100,100,Poland
+1997,100,100,100,Poland
+1998,100,100,100,Poland
+1999,100,100,100,Poland
+2000,100,100,100,Poland
+2001,100,100,100,Poland
+2002,100,100,100,Poland
+2003,100,100,100,Poland
+2004,100,100,100,Poland
+2005,100,100,100,Poland
+2006,100,100,100,Poland
+2007,100,100,100,Poland
+2008,100,100,100,Poland
+2009,100,100,100,Poland
+2010,100,100,100,Poland
+2011,100,100,100,Poland
+2012,100,100,100,Poland
+2013,100,100,100,Poland
+2014,100,100,100,Poland
+1990,100,100,100,Portugal
+1991,100,100,100,Portugal
+1992,100,100,100,Portugal
+1993,100,100,100,Portugal
+1994,100,100,100,Portugal
+1995,100,100,100,Portugal
+1996,100,100,100,Portugal
+1997,100,100,100,Portugal
+1998,100,100,100,Portugal
+1999,100,100,100,Portugal
+2000,100,100,100,Portugal
+2001,100,100,100,Portugal
+2002,100,100,100,Portugal
+2003,100,100,100,Portugal
+2004,100,100,100,Portugal
+2005,100,100,100,Portugal
+2006,100,100,100,Portugal
+2007,100,100,100,Portugal
+2008,100,100,100,Portugal
+2009,100,100,100,Portugal
+2010,100,100,100,Portugal
+2011,100,100,100,Portugal
+2012,100,100,100,Portugal
+2013,100,100,100,Portugal
+2014,100,100,100,Portugal
+1990,0,0,0,Puerto Rico
+1991,0,0,0,Puerto Rico
+1992,0,0,0,Puerto Rico
+1993,0,0,0,Puerto Rico
+1994,0,0,0,Puerto Rico
+1995,0,0,0,Puerto Rico
+1996,0,0,0,Puerto Rico
+1997,0,0,0,Puerto Rico
+1998,0,0,0,Puerto Rico
+1999,0,0,0,Puerto Rico
+2000,0,0,0,Puerto Rico
+2001,0,0,0,Puerto Rico
+2002,100,100,100,Puerto Rico
+2003,100,100,100,Puerto Rico
+2004,100,100,100,Puerto Rico
+2005,100,100,100,Puerto Rico
+2006,100,100,100,Puerto Rico
+2007,100,100,100,Puerto Rico
+2008,100,100,100,Puerto Rico
+2009,100,100,100,Puerto Rico
+2010,100,100,100,Puerto Rico
+2011,100,100,100,Puerto Rico
+2012,100,100,100,Puerto Rico
+2013,100,100,100,Puerto Rico
+2014,100,100,100,Puerto Rico
+1990,100,100,100,Qatar
+1991,100,100,100,Qatar
+1992,100,100,100,Qatar
+1993,100,100,100,Qatar
+1994,100,100,100,Qatar
+1995,100,100,100,Qatar
+1996,100,100,100,Qatar
+1997,100,100,100,Qatar
+1998,100,100,100,Qatar
+1999,100,100,100,Qatar
+2000,100,100,100,Qatar
+2001,100,100,100,Qatar
+2002,100,100,100,Qatar
+2003,100,100,100,Qatar
+2004,100,100,100,Qatar
+2005,100,100,100,Qatar
+2006,100,100,100,Qatar
+2007,100,100,100,Qatar
+2008,100,100,100,Qatar
+2009,100,100,100,Qatar
+2010,100,100,100,Qatar
+2011,100,100,100,Qatar
+2012,100,100,100,Qatar
+2013,100,100,100,Qatar
+2014,100,100,100,Qatar
+1990,0,0,0,Reunion
+1991,0,0,0,Reunion
+1992,0,0,0,Reunion
+1993,0,0,0,Reunion
+1994,0,0,0,Reunion
+1995,0,0,0,Reunion
+1996,0,0,0,Reunion
+1997,0,0,0,Reunion
+1998,0,0,0,Reunion
+1999,0,0,0,Reunion
+2000,0,0,0,Reunion
+2001,0,0,0,Reunion
+2002,0,0,0,Reunion
+2003,0,0,0,Reunion
+2004,0,0,0,Reunion
+2005,0,0,0,Reunion
+2006,0,0,0,Reunion
+2007,0,0,0,Reunion
+2008,0,0,0,Reunion
+2009,0,0,0,Reunion
+2010,0,0,0,Reunion
+2011,0,0,0,Reunion
+2012,0,0,0,Reunion
+2013,0,0,0,Reunion
+2014,0,0,0,Reunion
+1990,100,100,100,Romania
+1991,100,100,100,Romania
+1992,100,100,100,Romania
+1993,100,100,100,Romania
+1994,100,100,100,Romania
+1995,100,100,100,Romania
+1996,100,100,100,Romania
+1997,100,100,100,Romania
+1998,100,100,100,Romania
+1999,100,100,100,Romania
+2000,100,100,100,Romania
+2001,100,100,100,Romania
+2002,100,100,100,Romania
+2003,100,100,100,Romania
+2004,100,100,100,Romania
+2005,100,100,100,Romania
+2006,100,100,100,Romania
+2007,100,100,100,Romania
+2008,100,100,100,Romania
+2009,100,100,100,Romania
+2010,100,100,100,Romania
+2011,100,100,100,Romania
+2012,100,100,100,Romania
+2013,100,100,100,Romania
+2014,100,100,100,Romania
+1990,100,100,100,Russia
+1991,100,100,100,Russia
+1992,100,100,100,Russia
+1993,100,100,100,Russia
+1994,100,100,100,Russia
+1995,100,100,100,Russia
+1996,100,100,100,Russia
+1997,100,100,100,Russia
+1998,100,100,100,Russia
+1999,100,100,100,Russia
+2000,100,100,100,Russia
+2001,100,100,100,Russia
+2002,100,100,100,Russia
+2003,100,100,100,Russia
+2004,100,100,100,Russia
+2005,100,100,100,Russia
+2006,100,100,100,Russia
+2007,100,100,100,Russia
+2008,100,100,100,Russia
+2009,100,100,100,Russia
+2010,100,100,100,Russia
+2011,100,100,100,Russia
+2012,100,100,100,Russia
+2013,100,100,100,Russia
+2014,100,100,100,Russia
+1990,0,0,0,Rwanda
+1991,0.09,0,0,Rwanda
+1992,2.3,0.5,31.1,Rwanda
+1993,0.6,0.01,8.04,Rwanda
+1994,1.31,0.03,15,Rwanda
+1995,2,0.11,19.33,Rwanda
+1996,2.69,0.28,21.45,Rwanda
+1997,3.36,0.52,23.3,Rwanda
+1998,4.02,0.84,24.84,Rwanda
+1999,4.66,1.14,26.17,Rwanda
+2000,6.2,0.9,38.9,Rwanda
+2001,5.9,1.69,28.26,Rwanda
+2002,6.5,1.96,29.05,Rwanda
+2003,7.1,2.22,29.96,Rwanda
+2004,7.71,2.5,30.76,Rwanda
+2005,4.8,1.3,25.1,Rwanda
+2006,8.93,3.1,32.01,Rwanda
+2007,9.56,3.43,32.48,Rwanda
+2008,6,2,28.1,Rwanda
+2009,10.84,4.16,33.21,Rwanda
+2010,9.7,4,44.5,Rwanda
+2011,10.8,2.5,58.2,Rwanda
+2012,12.81,5.36,34.14,Rwanda
+2013,15.2,7.7,61.5,Rwanda
+2014,19.8,9.1,71.8,Rwanda
+1990,0,0,0,Saint Barthelemy
+1991,0,0,0,Saint Barthelemy
+1992,0,0,0,Saint Barthelemy
+1993,0,0,0,Saint Barthelemy
+1994,0,0,0,Saint Barthelemy
+1995,0,0,0,Saint Barthelemy
+1996,0,0,0,Saint Barthelemy
+1997,0,0,0,Saint Barthelemy
+1998,0,0,0,Saint Barthelemy
+1999,0,0,0,Saint Barthelemy
+2000,0,0,0,Saint Barthelemy
+2001,0,0,0,Saint Barthelemy
+2002,0,0,0,Saint Barthelemy
+2003,0,0,0,Saint Barthelemy
+2004,0,0,0,Saint Barthelemy
+2005,0,0,0,Saint Barthelemy
+2006,0,0,0,Saint Barthelemy
+2007,0,0,0,Saint Barthelemy
+2008,0,0,0,Saint Barthelemy
+2009,0,0,0,Saint Barthelemy
+2010,0,0,0,Saint Barthelemy
+2011,0,0,0,Saint Barthelemy
+2012,0,0,0,Saint Barthelemy
+2013,0,0,0,Saint Barthelemy
+2014,0,0,0,Saint Barthelemy
+1990,0,0,0,Saint Helena
+1991,0,0,0,Saint Helena
+1992,0,0,0,Saint Helena
+1993,0,0,0,Saint Helena
+1994,0,0,0,Saint Helena
+1995,0,0,0,Saint Helena
+1996,0,0,0,Saint Helena
+1997,0,0,0,Saint Helena
+1998,0,0,0,Saint Helena
+1999,0,0,0,Saint Helena
+2000,0,0,0,Saint Helena
+2001,0,0,0,Saint Helena
+2002,0,0,0,Saint Helena
+2003,0,0,0,Saint Helena
+2004,0,0,0,Saint Helena
+2005,0,0,0,Saint Helena
+2006,0,0,0,Saint Helena
+2007,0,0,0,Saint Helena
+2008,0,0,0,Saint Helena
+2009,0,0,0,Saint Helena
+2010,0,0,0,Saint Helena
+2011,0,0,0,Saint Helena
+2012,0,0,0,Saint Helena
+2013,0,0,0,Saint Helena
+2014,0,0,0,Saint Helena
+1990,87.06,95,0,Saint Kitts and Nevis
+1991,87.69,95.27,0,Saint Kitts and Nevis
+1992,88.31,95.54,0,Saint Kitts and Nevis
+1993,88.93,95.8,0,Saint Kitts and Nevis
+1994,89.55,96.06,0,Saint Kitts and Nevis
+1995,90.16,96.31,0,Saint Kitts and Nevis
+1996,90.76,96.55,0,Saint Kitts and Nevis
+1997,91.34,96.77,0,Saint Kitts and Nevis
+1998,91.91,96.97,0,Saint Kitts and Nevis
+1999,92.46,97.15,0,Saint Kitts and Nevis
+2000,93,97.31,0,Saint Kitts and Nevis
+2001,93.53,97.46,0,Saint Kitts and Nevis
+2002,94.04,97.61,86.6,Saint Kitts and Nevis
+2003,94.55,97.76,87.82,Saint Kitts and Nevis
+2004,95.07,97.92,89.05,Saint Kitts and Nevis
+2005,95.58,98.11,90.24,Saint Kitts and Nevis
+2006,96.11,98.3,91.45,Saint Kitts and Nevis
+2007,96.65,98.52,92.66,Saint Kitts and Nevis
+2008,97.2,98.75,93.87,Saint Kitts and Nevis
+2009,97.76,99.01,95.07,Saint Kitts and Nevis
+2010,98.32,99.28,96.28,Saint Kitts and Nevis
+2011,98.88,99.54,97.47,Saint Kitts and Nevis
+2012,99.38,99.76,98.56,Saint Kitts and Nevis
+2013,99.75,99.91,99.41,Saint Kitts and Nevis
+2014,100,100,100,Saint Kitts and Nevis
+1990,82.48,78.36,0,Saint Lucia
+1991,83.19,79.17,0,Saint Lucia
+1992,83.9,79.97,0,Saint Lucia
+1993,84.62,80.78,0,Saint Lucia
+1994,85.32,81.58,0,Saint Lucia
+1995,86.02,82.36,0,Saint Lucia
+1996,86.71,83.14,0,Saint Lucia
+1997,87.38,83.9,0,Saint Lucia
+1998,88.04,84.64,0,Saint Lucia
+1999,88.68,85.36,0,Saint Lucia
+2000,89.3,86.06,0,Saint Lucia
+2001,89.9,86.68,95.9,Saint Lucia
+2002,90.52,87.44,99.13,Saint Lucia
+2003,91.12,88.13,99.99,Saint Lucia
+2004,91.73,88.83,100,Saint Lucia
+2005,92.33,89.54,100,Saint Lucia
+2006,92.95,90.27,100,Saint Lucia
+2007,93.58,91.03,100,Saint Lucia
+2008,94.21,91.81,100,Saint Lucia
+2009,94.86,92.6,100,Saint Lucia
+2010,95.51,93.42,100,Saint Lucia
+2011,96.17,94.24,100,Saint Lucia
+2012,96.84,95.07,100,Saint Lucia
+2013,97.5,95.91,100,Saint Lucia
+2014,98.16,96.74,100,Saint Lucia
+1990,100,100,100,Saint Martin
+1991,100,100,100,Saint Martin
+1992,100,100,100,Saint Martin
+1993,100,100,100,Saint Martin
+1994,100,100,100,Saint Martin
+1995,100,100,100,Saint Martin
+1996,100,100,100,Saint Martin
+1997,100,100,100,Saint Martin
+1998,100,100,100,Saint Martin
+1999,100,100,100,Saint Martin
+2000,100,100,100,Saint Martin
+2001,100,100,100,Saint Martin
+2002,100,100,100,Saint Martin
+2003,100,100,100,Saint Martin
+2004,100,100,100,Saint Martin
+2005,100,100,100,Saint Martin
+2006,100,100,100,Saint Martin
+2007,100,100,100,Saint Martin
+2008,100,100,100,Saint Martin
+2009,100,100,100,Saint Martin
+2010,100,100,100,Saint Martin
+2011,100,100,100,Saint Martin
+2012,100,100,100,Saint Martin
+2013,100,100,100,Saint Martin
+2014,100,100,100,Saint Martin
+1990,0,0,0,Saint Pierre and Miquelon
+1991,0,0,0,Saint Pierre and Miquelon
+1992,0,0,0,Saint Pierre and Miquelon
+1993,0,0,0,Saint Pierre and Miquelon
+1994,0,0,0,Saint Pierre and Miquelon
+1995,0,0,0,Saint Pierre and Miquelon
+1996,0,0,0,Saint Pierre and Miquelon
+1997,0,0,0,Saint Pierre and Miquelon
+1998,0,0,0,Saint Pierre and Miquelon
+1999,0,0,0,Saint Pierre and Miquelon
+2000,0,0,0,Saint Pierre and Miquelon
+2001,0,0,0,Saint Pierre and Miquelon
+2002,0,0,0,Saint Pierre and Miquelon
+2003,0,0,0,Saint Pierre and Miquelon
+2004,0,0,0,Saint Pierre and Miquelon
+2005,0,0,0,Saint Pierre and Miquelon
+2006,0,0,0,Saint Pierre and Miquelon
+2007,0,0,0,Saint Pierre and Miquelon
+2008,0,0,0,Saint Pierre and Miquelon
+2009,0,0,0,Saint Pierre and Miquelon
+2010,0,0,0,Saint Pierre and Miquelon
+2011,0,0,0,Saint Pierre and Miquelon
+2012,0,0,0,Saint Pierre and Miquelon
+2013,0,0,0,Saint Pierre and Miquelon
+2014,0,0,0,Saint Pierre and Miquelon
+1990,65.9,66.05,0,Saint Vincent and the Grenadines
+1991,66.8,67.29,0,Saint Vincent and the Grenadines
+1992,68.78,68.53,69.13,Saint Vincent and the Grenadines
+1993,70.22,69.76,70.83,Saint Vincent and the Grenadines
+1994,71.65,70.99,72.52,Saint Vincent and the Grenadines
+1995,73.08,72.21,74.2,Saint Vincent and the Grenadines
+1996,74.49,73.42,75.86,Saint Vincent and the Grenadines
+1997,75.89,74.61,77.51,Saint Vincent and the Grenadines
+1998,77.27,75.78,79.13,Saint Vincent and the Grenadines
+1999,78.64,76.93,80.74,Saint Vincent and the Grenadines
+2000,79.99,78.07,82.32,Saint Vincent and the Grenadines
+2001,82.41,78.87,86.67,Saint Vincent and the Grenadines
+2002,82.66,80.31,85.43,Saint Vincent and the Grenadines
+2003,83.99,81.43,86.96,Saint Vincent and the Grenadines
+2004,85.32,82.56,88.47,Saint Vincent and the Grenadines
+2005,86.65,83.71,89.97,Saint Vincent and the Grenadines
+2006,87.99,84.87,91.47,Saint Vincent and the Grenadines
+2007,88.79,86.25,91.23,Saint Vincent and the Grenadines
+2008,90.71,87.27,94.43,Saint Vincent and the Grenadines
+2009,92.09,88.5,95.9,Saint Vincent and the Grenadines
+2010,93.47,89.74,97.37,Saint Vincent and the Grenadines
+2011,94.85,91,98.84,Saint Vincent and the Grenadines
+2012,96.24,92.26,100,Saint Vincent and the Grenadines
+2013,97.63,93.53,100,Saint Vincent and the Grenadines
+2014,99.02,94.8,100,Saint Vincent and the Grenadines
+1990,77.74,92.14,0,Samoa
+1991,78.8,92.4,0,Samoa
+1992,79.7,92.66,31.68,Samoa
+1993,80.67,92.92,35.56,Samoa
+1994,80,93.17,31.75,Samoa
+1995,82.61,93.41,43.24,Samoa
+1996,83.56,93.63,47.03,Samoa
+1997,84.5,93.84,50.79,Samoa
+1998,85.42,94.04,54.51,Samoa
+1999,86.33,94.21,58.19,Samoa
+2000,87.21,94.36,61.84,Samoa
+2001,88.09,94.51,65.45,Samoa
+2002,88.96,94.65,68.75,Samoa
+2003,89.83,94.79,71.95,Samoa
+2004,90.7,94.94,75.19,Samoa
+2005,91.57,95.1,78.47,Samoa
+2006,96.37,95.76,98.57,Samoa
+2007,93.35,95.49,85.15,Samoa
+2008,94.25,95.72,88.54,Samoa
+2009,95.16,95.97,91.97,Samoa
+2010,96.08,96.24,95.45,Samoa
+2011,96.67,96.15,98.68,Samoa
+2012,97.93,96.79,100,Samoa
+2013,98.86,97.08,100,Samoa
+2014,97.9,97.6,99.4,Samoa
+1990,100,100,100,San Marino
+1991,100,100,100,San Marino
+1992,100,100,100,San Marino
+1993,100,100,100,San Marino
+1994,100,100,100,San Marino
+1995,100,100,100,San Marino
+1996,100,100,100,San Marino
+1997,100,100,100,San Marino
+1998,100,100,100,San Marino
+1999,100,100,100,San Marino
+2000,100,100,100,San Marino
+2001,100,100,100,San Marino
+2002,100,100,100,San Marino
+2003,100,100,100,San Marino
+2004,100,100,100,San Marino
+2005,100,100,100,San Marino
+2006,100,100,100,San Marino
+2007,100,100,100,San Marino
+2008,100,100,100,San Marino
+2009,100,100,100,San Marino
+2010,100,100,100,San Marino
+2011,100,100,100,San Marino
+2012,100,100,100,San Marino
+2013,100,100,100,San Marino
+2014,100,100,100,San Marino
+1990,42.48,29.35,0,Sao Tome and Principe
+1991,43.42,30.25,0,Sao Tome and Principe
+1992,44.36,31.14,0,Sao Tome and Principe
+1993,45.3,32.03,0,Sao Tome and Principe
+1994,46.23,32.91,0,Sao Tome and Principe
+1995,47.15,33.79,0,Sao Tome and Principe
+1996,48.07,34.65,0,Sao Tome and Principe
+1997,48.97,35.5,0,Sao Tome and Principe
+1998,49.85,36.32,0,Sao Tome and Principe
+1999,50.72,37.13,0,Sao Tome and Principe
+2000,52.9,38.97,64.09,Sao Tome and Principe
+2001,52.41,38.69,63.92,Sao Tome and Principe
+2002,53.24,39.47,64.36,Sao Tome and Principe
+2003,54.07,40.25,64.83,Sao Tome and Principe
+2004,54.9,41.03,65.31,Sao Tome and Principe
+2005,55.74,41.83,65.81,Sao Tome and Principe
+2006,56.58,42.65,66.32,Sao Tome and Principe
+2007,57.43,43.49,66.87,Sao Tome and Principe
+2008,58.3,44.35,67.43,Sao Tome and Principe
+2009,56.9,44.2,69.8,Sao Tome and Principe
+2010,60.05,46.14,68.62,Sao Tome and Principe
+2011,60.94,47.05,69.24,Sao Tome and Principe
+2012,57.9,43.3,65.3,Sao Tome and Principe
+2013,62.72,48.89,70.53,Sao Tome and Principe
+2014,68.6,54.8,75.8,Sao Tome and Principe
+1990,0,0,0,Saudi Arabia
+1991,0,0,0,Saudi Arabia
+1992,0,0,0,Saudi Arabia
+1993,0,0,0,Saudi Arabia
+1994,0,0,0,Saudi Arabia
+1995,0,0,0,Saudi Arabia
+1996,0,0,0,Saudi Arabia
+1997,0,0,0,Saudi Arabia
+1998,0,0,0,Saudi Arabia
+1999,0,0,0,Saudi Arabia
+2000,0,0,0,Saudi Arabia
+2001,0,0,0,Saudi Arabia
+2002,0,0,0,Saudi Arabia
+2003,0,0,0,Saudi Arabia
+2004,100,100,100,Saudi Arabia
+2005,100,100,100,Saudi Arabia
+2006,100,100,100,Saudi Arabia
+2007,100,100,100,Saudi Arabia
+2008,100,100,100,Saudi Arabia
+2009,100,100,100,Saudi Arabia
+2010,100,100,100,Saudi Arabia
+2011,100,100,100,Saudi Arabia
+2012,100,100,100,Saudi Arabia
+2013,100,100,100,Saudi Arabia
+2014,100,100,100,Saudi Arabia
+1990,19.55,0,0,Senegal
+1991,21.31,0.02,0,Senegal
+1992,23.06,0.11,0,Senegal
+1993,26,2.2,58.6,Senegal
+1994,26.57,0.68,66.27,Senegal
+1995,28.31,2.2,68.1,Senegal
+1996,30.04,3.71,69.93,Senegal
+1997,32.2,6,68.9,Senegal
+1998,33.46,6.68,73.54,Senegal
+1999,36.2,7.8,72.8,Senegal
+2000,36.81,9.57,77.09,Senegal
+2001,38.47,11,78.84,Senegal
+2002,36.8,9.59,74.17,Senegal
+2003,41.76,13.85,82.3,Senegal
+2004,36.8,8,78.34,Senegal
+2005,47.1,15.8,80.4,Senegal
+2006,49.9,20.7,83.6,Senegal
+2007,48.39,19.68,88.83,Senegal
+2008,50.07,21.2,90.38,Senegal
+2009,53.5,26.4,83.4,Senegal
+2010,53.46,24.28,93.38,Senegal
+2011,56.5,26.6,87.8,Senegal
+2012,56.87,27.4,96.28,Senegal
+2013,57,27.5,87.8,Senegal
+2014,61,32.7,85,Senegal
+1990,93.96,99.84,100,Republic of Serbia
+1991,94.5,99.89,100,Republic of Serbia
+1992,95.05,99.94,100,Republic of Serbia
+1993,95.59,99.98,100,Republic of Serbia
+1994,96.12,99.99,100,Republic of Serbia
+1995,96.65,100,100,Republic of Serbia
+1996,97.17,100,100,Republic of Serbia
+1997,97.67,100,100,Republic of Serbia
+1998,98.15,100,100,Republic of Serbia
+1999,98.62,100,100,Republic of Serbia
+2000,99.07,99.99,100,Republic of Serbia
+2001,99.47,99.98,100,Republic of Serbia
+2002,100,99.95,100,Republic of Serbia
+2003,99.93,99.9,99.96,Republic of Serbia
+2004,99.99,99.86,100,Republic of Serbia
+2005,100,99.84,100,Republic of Serbia
+2006,100,99.84,100,Republic of Serbia
+2007,100,99.84,100,Republic of Serbia
+2008,100,99.86,100,Republic of Serbia
+2009,100,99.9,100,Republic of Serbia
+2010,100,99.95,100,Republic of Serbia
+2011,100,99.98,100,Republic of Serbia
+2012,100,99.99,100,Republic of Serbia
+2013,100,100,100,Republic of Serbia
+2014,100,100,100,Republic of Serbia
+1990,89.29,56.3,0,Seychelles
+1991,89.77,58.11,0,Seychelles
+1992,90.26,59.92,0,Seychelles
+1993,90.75,61.72,0,Seychelles
+1994,90,63.52,0,Seychelles
+1995,91.7,65.32,100,Seychelles
+1996,92.16,67.09,100,Seychelles
+1997,92,68.85,100,Seychelles
+1998,93.04,70.6,100,Seychelles
+1999,93.45,72.32,100,Seychelles
+2000,93.85,74.02,100,Seychelles
+2001,94.24,75.72,100,Seychelles
+2002,96.1,77.41,100,Seychelles
+2003,94.99,79.1,100,Seychelles
+2004,95.37,80.8,100,Seychelles
+2005,95.75,82.51,100,Seychelles
+2006,99,84.25,100,Seychelles
+2007,96.54,86.01,100,Seychelles
+2008,96.95,87.79,100,Seychelles
+2009,97.37,89.59,100,Seychelles
+2010,97,91.4,100,Seychelles
+2011,98.23,93.23,100,Seychelles
+2012,98.67,95.06,100,Seychelles
+2013,98,96.9,98.97,Seychelles
+2014,99.54,98.74,100,Seychelles
+1990,18.36,1.66,0,Sierra Leone
+1991,18.2,1.68,0,Sierra Leone
+1992,18.05,1.69,0,Sierra Leone
+1993,17.88,1.7,0,Sierra Leone
+1994,17.72,1.71,0,Sierra Leone
+1995,17.54,1.7,0,Sierra Leone
+1996,17.35,1.68,0,Sierra Leone
+1997,17.16,1.65,0,Sierra Leone
+1998,16.94,1.6,0,Sierra Leone
+1999,16.71,1.52,0,Sierra Leone
+2000,16.46,1.43,0,Sierra Leone
+2001,16.2,1.33,0,Sierra Leone
+2002,15.93,1.22,0,Sierra Leone
+2003,15.66,1.12,0,Sierra Leone
+2004,16.8,1.03,0,Sierra Leone
+2005,15.12,0.94,39.43,Sierra Leone
+2006,14.87,0.88,38.58,Sierra Leone
+2007,14.62,0.85,37.71,Sierra Leone
+2008,12.1,1.4,33.1,Sierra Leone
+2009,14.16,0.84,35.96,Sierra Leone
+2010,13.94,0.85,35.07,Sierra Leone
+2011,14.2,0.29,35.75,Sierra Leone
+2012,13.51,0.92,33.31,Sierra Leone
+2013,13.5,0.7,41.4,Sierra Leone
+2014,13.1,1.01,31.56,Sierra Leone
+1990,100,100,100,Singapore
+1991,100,100,100,Singapore
+1992,100,100,100,Singapore
+1993,100,100,100,Singapore
+1994,100,100,100,Singapore
+1995,100,100,100,Singapore
+1996,100,100,100,Singapore
+1997,100,100,100,Singapore
+1998,100,100,100,Singapore
+1999,100,100,100,Singapore
+2000,100,100,100,Singapore
+2001,100,100,100,Singapore
+2002,100,100,100,Singapore
+2003,100,100,100,Singapore
+2004,100,100,100,Singapore
+2005,100,100,100,Singapore
+2006,100,100,100,Singapore
+2007,100,100,100,Singapore
+2008,100,100,100,Singapore
+2009,100,100,100,Singapore
+2010,100,100,100,Singapore
+2011,100,100,100,Singapore
+2012,100,100,100,Singapore
+2013,100,100,100,Singapore
+2014,100,100,100,Singapore
+1990,100,100,100,Sint Maarten
+1991,100,100,100,Sint Maarten
+1992,100,100,100,Sint Maarten
+1993,100,100,100,Sint Maarten
+1994,100,100,100,Sint Maarten
+1995,100,100,100,Sint Maarten
+1996,100,100,100,Sint Maarten
+1997,100,100,100,Sint Maarten
+1998,100,100,100,Sint Maarten
+1999,100,100,100,Sint Maarten
+2000,100,100,100,Sint Maarten
+2001,100,100,100,Sint Maarten
+2002,100,100,100,Sint Maarten
+2003,100,100,100,Sint Maarten
+2004,100,100,100,Sint Maarten
+2005,100,100,100,Sint Maarten
+2006,100,100,100,Sint Maarten
+2007,100,100,100,Sint Maarten
+2008,100,100,100,Sint Maarten
+2009,100,100,100,Sint Maarten
+2010,100,100,100,Sint Maarten
+2011,100,100,100,Sint Maarten
+2012,100,100,100,Sint Maarten
+2013,100,100,100,Sint Maarten
+2014,100,100,100,Sint Maarten
+1990,100,100,100,Slovakia
+1991,100,100,100,Slovakia
+1992,100,100,100,Slovakia
+1993,100,100,100,Slovakia
+1994,100,100,100,Slovakia
+1995,100,100,100,Slovakia
+1996,100,100,100,Slovakia
+1997,100,100,100,Slovakia
+1998,100,100,100,Slovakia
+1999,100,100,100,Slovakia
+2000,100,100,100,Slovakia
+2001,100,100,100,Slovakia
+2002,100,100,100,Slovakia
+2003,100,100,100,Slovakia
+2004,100,100,100,Slovakia
+2005,100,100,100,Slovakia
+2006,100,100,100,Slovakia
+2007,100,100,100,Slovakia
+2008,100,100,100,Slovakia
+2009,100,100,100,Slovakia
+2010,100,100,100,Slovakia
+2011,100,100,100,Slovakia
+2012,100,100,100,Slovakia
+2013,100,100,100,Slovakia
+2014,100,100,100,Slovakia
+1990,100,100,100,Slovenia
+1991,100,100,100,Slovenia
+1992,100,100,100,Slovenia
+1993,100,100,100,Slovenia
+1994,100,100,100,Slovenia
+1995,100,100,100,Slovenia
+1996,100,100,100,Slovenia
+1997,100,100,100,Slovenia
+1998,100,100,100,Slovenia
+1999,100,100,100,Slovenia
+2000,100,100,100,Slovenia
+2001,100,100,100,Slovenia
+2002,100,100,100,Slovenia
+2003,100,100,100,Slovenia
+2004,100,100,100,Slovenia
+2005,100,100,100,Slovenia
+2006,100,100,100,Slovenia
+2007,100,100,100,Slovenia
+2008,100,100,100,Slovenia
+2009,100,100,100,Slovenia
+2010,100,100,100,Slovenia
+2011,100,100,100,Slovenia
+2012,100,100,100,Slovenia
+2013,100,100,100,Slovenia
+2014,100,100,100,Slovenia
+1990,0,0,0,Solomon Islands
+1991,0,0,0,Solomon Islands
+1992,0.01,0,0,Solomon Islands
+1993,0.07,0,0,Solomon Islands
+1994,0.33,0,0,Solomon Islands
+1995,1.06,0,0,Solomon Islands
+1996,2.15,0,0,Solomon Islands
+1997,4.02,0,0,Solomon Islands
+1998,5.87,0.04,0,Solomon Islands
+1999,15.7,5.1,55.1,Solomon Islands
+2000,9.52,1.01,54.83,Solomon Islands
+2001,11.33,2.06,59.28,Solomon Islands
+2002,13.13,4.43,56.85,Solomon Islands
+2003,14.93,6.8,54.59,Solomon Islands
+2004,16.73,9.19,52.49,Solomon Islands
+2005,18.53,11.58,50.55,Solomon Islands
+2006,14.4,6.5,61.2,Solomon Islands
+2007,12.9,5.4,68.6,Solomon Islands
+2008,24,18.9,45.54,Solomon Islands
+2009,21.15,21.38,20.21,Solomon Islands
+2010,27.69,23.87,42.9,Solomon Islands
+2011,29.54,26.38,41.79,Solomon Islands
+2012,31.4,28.89,40.84,Solomon Islands
+2013,44.7,41.3,60.4,Solomon Islands
+2014,35.11,33.93,39.36,Solomon Islands
+1990,0,0,0,Somalia
+1991,0,0,0,Somalia
+1992,0.02,0,0,Somalia
+1993,0.1,0,0,Somalia
+1994,0.38,0,0,Somalia
+1995,0.73,0,0,Somalia
+1996,1.74,0,0,Somalia
+1997,2.74,0,0,Somalia
+1998,3.72,0,0,Somalia
+1999,4.69,0.02,0,Somalia
+2000,5.64,0.09,0,Somalia
+2001,6.58,0.32,0,Somalia
+2002,7.4,0.5,22.2,Somalia
+2003,8.44,1.43,21.82,Somalia
+2004,9.36,2.23,22.75,Somalia
+2005,10.3,3.05,23.67,Somalia
+2006,11.24,3.89,24.57,Somalia
+2007,12.19,4.75,25.44,Somalia
+2008,13.16,5.63,26.31,Somalia
+2009,14.13,6.53,27.16,Somalia
+2010,15.11,7.45,28,Somalia
+2011,16.09,8.38,28.83,Somalia
+2012,17.08,9.32,29.66,Somalia
+2013,18.07,10.26,30.49,Somalia
+2014,19.06,11.2,31.31,Somalia
+1990,56.51,26.44,0,South Africa
+1991,57.94,28.36,0,South Africa
+1992,59.38,30.28,0,South Africa
+1993,60.81,32.19,0,South Africa
+1994,62.24,34.1,0,South Africa
+1995,63.66,36,0,South Africa
+1996,57.6,37.88,0,South Africa
+1997,66.46,39.75,87.92,South Africa
+1998,64.9,37.1,84.2,South Africa
+1999,69.2,43.44,89.12,South Africa
+2000,70.55,45.25,89.72,South Africa
+2001,70.2,47.05,87.4,South Africa
+2002,77.1,48.85,97.64,South Africa
+2003,78.8,57.4,87.7,South Africa
+2004,80.9,52.46,100,South Africa
+2005,80.9,54.28,98.99,South Africa
+2006,80.7,56.13,97.03,South Africa
+2007,82,57.99,97.6,South Africa
+2008,81.9,59.88,95.89,South Africa
+2009,82.7,61.79,95.69,South Africa
+2010,82.9,63.71,94.55,South Africa
+2011,84.7,64.1,91.4,South Africa
+2012,85.3,67.59,95.58,South Africa
+2013,85.4,69.54,94.41,South Africa
+2014,86,71.48,94.06,South Africa
+1990,0,0,0,South Sudan
+1991,0,0,0,South Sudan
+1992,0,0,0,South Sudan
+1993,0,0,0,South Sudan
+1994,0,0,0,South Sudan
+1995,0,0,0,South Sudan
+1996,0,0,0,South Sudan
+1997,0,0,0,South Sudan
+1998,0,0,0,South Sudan
+1999,0,0,0,South Sudan
+2000,0,0,0,South Sudan
+2001,0,0,0,South Sudan
+2002,0.01,0,0,South Sudan
+2003,0.05,0,0,South Sudan
+2004,0.17,0,0,South Sudan
+2005,0.42,0,0,South Sudan
+2006,0.75,0.02,0,South Sudan
+2007,1.2,0.07,0,South Sudan
+2008,1.66,0.24,0,South Sudan
+2009,3,0.6,16.6,South Sudan
+2010,1.5,0.7,4,South Sudan
+2011,3.08,1.72,9.28,South Sudan
+2012,3.56,2.36,8.98,South Sudan
+2013,4.05,3,8.68,South Sudan
+2014,4.53,3.65,8.39,South Sudan
+1990,100,100,100,Spain
+1991,100,100,100,Spain
+1992,100,100,100,Spain
+1993,100,100,100,Spain
+1994,100,100,100,Spain
+1995,100,100,100,Spain
+1996,100,100,100,Spain
+1997,100,100,100,Spain
+1998,100,100,100,Spain
+1999,100,100,100,Spain
+2000,100,100,100,Spain
+2001,100,100,100,Spain
+2002,100,100,100,Spain
+2003,100,100,100,Spain
+2004,100,100,100,Spain
+2005,100,100,100,Spain
+2006,100,100,100,Spain
+2007,100,100,100,Spain
+2008,100,100,100,Spain
+2009,100,100,100,Spain
+2010,100,100,100,Spain
+2011,100,100,100,Spain
+2012,100,100,100,Spain
+2013,100,100,100,Spain
+2014,100,100,100,Spain
+1990,52.6,50.77,0,Sri Lanka
+1991,54.31,52.49,0,Sri Lanka
+1992,56.02,54.2,0,Sri Lanka
+1993,57.72,55.91,0,Sri Lanka
+1994,59.43,57.62,0,Sri Lanka
+1995,61.12,59.32,0,Sri Lanka
+1996,62.8,61,0,Sri Lanka
+1997,64.47,62.67,0,Sri Lanka
+1998,66.13,64.31,0,Sri Lanka
+1999,67.76,65.94,0,Sri Lanka
+2000,69.38,67.55,0,Sri Lanka
+2001,63.6,62,85.3,Sri Lanka
+2002,80.7,78.3,91.3,Sri Lanka
+2003,74.19,72.34,82.39,Sri Lanka
+2004,75.79,73.95,83.96,Sri Lanka
+2005,77.4,75.57,85.5,Sri Lanka
+2006,79.01,77.21,87,Sri Lanka
+2007,80,78.5,95.3,Sri Lanka
+2008,82.27,80.56,89.85,Sri Lanka
+2009,83.91,82.27,91.22,Sri Lanka
+2010,85.3,84.1,95.6,Sri Lanka
+2011,87.76,86.15,96.83,Sri Lanka
+2012,88.87,87.46,95.19,Sri Lanka
+2013,90.2,88.8,98,Sri Lanka
+2014,92.19,90.94,97.76,Sri Lanka
+1990,32.8,13.2,66.1,Sudan
+1991,31.47,12.33,76.48,Sudan
+1992,31.86,12.98,73.68,Sudan
+1993,32.24,13.62,71.57,Sudan
+1994,32.61,14.25,71.3,Sudan
+1995,32.98,14.87,71.03,Sudan
+1996,33.33,15.49,70.76,Sudan
+1997,33.67,16.08,70.48,Sudan
+1998,34,16.66,70.19,Sudan
+1999,34.3,17.21,69.89,Sudan
+2000,34.6,17.75,69.59,Sudan
+2001,34.88,18.28,69.27,Sudan
+2002,35.15,18.81,68.94,Sudan
+2003,35.42,19.33,68.6,Sudan
+2004,35.69,19.87,68.25,Sudan
+2005,35.97,20.42,67.89,Sudan
+2006,36.25,20.99,67.51,Sudan
+2007,36.55,21.58,67.12,Sudan
+2008,36.85,22.19,66.73,Sudan
+2009,29,15,58,Sudan
+2010,37.49,23.48,65.84,Sudan
+2011,37.82,24.14,65.35,Sudan
+2012,38.15,24.81,64.85,Sudan
+2013,38.48,25.48,64.34,Sudan
+2014,44.9,31.7,76.3,Sudan
+1990,96.91,99.78,0,Suriname
+1991,97.23,99.69,0,Suriname
+1992,97.55,99.61,0,Suriname
+1993,97.86,99.52,0,Suriname
+1994,98.17,99.43,0,Suriname
+1995,98.47,99.33,0,Suriname
+1996,98.75,99.21,0,Suriname
+1997,99.03,99.08,0,Suriname
+1998,99.29,98.93,0,Suriname
+1999,99.62,99,99.62,Suriname
+2000,99.74,98.56,100,Suriname
+2001,99.89,98.37,100,Suriname
+2002,99.97,98.16,100,Suriname
+2003,100,97.96,100,Suriname
+2004,100,97.77,100,Suriname
+2005,100,97.59,100,Suriname
+2006,100,97.43,100,Suriname
+2007,100,97.29,100,Suriname
+2008,100,97.18,100,Suriname
+2009,100,97.09,100,Suriname
+2010,100,97.01,100,Suriname
+2011,100,96.94,100,Suriname
+2012,100,96.88,100,Suriname
+2013,100,96.82,100,Suriname
+2014,100,96.77,100,Suriname
+1990,0,13.07,0,Swaziland
+1991,0.2,13.67,0,Swaziland
+1992,0.83,14.27,0,Swaziland
+1993,1.31,14.87,0,Swaziland
+1994,4.3,15.46,0,Swaziland
+1995,7.28,16.04,0,Swaziland
+1996,10.25,16.61,0,Swaziland
+1997,13.2,17.16,0,Swaziland
+1998,16.14,17.69,0,Swaziland
+1999,19.07,18.2,0,Swaziland
+2000,21.97,18.7,0,Swaziland
+2001,26.9,19.19,0,Swaziland
+2002,27.76,19.67,55.75,Swaziland
+2003,30.64,20.15,67.22,Swaziland
+2004,33.53,20.64,78.79,Swaziland
+2005,36.42,21.15,90.45,Swaziland
+2006,35.2,21.7,63.4,Swaziland
+2007,42.23,22.22,100,Swaziland
+2008,45.15,22.79,100,Swaziland
+2009,48.08,23.38,100,Swaziland
+2010,51.01,23.99,100,Swaziland
+2011,53.96,24.61,100,Swaziland
+2012,56.9,25.23,100,Swaziland
+2013,59.85,25.86,100,Swaziland
+2014,65,26.49,100,Swaziland
+1990,100,100,100,Sweden
+1991,100,100,100,Sweden
+1992,100,100,100,Sweden
+1993,100,100,100,Sweden
+1994,100,100,100,Sweden
+1995,100,100,100,Sweden
+1996,100,100,100,Sweden
+1997,100,100,100,Sweden
+1998,100,100,100,Sweden
+1999,100,100,100,Sweden
+2000,100,100,100,Sweden
+2001,100,100,100,Sweden
+2002,100,100,100,Sweden
+2003,100,100,100,Sweden
+2004,100,100,100,Sweden
+2005,100,100,100,Sweden
+2006,100,100,100,Sweden
+2007,100,100,100,Sweden
+2008,100,100,100,Sweden
+2009,100,100,100,Sweden
+2010,100,100,100,Sweden
+2011,100,100,100,Sweden
+2012,100,100,100,Sweden
+2013,100,100,100,Sweden
+2014,100,100,100,Sweden
+1990,100,100,100,Switzerland
+1991,100,100,100,Switzerland
+1992,100,100,100,Switzerland
+1993,100,100,100,Switzerland
+1994,100,100,100,Switzerland
+1995,100,100,100,Switzerland
+1996,100,100,100,Switzerland
+1997,100,100,100,Switzerland
+1998,100,100,100,Switzerland
+1999,100,100,100,Switzerland
+2000,100,100,100,Switzerland
+2001,100,100,100,Switzerland
+2002,100,100,100,Switzerland
+2003,100,100,100,Switzerland
+2004,100,100,100,Switzerland
+2005,100,100,100,Switzerland
+2006,100,100,100,Switzerland
+2007,100,100,100,Switzerland
+2008,100,100,100,Switzerland
+2009,100,100,100,Switzerland
+2010,100,100,100,Switzerland
+2011,100,100,100,Switzerland
+2012,100,100,100,Switzerland
+2013,100,100,100,Switzerland
+2014,100,100,100,Switzerland
+1990,77.07,61.39,0,Syria
+1991,77.91,62.48,0,Syria
+1992,78.75,63.56,0,Syria
+1993,79.59,64.65,0,Syria
+1994,80.43,65.72,0,Syria
+1995,81.26,66.79,0,Syria
+1996,82.07,67.84,0,Syria
+1997,82.87,68.88,0,Syria
+1998,83.66,69.9,0,Syria
+1999,84.43,70.89,0,Syria
+2000,85.18,71.87,0,Syria
+2001,85.92,72.85,0,Syria
+2002,86.6,73.6,99.5,Syria
+2003,87.39,74.78,98.55,Syria
+2004,88.12,75.76,98.9,Syria
+2005,88.86,76.75,99.26,Syria
+2006,89.6,77.76,99.63,Syria
+2007,90.36,78.79,100,Syria
+2008,91.12,79.85,100,Syria
+2009,91.9,80.92,100,Syria
+2010,92.7,82.01,100,Syria
+2011,93.47,83.11,100,Syria
+2012,94.26,84.22,100,Syria
+2013,95.05,85.34,100,Syria
+2014,95.84,86.45,100,Syria
+1990,96.79,98.94,0,Tajikistan
+1991,96.99,99,0,Tajikistan
+1992,97.18,99.06,0,Tajikistan
+1993,97.37,99.11,0,Tajikistan
+1994,97.56,99.15,0,Tajikistan
+1995,97.73,99.19,0,Tajikistan
+1996,97.9,99.22,0,Tajikistan
+1997,98.05,99.22,0,Tajikistan
+1998,98.19,99.21,0,Tajikistan
+1999,97,99.18,0,Tajikistan
+2000,98.41,99.13,96.42,Tajikistan
+2001,98.51,99.07,96.93,Tajikistan
+2002,99,99.01,98.98,Tajikistan
+2003,100,99,99.9,Tajikistan
+2004,98.76,98.89,98.38,Tajikistan
+2005,99.3,99.1,99.7,Tajikistan
+2006,98.94,98.83,99.23,Tajikistan
+2007,99.05,98.84,99.62,Tajikistan
+2008,99.16,98.86,99.99,Tajikistan
+2009,99,98.91,99.25,Tajikistan
+2010,99.42,98.97,100,Tajikistan
+2011,99.56,99.04,100,Tajikistan
+2012,99.1,98.8,99.8,Tajikistan
+2013,99.85,99.21,100,Tajikistan
+2014,99.99,99.29,100,Tajikistan
+1990,5.33,0.21,0,United Republic of Tanzania
+1991,5.81,0.41,0,United Republic of Tanzania
+1992,6.8,1.3,23.9,United Republic of Tanzania
+1993,6.78,0.81,30.85,United Republic of Tanzania
+1994,7.25,1,31.95,United Republic of Tanzania
+1995,7.72,1.18,33.02,United Republic of Tanzania
+1996,9.4,1.8,35.5,United Republic of Tanzania
+1997,8.62,1.5,35.03,United Republic of Tanzania
+1998,9.05,1.64,35.98,United Republic of Tanzania
+1999,8,1.1,27.3,United Republic of Tanzania
+2000,9.85,1.84,37.75,United Republic of Tanzania
+2001,10.24,1.93,38.57,United Republic of Tanzania
+2002,10.61,2.01,39.35,United Republic of Tanzania
+2003,11.1,1.8,36.5,United Republic of Tanzania
+2004,11.4,1.6,38.9,United Republic of Tanzania
+2005,11.74,2.29,40.32,United Republic of Tanzania
+2006,12.12,2.41,40.53,United Republic of Tanzania
+2007,12.52,2.56,40.69,United Republic of Tanzania
+2008,11.5,2.1,40.1,United Republic of Tanzania
+2009,11.2,2,43.5,United Republic of Tanzania
+2010,14.8,3.7,46.2,United Republic of Tanzania
+2011,14.2,4.1,42.9,United Republic of Tanzania
+2012,15.3,3.6,46.4,United Republic of Tanzania
+2013,16.4,4.2,50.3,United Republic of Tanzania
+2014,15.5,4.03,41.16,United Republic of Tanzania
+1990,65.16,77.52,0,Thailand
+1991,66.92,78.52,0,Thailand
+1992,68.68,79.52,0,Thailand
+1993,70.44,80.52,0,Thailand
+1994,72.19,81.51,0,Thailand
+1995,73.94,82.49,0,Thailand
+1996,75.67,83.46,0,Thailand
+1997,77.4,84.41,0,Thailand
+1998,79.1,85.35,0,Thailand
+1999,80.79,86.26,0,Thailand
+2000,82.1,87,99.9,Thailand
+2001,84.12,88.04,76,Thailand
+2002,85.78,88.93,79.6,Thailand
+2003,87.43,89.81,83,Thailand
+2004,89.08,90.7,86.22,Thailand
+2005,90.73,91.61,89.27,Thailand
+2006,92.4,92.53,92.18,Thailand
+2007,94.07,93.48,94.95,Thailand
+2008,95.76,94.46,97.6,Thailand
+2009,97.45,95.45,100,Thailand
+2010,99.7,97,100,Thailand
+2011,99.5,97.47,100,Thailand
+2012,99.88,98.5,100,Thailand
+2013,99.99,99.53,100,Thailand
+2014,100,100,100,Thailand
+1990,8.61,0,0,Timor-Leste
+1991,10.2,0,0,Timor-Leste
+1992,11.79,0,0,Timor-Leste
+1993,13.38,0,0,Timor-Leste
+1994,14.97,0,0,Timor-Leste
+1995,16.54,0,0,Timor-Leste
+1996,18.11,0,0,Timor-Leste
+1997,19.66,0,0,Timor-Leste
+1998,21.2,0,0,Timor-Leste
+1999,22.71,0,0,Timor-Leste
+2000,24.22,0,0,Timor-Leste
+2001,25.6,0.36,0,Timor-Leste
+2002,27.19,3.1,99.56,Timor-Leste
+2003,27.7,3.2,73.6,Timor-Leste
+2004,30.16,8.59,92.47,Timor-Leste
+2005,31.64,11.35,88.45,Timor-Leste
+2006,33.14,14.14,84.68,Timor-Leste
+2007,36.6,20.3,82.3,Timor-Leste
+2008,36.16,19.78,77.86,Timor-Leste
+2009,37.68,22.63,74.82,Timor-Leste
+2010,38,24,83.4,Timor-Leste
+2011,40.75,28.37,69.43,Timor-Leste
+2012,42.29,31.25,67.08,Timor-Leste
+2013,43.84,34.13,64.95,Timor-Leste
+2014,45.38,37.02,63.04,Timor-Leste
+1990,0,0,0,Togo
+1991,0.97,0,0,Togo
+1992,2.12,0,0,Togo
+1993,4.13,0,0,Togo
+1994,6.14,0,0,Togo
+1995,8.14,0,0,Togo
+1996,10.13,0,0,Togo
+1997,12.1,0.34,0,Togo
+1998,15.3,2.4,41.2,Togo
+1999,16,5.25,38.38,Togo
+2000,16.97,7.68,35.91,Togo
+2001,19.85,10.1,39.32,Togo
+2002,21.75,12.51,39.84,Togo
+2003,23.66,14.93,40.4,Togo
+2004,25.56,17.36,40.99,Togo
+2005,27.47,19.79,41.62,Togo
+2006,27.9,6.1,64.9,Togo
+2007,31.32,24.74,42.96,Togo
+2008,33.26,27.24,43.69,Togo
+2009,35.21,29.77,44.45,Togo
+2010,37.16,32.31,45.25,Togo
+2011,39.7,77.9,10.2,Togo
+2012,41.09,37.42,46.96,Togo
+2013,43.06,39.98,47.87,Togo
+2014,45.7,16.3,83.2,Togo
+1990,77.78,88.81,0,Tonga
+1991,78.57,88.97,0,Tonga
+1992,79.36,89.12,0,Tonga
+1993,80.15,89.27,0,Tonga
+1994,80,89.41,0,Tonga
+1995,81.7,89.55,55.22,Tonga
+1996,82.46,89.67,58.18,Tonga
+1997,83.21,89.77,61.13,Tonga
+1998,83.94,89.86,64.07,Tonga
+1999,84.65,89.92,66.99,Tonga
+2000,85.35,89.97,69.89,Tonga
+2001,86.04,90.01,72.77,Tonga
+2002,86.72,90.04,75.63,Tonga
+2003,87.39,90.08,78.45,Tonga
+2004,88.07,90.12,81.25,Tonga
+2005,88.75,90.18,84.02,Tonga
+2006,92.3,90.7,97.71,Tonga
+2007,90.15,90.36,89.43,Tonga
+2008,90.86,90.48,92.08,Tonga
+2009,91.58,90.63,94.7,Tonga
+2010,92.31,90.79,97.28,Tonga
+2011,92.18,90.6,97.32,Tonga
+2012,92.8,91.3,97.7,Tonga
+2013,94.51,91.31,100,Tonga
+2014,95.25,91.49,100,Tonga
+1990,88.01,95.26,0,Tunisia
+1991,88.67,95.49,0,Tunisia
+1992,89.33,95.71,0,Tunisia
+1993,89.99,95.93,0,Tunisia
+1994,86.8,96.14,0,Tunisia
+1995,88.7,96.34,83.91,Tunisia
+1996,90.4,96.54,86.62,Tunisia
+1997,92,96.71,89.15,Tunisia
+1998,93.2,96.86,91.02,Tunisia
+1999,94.2,97,92.56,Tunisia
+2000,94.8,97.12,93.46,Tunisia
+2001,97.3,97.22,97.34,Tunisia
+2002,97.8,97.33,98.06,Tunisia
+2003,98.4,97.43,98.93,Tunisia
+2004,99,97.55,99.78,Tunisia
+2005,99.3,97.67,100,Tunisia
+2006,99.4,97.82,100,Tunisia
+2007,99.4,98.47,100,Tunisia
+2008,99.4,98.19,100,Tunisia
+2009,99.5,98.4,100,Tunisia
+2010,99.5,98.63,99.95,Tunisia
+2011,99.5,98.87,99.83,Tunisia
+2012,99.5,99.11,99.7,Tunisia
+2013,99.7,99.36,99.87,Tunisia
+2014,99.8,99.61,99.89,Tunisia
+1990,88.15,88.43,0,Turkey
+1991,88.8,89.07,0,Turkey
+1992,89.46,89.7,0,Turkey
+1993,90.11,90.33,0,Turkey
+1994,90.75,90.95,0,Turkey
+1995,91.39,91.56,0,Turkey
+1996,92.02,92.17,0,Turkey
+1997,92.63,92.75,0,Turkey
+1998,93.23,93.32,0,Turkey
+1999,93.81,93.86,0,Turkey
+2000,94.38,94.39,0,Turkey
+2001,94.93,94.91,0,Turkey
+2002,95.48,95.42,0,Turkey
+2003,96.02,95.94,0,Turkey
+2004,96.56,96.46,0,Turkey
+2005,97.11,97,0,Turkey
+2006,97.67,97.55,0,Turkey
+2007,98.24,98.14,0,Turkey
+2008,98.81,98.74,0,Turkey
+2009,99.33,99.36,0,Turkey
+2010,100,100,100,Turkey
+2011,99.92,100,99.89,Turkey
+2012,99.99,100,99.99,Turkey
+2013,100,100,100,Turkey
+2014,100,100,100,Turkey
+1990,98.15,98.29,0,Turkmenistan
+1991,98.32,98.44,0,Turkmenistan
+1992,98.48,98.59,0,Turkmenistan
+1993,98.63,98.73,0,Turkmenistan
+1994,98.78,98.87,0,Turkmenistan
+1995,98.93,99,0,Turkmenistan
+1996,99.06,99.12,0,Turkmenistan
+1997,99.18,99.22,0,Turkmenistan
+1998,99.28,99.31,0,Turkmenistan
+1999,99.37,99.37,0,Turkmenistan
+2000,99.6,99.6,99.7,Turkmenistan
+2001,99.51,99.45,99.59,Turkmenistan
+2002,99.57,99.48,99.67,Turkmenistan
+2003,99.62,99.51,99.75,Turkmenistan
+2004,99.67,99.55,99.82,Turkmenistan
+2005,99.73,99.6,99.88,Turkmenistan
+2006,99.8,99.68,99.93,Turkmenistan
+2007,99.87,99.77,99.97,Turkmenistan
+2008,99.93,99.9,99.97,Turkmenistan
+2009,99.97,100,99.94,Turkmenistan
+2010,100,100,100,Turkmenistan
+2011,100,100,100,Turkmenistan
+2012,100,100,100,Turkmenistan
+2013,100,100,100,Turkmenistan
+2014,100,100,100,Turkmenistan
+1990,88.7,99.84,100,Turks and Caicos Islands
+1991,90.57,99.9,87.54,Turks and Caicos Islands
+1992,90.82,99.96,88.05,Turks and Caicos Islands
+1993,91.07,100,88.53,Turks and Caicos Islands
+1994,91.32,100,89,Turks and Caicos Islands
+1995,91.56,100,89.44,Turks and Caicos Islands
+1996,91.79,100,89.85,Turks and Caicos Islands
+1997,92,100,90.23,Turks and Caicos Islands
+1998,92.2,100,90.58,Turks and Caicos Islands
+1999,92.38,100,90.9,Turks and Caicos Islands
+2000,95.6,100,94.8,Turks and Caicos Islands
+2001,92.7,100,91.45,Turks and Caicos Islands
+2002,92.85,99.96,91.69,Turks and Caicos Islands
+2003,92.99,99.9,91.93,Turks and Caicos Islands
+2004,93.14,99.85,92.15,Turks and Caicos Islands
+2005,93.29,99.81,92.37,Turks and Caicos Islands
+2006,93.44,99.8,92.6,Turks and Caicos Islands
+2007,93.61,99.81,92.83,Turks and Caicos Islands
+2008,93.79,99.84,93.06,Turks and Caicos Islands
+2009,93.98,99.89,93.3,Turks and Caicos Islands
+2010,94.17,99.96,93.55,Turks and Caicos Islands
+2011,94.37,100,93.79,Turks and Caicos Islands
+2012,93.1,100,92.42,Turks and Caicos Islands
+2013,94.78,100,94.29,Turks and Caicos Islands
+2014,94.99,100,94.54,Turks and Caicos Islands
+1990,90.66,91.04,0,Tuvalu
+1991,91.05,91.34,0,Tuvalu
+1992,91.43,91.64,0,Tuvalu
+1993,91.82,91.94,0,Tuvalu
+1994,92.2,92.23,0,Tuvalu
+1995,92.57,92.51,0,Tuvalu
+1996,92.93,92.77,0,Tuvalu
+1997,93.28,93.02,0,Tuvalu
+1998,93.61,93.26,0,Tuvalu
+1999,93.93,93.47,0,Tuvalu
+2000,94.23,93.66,0,Tuvalu
+2001,94.51,93.85,0,Tuvalu
+2002,94.63,94.1,95.4,Tuvalu
+2003,95.07,94.21,96.02,Tuvalu
+2004,95.35,94.4,96.35,Tuvalu
+2005,95.63,94.6,96.67,Tuvalu
+2006,95.92,94.83,96.98,Tuvalu
+2007,96.7,95.3,98.6,Tuvalu
+2008,96.53,95.35,97.6,Tuvalu
+2009,96.86,95.63,97.9,Tuvalu
+2010,97.18,95.94,98.21,Tuvalu
+2011,97.52,96.25,98.52,Tuvalu
+2012,97.67,96.62,98.82,Tuvalu
+2013,98.19,96.9,99.13,Tuvalu
+2014,98.53,97.23,99.44,Tuvalu
+1990,2.96,0,0,Uganda
+1991,5.6,1.5,33.6,Uganda
+1992,4.11,0.23,34.21,Uganda
+1993,4.68,0.57,36.29,Uganda
+1994,5.24,0.91,38.34,Uganda
+1995,6.8,1.5,40.2,Uganda
+1996,6.35,1.55,42.38,Uganda
+1997,6.88,1.85,44.37,Uganda
+1998,7.39,2.13,46.33,Uganda
+1999,7.89,2.39,48.28,Uganda
+2000,8.38,2.63,50.2,Uganda
+2001,8.6,2.4,43.9,Uganda
+2002,7.8,2.7,39.3,Uganda
+2003,9.77,3.32,55.05,Uganda
+2004,10.24,3.55,55.94,Uganda
+2005,8.9,2.5,49,Uganda
+2006,9,2.9,41.8,Uganda
+2007,11.66,4.37,57.99,Uganda
+2008,12.16,4.69,58.46,Uganda
+2009,10,3.3,45,Uganda
+2010,13.18,5.38,59.2,Uganda
+2011,14.6,5.3,55.4,Uganda
+2012,14.22,6.11,59.74,Uganda
+2013,13.9,6.48,54.53,Uganda
+2014,20.4,10.3,51.4,Uganda
+1990,90.19,90.2,100,Ukraine
+1991,90.82,90.82,100,Ukraine
+1992,91.44,91.43,100,Ukraine
+1993,92.07,92.04,100,Ukraine
+1994,92.68,92.65,100,Ukraine
+1995,93.29,93.24,100,Ukraine
+1996,93.89,93.82,100,Ukraine
+1997,94.47,94.39,100,Ukraine
+1998,95.04,94.93,100,Ukraine
+1999,95.59,95.46,100,Ukraine
+2000,96.13,95.97,100,Ukraine
+2001,96.65,96.46,100,Ukraine
+2002,97.17,96.96,100,Ukraine
+2003,97.68,97.45,100,Ukraine
+2004,98.2,97.96,100,Ukraine
+2005,98.72,98.48,100,Ukraine
+2006,99.21,99.01,100,Ukraine
+2007,99.8,99.6,99.9,Ukraine
+2008,99.86,100,99.79,Ukraine
+2009,99.97,100,99.95,Ukraine
+2010,100,100,100,Ukraine
+2011,100,100,100,Ukraine
+2012,100,100,100,Ukraine
+2013,100,100,100,Ukraine
+2014,100,100,100,Ukraine
+1990,100,100,100,United Arab Emirates
+1991,100,100,100,United Arab Emirates
+1992,100,100,100,United Arab Emirates
+1993,100,100,100,United Arab Emirates
+1994,100,100,100,United Arab Emirates
+1995,100,100,100,United Arab Emirates
+1996,100,100,100,United Arab Emirates
+1997,100,100,100,United Arab Emirates
+1998,100,100,100,United Arab Emirates
+1999,100,100,100,United Arab Emirates
+2000,100,100,100,United Arab Emirates
+2001,100,100,100,United Arab Emirates
+2002,100,100,100,United Arab Emirates
+2003,100,100,100,United Arab Emirates
+2004,100,100,100,United Arab Emirates
+2005,100,100,100,United Arab Emirates
+2006,100,100,100,United Arab Emirates
+2007,100,100,100,United Arab Emirates
+2008,100,100,100,United Arab Emirates
+2009,100,100,100,United Arab Emirates
+2010,100,100,100,United Arab Emirates
+2011,100,100,100,United Arab Emirates
+2012,100,100,100,United Arab Emirates
+2013,100,100,100,United Arab Emirates
+2014,100,100,100,United Arab Emirates
+1990,100,100,100,United Kingdom
+1991,100,100,100,United Kingdom
+1992,100,100,100,United Kingdom
+1993,100,100,100,United Kingdom
+1994,100,100,100,United Kingdom
+1995,100,100,100,United Kingdom
+1996,100,100,100,United Kingdom
+1997,100,100,100,United Kingdom
+1998,100,100,100,United Kingdom
+1999,100,100,100,United Kingdom
+2000,100,100,100,United Kingdom
+2001,100,100,100,United Kingdom
+2002,100,100,100,United Kingdom
+2003,100,100,100,United Kingdom
+2004,100,100,100,United Kingdom
+2005,100,100,100,United Kingdom
+2006,100,100,100,United Kingdom
+2007,100,100,100,United Kingdom
+2008,100,100,100,United Kingdom
+2009,100,100,100,United Kingdom
+2010,100,100,100,United Kingdom
+2011,100,100,100,United Kingdom
+2012,100,100,100,United Kingdom
+2013,100,100,100,United Kingdom
+2014,100,100,100,United Kingdom
+1990,100,100,100,United States of America
+1991,100,100,100,United States of America
+1992,100,100,100,United States of America
+1993,100,100,100,United States of America
+1994,100,100,100,United States of America
+1995,100,100,100,United States of America
+1996,100,100,100,United States of America
+1997,100,100,100,United States of America
+1998,100,100,100,United States of America
+1999,100,100,100,United States of America
+2000,100,100,100,United States of America
+2001,100,100,100,United States of America
+2002,100,100,100,United States of America
+2003,100,100,100,United States of America
+2004,100,100,100,United States of America
+2005,100,100,100,United States of America
+2006,100,100,100,United States of America
+2007,100,100,100,United States of America
+2008,100,100,100,United States of America
+2009,100,100,100,United States of America
+2010,100,100,100,United States of America
+2011,100,100,100,United States of America
+2012,100,100,100,United States of America
+2013,100,100,100,United States of America
+2014,100,100,100,United States of America
+1990,100,100,100,United States Virgin Islands
+1991,100,100,100,United States Virgin Islands
+1992,100,100,100,United States Virgin Islands
+1993,100,100,100,United States Virgin Islands
+1994,100,100,100,United States Virgin Islands
+1995,100,100,100,United States Virgin Islands
+1996,100,100,100,United States Virgin Islands
+1997,100,100,100,United States Virgin Islands
+1998,100,100,100,United States Virgin Islands
+1999,100,100,100,United States Virgin Islands
+2000,100,100,100,United States Virgin Islands
+2001,100,100,100,United States Virgin Islands
+2002,100,100,100,United States Virgin Islands
+2003,100,100,100,United States Virgin Islands
+2004,100,100,100,United States Virgin Islands
+2005,100,100,100,United States Virgin Islands
+2006,100,100,100,United States Virgin Islands
+2007,100,100,100,United States Virgin Islands
+2008,100,100,100,United States Virgin Islands
+2009,100,100,100,United States Virgin Islands
+2010,100,100,100,United States Virgin Islands
+2011,100,100,100,United States Virgin Islands
+2012,100,100,100,United States Virgin Islands
+2013,100,100,100,United States Virgin Islands
+2014,100,100,100,United States Virgin Islands
+1990,95.74,66.56,0,Uruguay
+1991,95.97,67.9,0,Uruguay
+1992,96.2,69.25,98.38,Uruguay
+1993,96.42,70.59,0,Uruguay
+1994,96.64,71.92,0,Uruguay
+1995,96.86,73.25,99.1,Uruguay
+1996,97.06,74.56,99.32,Uruguay
+1997,97.24,75.85,99.31,Uruguay
+1998,97.42,77.13,99.34,Uruguay
+1999,97.57,78.39,99.34,Uruguay
+2000,97.71,79.63,99.34,Uruguay
+2001,97.84,80.86,99.34,Uruguay
+2002,97.96,82.08,99.34,Uruguay
+2003,98.07,83.31,99.34,Uruguay
+2004,98.19,84.54,99.34,Uruguay
+2005,98.31,85.79,99.34,Uruguay
+2006,98.51,86.77,99.33,Uruguay
+2007,98.69,88.61,99.39,Uruguay
+2008,98.78,88.94,99.47,Uruguay
+2009,98.9,91,99.38,Uruguay
+2010,99.07,92.35,99.46,Uruguay
+2011,99.17,94.44,99.43,Uruguay
+2012,99.42,95.08,99.65,Uruguay
+2013,99.61,97.04,99.75,Uruguay
+2014,99.66,97.45,99.78,Uruguay
+1990,98.39,97.86,0,Uzbekistan
+1991,98.56,98.06,0,Uzbekistan
+1992,98.74,98.27,0,Uzbekistan
+1993,98.91,98.48,0,Uzbekistan
+1994,99.07,98.68,0,Uzbekistan
+1995,99.22,98.86,0,Uzbekistan
+1996,99.6,99.3,100,Uzbekistan
+1997,99.5,99.2,99.99,Uzbekistan
+1998,99.62,99.34,100,Uzbekistan
+1999,99.71,99.46,100,Uzbekistan
+2000,99.79,99.56,100,Uzbekistan
+2001,99.86,99.66,100,Uzbekistan
+2002,99.7,99.5,99.9,Uzbekistan
+2003,99.99,99.84,100,Uzbekistan
+2004,100,99.94,100,Uzbekistan
+2005,100,100,100,Uzbekistan
+2006,100,100,100,Uzbekistan
+2007,100,100,100,Uzbekistan
+2008,100,100,100,Uzbekistan
+2009,100,100,100,Uzbekistan
+2010,100,100,100,Uzbekistan
+2011,100,100,100,Uzbekistan
+2012,100,100,100,Uzbekistan
+2013,100,100,100,Uzbekistan
+2014,100,100,100,Uzbekistan
+1990,12.97,17.44,0,Vanuatu
+1991,13.93,17.24,0,Vanuatu
+1992,14.88,17.04,0,Vanuatu
+1993,15.84,16.83,0,Vanuatu
+1994,18,16.61,0,Vanuatu
+1995,17.72,16.39,23,Vanuatu
+1996,18.65,16.15,28.37,Vanuatu
+1997,19.57,15.9,33.56,Vanuatu
+1998,20.47,15.63,38.59,Vanuatu
+1999,19.1,15.34,32.94,Vanuatu
+2000,22.22,15.03,48.2,Vanuatu
+2001,23.07,14.71,52.8,Vanuatu
+2002,23.92,14.38,57.27,Vanuatu
+2003,24.76,14.06,61.58,Vanuatu
+2004,25.61,13.75,65.75,Vanuatu
+2005,26.46,13.45,69.77,Vanuatu
+2006,26.44,10.44,82.78,Vanuatu
+2007,28.19,12.91,77.39,Vanuatu
+2008,29.07,12.68,81,Vanuatu
+2009,33.29,17.37,82.35,Vanuatu
+2010,30.85,12.27,87.85,Vanuatu
+2011,31.75,12.08,91.11,Vanuatu
+2012,32.66,11.9,94.27,Vanuatu
+2013,31.7,8.5,86.2,Vanuatu
+2014,34.47,11.54,100,Vanuatu
+1990,97.49,97.53,0,Venezuela
+1991,97.61,97.34,0,Venezuela
+1992,97.82,97.33,99.94,Venezuela
+1993,97.87,96.96,98.02,Venezuela
+1994,97.99,96.77,98.19,Venezuela
+1995,98.1,96.56,98.34,Venezuela
+1996,98.2,96.34,98.49,Venezuela
+1997,98.29,96.11,98.61,Venezuela
+1998,98.36,95.85,98.72,Venezuela
+1999,98.41,95.58,98.81,Venezuela
+2000,98.45,95.28,98.88,Venezuela
+2001,98.48,94.98,98.94,Venezuela
+2002,98.5,94.67,99,Venezuela
+2003,98.51,94.37,99.05,Venezuela
+2004,98.53,94.07,99.11,Venezuela
+2005,98.55,93.79,99.17,Venezuela
+2006,98.58,93.53,99.23,Venezuela
+2007,98.62,93.29,99.31,Venezuela
+2008,98.67,93.07,99.39,Venezuela
+2009,98.74,92.88,99.48,Venezuela
+2010,98.8,92.69,99.58,Venezuela
+2011,98.84,92.52,99.64,Venezuela
+2012,98.95,92.36,99.78,Venezuela
+2013,99.03,92.2,99.88,Venezuela
+2014,99.11,92.04,99.99,Venezuela
+1990,73.86,68.99,0,Vietnam
+1991,75.11,70.43,0,Vietnam
+1992,76.37,71.87,0,Vietnam
+1993,77.62,73.31,0,Vietnam
+1994,78.87,74.74,0,Vietnam
+1995,80.11,76.16,0,Vietnam
+1996,81.33,77.57,0,Vietnam
+1997,78.4,73.7,98.6,Vietnam
+1998,83.75,80.33,94.95,Vietnam
+1999,84.93,81.68,95.31,Vietnam
+2000,86.09,83.02,95.64,Vietnam
+2001,87.25,84.34,96,Vietnam
+2002,89.1,86.6,99.4,Vietnam
+2003,89.54,86.98,96.77,Vietnam
+2004,90.68,88.31,97.19,Vietnam
+2005,96.1,95.2,99.6,Vietnam
+2006,96,94.9,99.1,Vietnam
+2007,94.16,92.41,98.53,Vietnam
+2008,95.34,93.82,99.02,Vietnam
+2009,96.1,94.6,99.6,Vietnam
+2010,97.72,96.7,100,Vietnam
+2011,99,97.75,100,Vietnam
+2012,100,99.62,100,Vietnam
+2013,100,100,100,Vietnam
+2014,99.2,98.9,99.9,Vietnam
+1990,0,0,0,Wallis and Futuna
+1991,0,0,0,Wallis and Futuna
+1992,0,0,0,Wallis and Futuna
+1993,0,0,0,Wallis and Futuna
+1994,0,0,0,Wallis and Futuna
+1995,0,0,0,Wallis and Futuna
+1996,0,0,0,Wallis and Futuna
+1997,0,0,0,Wallis and Futuna
+1998,0,0,0,Wallis and Futuna
+1999,0,0,0,Wallis and Futuna
+2000,0,0,0,Wallis and Futuna
+2001,0,0,0,Wallis and Futuna
+2002,0,0,0,Wallis and Futuna
+2003,0,0,0,Wallis and Futuna
+2004,0,0,0,Wallis and Futuna
+2005,0,0,0,Wallis and Futuna
+2006,0,0,0,Wallis and Futuna
+2007,0,0,0,Wallis and Futuna
+2008,0,0,0,Wallis and Futuna
+2009,0,0,0,Wallis and Futuna
+2010,0,0,0,Wallis and Futuna
+2011,0,0,0,Wallis and Futuna
+2012,0,0,0,Wallis and Futuna
+2013,0,0,0,Wallis and Futuna
+2014,0,0,0,Wallis and Futuna
+1990,0,0,0,Western Sahara
+1991,0,0,0,Western Sahara
+1992,0,0,0,Western Sahara
+1993,0,0,0,Western Sahara
+1994,0,0,0,Western Sahara
+1995,0,0,0,Western Sahara
+1996,0,0,0,Western Sahara
+1997,0,0,0,Western Sahara
+1998,0,0,0,Western Sahara
+1999,0,0,0,Western Sahara
+2000,0,0,0,Western Sahara
+2001,0,0,0,Western Sahara
+2002,0,0,0,Western Sahara
+2003,0,0,0,Western Sahara
+2004,0,0,0,Western Sahara
+2005,0,0,0,Western Sahara
+2006,0,0,0,Western Sahara
+2007,0,0,0,Western Sahara
+2008,0,0,0,Western Sahara
+2009,0,0,0,Western Sahara
+2010,0,0,0,Western Sahara
+2011,0,0,0,Western Sahara
+2012,0,0,0,Western Sahara
+2013,0,0,0,Western Sahara
+2014,0,0,0,Western Sahara
+1990,35.17,21.81,0,Yemen
+1991,36.77,23.4,0,Yemen
+1992,44.1,33.9,91.2,Yemen
+1993,39.96,26.58,85.68,Yemen
+1994,41.55,28.16,85.8,Yemen
+1995,43.13,29.73,86.11,Yemen
+1996,44.7,31.29,86.58,Yemen
+1997,42.6,27.1,89.8,Yemen
+1998,47.79,34.36,87.59,Yemen
+1999,49.32,35.86,88.11,Yemen
+2000,50.82,37.34,88.66,Yemen
+2001,52.32,38.82,89.21,Yemen
+2002,53.81,40.29,89.77,Yemen
+2003,55.29,41.76,90.34,Yemen
+2004,49.59,32.24,91.59,Yemen
+2005,58.27,44.74,91.49,Yemen
+2006,59.77,46.25,92.08,Yemen
+2007,61.28,47.79,92.67,Yemen
+2008,62.8,49.35,93.28,Yemen
+2009,64.33,50.94,93.9,Yemen
+2010,65.86,52.53,94.54,Yemen
+2011,67.4,54.14,95.2,Yemen
+2012,68.95,55.75,95.89,Yemen
+2013,75.6,65.2,98.5,Yemen
+2014,72.04,58.99,97.35,Yemen
+1990,13.9,1.8,34.7,Zambia
+1991,14.78,1.97,34.82,Zambia
+1992,19.2,3.1,39.2,Zambia
+1993,15.7,2.22,37.66,Zambia
+1994,16.16,2.34,39.12,Zambia
+1995,16.61,2.45,40.6,Zambia
+1996,17.3,1.5,44.1,Zambia
+1997,17.47,2.63,43.65,Zambia
+1998,17.87,2.69,45.21,Zambia
+1999,18.26,2.73,46.79,Zambia
+2000,16.7,2.2,44.1,Zambia
+2001,19,2.77,49.21,Zambia
+2002,17.4,2.9,45.1,Zambia
+2003,18.5,3,48,Zambia
+2004,20.3,3.1,47.6,Zambia
+2005,20.42,2.84,50.86,Zambia
+2006,20.79,2.89,51.22,Zambia
+2007,18.5,3,47.8,Zambia
+2008,21.55,3.07,51.87,Zambia
+2009,21.95,3.19,52.17,Zambia
+2010,22,3.1,49.8,Zambia
+2011,22.76,3.47,52.75,Zambia
+2012,23.17,3.62,53.02,Zambia
+2013,23.59,3.77,53.28,Zambia
+2014,27.9,3.8,61.5,Zambia
+1990,29.89,3.19,0,Zimbabwe
+1991,30.24,3.61,0,Zimbabwe
+1992,28.2,4.03,0,Zimbabwe
+1993,30.93,4.45,90.04,Zimbabwe
+1994,28.1,3.4,80.4,Zimbabwe
+1995,31.6,5.26,88.27,Zimbabwe
+1996,31.92,5.65,87.41,Zimbabwe
+1997,32.23,6.02,86.58,Zimbabwe
+1998,32.52,6.37,85.75,Zimbabwe
+1999,38.4,8.3,87.4,Zimbabwe
+2000,33.05,7.02,84.13,Zimbabwe
+2001,33.3,7.33,83.34,Zimbabwe
+2002,34.2,7.63,84.46,Zimbabwe
+2003,33.77,7.93,82.89,Zimbabwe
+2004,34.01,8.24,83.39,Zimbabwe
+2005,34.25,8.56,83.87,Zimbabwe
+2006,37.2,8.7,91.4,Zimbabwe
+2007,34.76,9.28,84.81,Zimbabwe
+2008,35.03,9.67,85.25,Zimbabwe
+2009,35.32,10.08,85.68,Zimbabwe
+2010,35.6,10.5,86.11,Zimbabwe
+2011,36.9,13.3,83.2,Zimbabwe
+2012,36.19,11.38,86.94,Zimbabwe
+2013,36.49,11.83,87.34,Zimbabwe
+2014,32.3,9.8,83.4,Zimbabwe
+1990,82.42,93.33,0,Trinidad and Tobago
+1991,83.35,93.64,0,Trinidad and Tobago
+1992,84.27,93.95,0,Trinidad and Tobago
+1993,85.2,94.26,0,Trinidad and Tobago
+1994,86.12,94.56,0,Trinidad and Tobago
+1995,87.03,94.85,0,Trinidad and Tobago
+1996,87.93,95.13,0,Trinidad and Tobago
+1997,88.82,95.39,0,Trinidad and Tobago
+1998,89.69,95.63,0,Trinidad and Tobago
+1999,90.55,95.86,0,Trinidad and Tobago
+2000,91.29,96.2,100,Trinidad and Tobago
+2001,92.21,96.26,58.11,Trinidad and Tobago
+2002,93.03,96.45,63.69,Trinidad and Tobago
+2003,93.85,96.64,69.42,Trinidad and Tobago
+2004,94.67,96.84,75.28,Trinidad and Tobago
+2005,95.49,97.06,81.25,Trinidad and Tobago
+2006,96.32,97.29,87.34,Trinidad and Tobago
+2007,97.16,97.55,93.51,Trinidad and Tobago
+2008,98.01,97.83,99.76,Trinidad and Tobago
+2009,99,98,100,Trinidad and Tobago
+2010,99.43,98.45,100,Trinidad and Tobago
+2011,99.8,98.77,100,Trinidad and Tobago
+2012,99.96,99.11,100,Trinidad and Tobago
+2013,100,99.44,100,Trinidad and Tobago
+2014,100,99.78,100,Trinidad and Tobago
