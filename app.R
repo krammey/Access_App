@@ -14,10 +14,9 @@ library(geojson)
 library(geojsonio)
 library(rgdal)
 library(dplyr)
-library(rgdal)
-library(markdown)
 library(Cairo)
 library(dashboardthemes)
+# library(c( shiny,shinydashboard,ggplot2,maps,ggmap,magick,markdown,leaflet,geojson,geojsonio,rgdal,dplyr,Cairo,dashboardthemes ))
 
 
 # Load access data
@@ -118,12 +117,12 @@ ui <- dashboardPage(
         tabItems(
             tabItem(tabName = "readme", selected = T,
                 box(
-                    width = NULL, 
+                    width = NULL,
                     title = "Welcome!",
                     solidHeader = TRUE,
-                    status = "primary",
-                    withMathJax(),
-                    includeMarkdown("Readme.md")
+                    status = "primary"
+                    # withMathJax(),
+                    # includeMarkdown("Readme.md")
                 )
             ),
             tabItem(tabName = "by_year",
@@ -252,22 +251,34 @@ server <- function(input, output) ({
     output$YearMap <- renderLeaflet({
 
         # Get input year
-        h <- input$inputyear
+        # h <- input$inputyear
         
         # Get mapping data
-        countries <- YearMapDataFxn(h)
+        # countries <- YearMapDataFxn(h)
+      
+        # Remove Antarctica
+        # countries <- countries[!countries$ADMIN == "Antarctica",]
+        
+        # Get mapping data
+        countries <- reactive({
+            countries <- YearMapDataFxn(input$inputyear)
+            countries <- countries[!countries$ADMIN == "Antarctica",]
+            return(countries)
+        })
+        
+        
         # Define color palette
-        pal <- colorNumeric(c("orange","blue"), domain = countries$Access)
+        pal <- colorNumeric(c("darkseagreen3","deepskyblue4"), domain = countries$Access)
         labels <- sprintf(
           "<strong>%s</strong><br/>%g &#37;</sup>",
           countries$ADMIN, countries$Access
         ) %>% lapply(htmltools::HTML)
         
         leaflet(countries) %>%
+            # options = leafletOptions(minZoom = 0, maxZoom = 3) %>%
             # addTiles() %>%
-            setView( lng = 2.34, lat = 48.85, zoom = 5 ) %>%
-            # addProviderTiles("HikeBike.HikeBike") %>%
             addPolygons(
+                options = leafletOptions(minZoom = 0, maxZoom = 3),
                 fillColor = ~pal(Access),
                 weight = 0.3,
                 opacity = 1,
@@ -275,8 +286,8 @@ server <- function(input, output) ({
                 dashArray = "",
                 fillOpacity = 1,
                 highlight = highlightOptions(
-                    weight = 10,
-                    color = "grey1",
+                    weight = 1,
+                    color = "white",
                     dashArray = "",
                     fillOpacity = 0.7,
                     bringToFront = TRUE),

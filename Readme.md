@@ -66,3 +66,4 @@ The end result is this publicly accessible tool for observing electrification tr
 
 ## Future Work
 The project is meant to serve as a starting point for further data analysis and visualization. 
+
