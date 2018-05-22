@@ -21,8 +21,9 @@ library(dashboardthemes)
 
 # Load access data
 access_data <- read.csv('access_data.csv', header=TRUE, stringsAsFactors = F, na.strings="NA")
-# Load map data
+# Load map data and remove Antarctica
 countries <- readOGR("countries.geojson")
+countries <- countries[!countries$ADMIN == "Antarctica",]
 
 # Load world map and fix virgin islands labels
 worldmap <- map_data(map="world")
@@ -42,15 +43,15 @@ names(countrylist) <- "Country/Region"
 
 # Define data processing function with year, h, as input
 YearMapDataFxn = function(h,MaxPerc=100){
-  # Get access data for year h
-  access_df <- access_data[access_data$Year == as.numeric(h),]
-  access_df <- cbind.data.frame(access_df$country, as.numeric(access_df$Nat.Elec.Rate), stringsAsFactors=FALSE)
-  names(access_df) <- c("Country","Access")
-  # Replace electrification rates over given percentage with NA
-  access_df$Access[access_df$Access > MaxPerc] <- NA
-  # Merge with map data
-  countries@data <- left_join(countries@data, access_df, by = c('ADMIN' = 'Country'))
-  return(countries)
+    # Get access data for year h
+    access_df <- access_data[access_data$Year == as.numeric(h),]
+    access_df <- cbind.data.frame(access_df$country, as.numeric(access_df$Nat.Elec.Rate), stringsAsFactors=FALSE)
+    names(access_df) <- c("Country","Access")
+    # Replace electrification rates over given percentage with NA
+    access_df$Access[access_df$Access > MaxPerc] <- NA
+    # Merge with map data
+    countries@data <- left_join(countries@data, access_df, by = c('ADMIN' = 'Country'))
+    return(countries)
 }
 
 # Define data processing function with year, h, as input
@@ -240,71 +241,133 @@ ui <- dashboardPage(
 )
 
 
-
 server <- function(input, output) ({
-    
-    options(shiny.usecairo=T)
-    
-    output$MapTitle <- renderText(paste0("Map of Electricity Access in ",input$inputyear))
-    
-    
-    output$YearMap <- renderLeaflet({
 
-        # Get input year
-        # h <- input$inputyear
-        
-        # Get mapping data
-        # countries <- YearMapDataFxn(h)
-      
-        # Remove Antarctica
-        # countries <- countries[!countries$ADMIN == "Antarctica",]
-        
-        # Get mapping data
-        countries <- reactive({
-            countries <- YearMapDataFxn(input$inputyear)
-            countries <- countries[!countries$ADMIN == "Antarctica",]
-            return(countries)
-        })
-        
-        
-        # Define color palette
-        pal <- colorNumeric(c("darkseagreen3","deepskyblue4"), domain = countries$Access)
-        labels <- sprintf(
-          "<strong>%s</strong><br/>%g &#37;</sup>",
-          countries$ADMIN, countries$Access
-        ) %>% lapply(htmltools::HTML)
-        
-        leaflet(countries) %>%
-            # options = leafletOptions(minZoom = 0, maxZoom = 3) %>%
-            # addTiles() %>%
+    # Get mapping data
+    countries2 <- reactive({ 
+        YearMapDataFxn(input$inputyear) 
+    })
+    
+    # Define color palette
+    pal <- reactive({ 
+        colorNumeric(
+            c("darkseagreen3","deepskyblue4"), 
+            domain = countries2()$Access
+        )
+    })
+    
+    # Define interactive country labels
+    labels <- reactive({ sprintf("<strong>%s</strong><br/>%g &#37;</sup>", countries2()$ADMIN,countries2()$Access) %>%
+        lapply(htmltools::HTML) })
+
+    output$YearMap <- renderLeaflet({
+      leaflet(countries) %>%
+          addPolygons(
+              options = leafletOptions(minZoom = 0, maxZoom = 3),
+              fillColor = "gray",
+              weight = 0.3,
+              opacity = 1,
+              color = "black",
+              dashArray = "",
+              fillOpacity = 1,
+              highlight = highlightOptions(
+                  weight = 1,
+                  color = "white",
+                  dashArray = "",
+                  fillOpacity = 0.7,
+                  bringToFront = TRUE
+              )
+          )
+    })
+    
+    observe({
+
+        leafletProxy("YearMap",data = countries2()) %>%
+            clearShapes() %>%
+            clearControls() %>%
             addPolygons(
-                options = leafletOptions(minZoom = 0, maxZoom = 3),
+                # options = leafletOptions(minZoom = 0, maxZoom = 3),
                 fillColor = ~pal(Access),
-                weight = 0.3,
-                opacity = 1,
-                color = "black",
-                dashArray = "",
-                fillOpacity = 1,
-                highlight = highlightOptions(
-                    weight = 1,
-                    color = "white",
-                    dashArray = "",
-                    fillOpacity = 0.7,
-                    bringToFront = TRUE),
-                label = labels,
-                labelOptions = labelOptions(
-                    style = list("font-weight" = "normal", padding = "3px 8px"),
-                    textsize = "15px",
-                    direction = "auto"))  %>%
+                # weight = 0.3,
+                # opacity = 1,
+                # color = "black",
+                # dashArray = "",
+                fillOpacity = 1
+                # highlight = highlightOptions(
+                #     weight = 1,
+                #     color = "white",
+                #     dashArray = "",
+                #     fillOpacity = 0.7,
+                #     bringToFront = TRUE
+                # )#,
+                # label = labels(),
+                # labelOptions = labelOptions(
+                #     style = list("font-weight" = "normal", padding = "3px 8px"),
+                #     textsize = "15px",
+                #     direction = "auto"
+                # )
+            ) %>%
             addLegend(
-                pal = pal, 
+                pal = pal,
                 values = ~Access, 
                 opacity = 1, 
                 title = NULL,
                 labFormat = labelFormat(suffix = "%"), 
                 position = "bottomright"
             )
-    })
+    })    
+        
+    # output$YearMap <- renderLeaflet({
+    # 
+    #     # Get input year
+    #     h <- input$inputyear
+    #     
+    #     # Get mapping data
+    #     countries <- YearMapDataFxn(h)
+    #   
+    #     # Remove Antarctica
+    #     countries <- countries[!countries$ADMIN == "Antarctica",]
+    #     
+    #     # Define color palette
+    #     pal <- colorNumeric(c("darkseagreen3","deepskyblue4"), domain = countries$Access)
+    #     labels <- sprintf(
+    #       "<strong>%s</strong><br/>%g &#37;</sup>",
+    #       countries$ADMIN, countries$Access
+    #     ) %>% lapply(htmltools::HTML)
+    #     
+    #     leaflet(countries) %>%
+    #         # options = leafletOptions(minZoom = 0, maxZoom = 3) %>%
+    #         # addTiles() %>%
+    #         addPolygons(
+    #             options = leafletOptions(minZoom = 0, maxZoom = 3),
+    #             fillColor = ~pal(Access),
+    #             weight = 0.3,
+    #             opacity = 1,
+    #             color = "black",
+    #             dashArray = "",
+    #             fillOpacity = 1,
+    #             highlight = highlightOptions(
+    #                 weight = 1,
+    #                 color = "white",
+    #                 dashArray = "",
+    #                 fillOpacity = 0.7,
+    #                 bringToFront = TRUE),
+    #             label = labels,
+    #             labelOptions = labelOptions(
+    #                 style = list("font-weight" = "normal", padding = "3px 8px"),
+    #                 textsize = "15px",
+    #                 direction = "auto"))  %>%
+    #         addLegend(
+    #             pal = pal, 
+    #             values = ~Access, 
+    #             opacity = 1, 
+    #             title = NULL,
+    #             labFormat = labelFormat(suffix = "%"), 
+    #             position = "bottomright"
+    #         )
+    # })
+    
+    output$MapTitle <- renderText(  paste0("Map of Electricity Access in ",input$inputyear)  )
     
     output$CountryMapTitle <- renderText({
       
