@@ -249,21 +249,24 @@ server <- function(input, output) ({
     })
     
     # Define color palette
-    pal <- reactive({ 
-        colorNumeric(
-            c("darkseagreen3","deepskyblue4"), 
-            domain = countries2$Access
-        )
-    })
+    # pal <- reactive({ 
+    #     colorNumeric(
+    #         c("darkseagreen3","deepskyblue4"), 
+    #         domain = countries2$Access
+    #     )
+    # })
+    pal <- colorNumeric( c("darkseagreen3","deepskyblue4"), domain = c(0,100) )
+
     
     # Define interactive country labels
     labels <- reactive({ sprintf("<strong>%s</strong><br/>%g &#37;</sup>", countries2()$ADMIN,countries2()$Access) %>%
         lapply(htmltools::HTML) })
 
+    # Base map
     output$YearMap <- renderLeaflet({
       leaflet(countries) %>%
-          addTiles() %>%
-          tileOptions(minZoom = 1, maxZoom = 2)
+          addTiles() #%>%
+          # tileOptions(minZoom = 1, maxZoom = 2)
           # addPolygons(
           #     options = leafletOptions(minZoom = 0, maxZoom = 3),
           #     fillColor = "gray",
@@ -289,20 +292,17 @@ server <- function(input, output) ({
             clearControls() %>%
             addPolygons(
                 options = leafletOptions(minZoom = 1, maxZoom = 3),
-                fillColor = colorNumeric(
-                    c("darkseagreen3","deepskyblue4"), 
-                    domain = c(0,100)
-                ),
+                fillColor = pal,
                 weight = 0.3,
                 opacity = 1,
                 color = "black",
                 dashArray = "",
-                fillOpacity = 1,
+                fillOpacity = 0.7,
                 highlight = highlightOptions(
                     weight = 1,
                     color = "white",
                     dashArray = "",
-                    fillOpacity = 0.7,
+                    fillOpacity = 0,
                     bringToFront = TRUE
                 )#,
                 # label = labels(),
@@ -313,12 +313,9 @@ server <- function(input, output) ({
                 # )
             ) %>%
             addLegend(
-                pal = colorNumeric(
-                    c("darkseagreen3","deepskyblue4"), 
-                    domain = c(0,100)
-                ),
+                pal = pal,
                 values = ~Access, 
-                opacity = 1, 
+                opacity = 0.7, 
                 title = NULL,
                 labFormat = labelFormat(suffix = "%"), 
                 position = "bottomright"
