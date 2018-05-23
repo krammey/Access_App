@@ -252,7 +252,7 @@ server <- function(input, output) ({
     pal <- reactive({ 
         colorNumeric(
             c("darkseagreen3","deepskyblue4"), 
-            domain = countries2()$Access
+            domain = countries2$Access
         )
     })
     
@@ -262,22 +262,24 @@ server <- function(input, output) ({
 
     output$YearMap <- renderLeaflet({
       leaflet(countries) %>%
-          addPolygons(
-              options = leafletOptions(minZoom = 0, maxZoom = 3),
-              fillColor = "gray",
-              weight = 0.3,
-              opacity = 1,
-              color = "black",
-              dashArray = "",
-              fillOpacity = 1,
-              highlight = highlightOptions(
-                  weight = 1,
-                  color = "white",
-                  dashArray = "",
-                  fillOpacity = 0.7,
-                  bringToFront = TRUE
-              )
-          )
+          addTiles() %>%
+          tileOptions(minZoom = 1, maxZoom = 2)
+          # addPolygons(
+          #     options = leafletOptions(minZoom = 0, maxZoom = 3),
+          #     fillColor = "gray",
+          #     weight = 0.3,
+          #     opacity = 1,
+          #     color = "black",
+          #     dashArray = "",
+          #     fillOpacity = 1,
+          #     highlight = highlightOptions(
+          #         weight = 1,
+          #         color = "white",
+          #         dashArray = "",
+          #         fillOpacity = 0.7,
+          #         bringToFront = TRUE
+          #     )
+          # )
     })
     
     observe({
@@ -286,20 +288,23 @@ server <- function(input, output) ({
             clearShapes() %>%
             clearControls() %>%
             addPolygons(
-                # options = leafletOptions(minZoom = 0, maxZoom = 3),
-                fillColor = ~pal(Access),
-                # weight = 0.3,
-                # opacity = 1,
-                # color = "black",
-                # dashArray = "",
-                fillOpacity = 1
-                # highlight = highlightOptions(
-                #     weight = 1,
-                #     color = "white",
-                #     dashArray = "",
-                #     fillOpacity = 0.7,
-                #     bringToFront = TRUE
-                # )#,
+                options = leafletOptions(minZoom = 1, maxZoom = 3),
+                fillColor = colorNumeric(
+                    c("darkseagreen3","deepskyblue4"), 
+                    domain = c(0,100)
+                ),
+                weight = 0.3,
+                opacity = 1,
+                color = "black",
+                dashArray = "",
+                fillOpacity = 1,
+                highlight = highlightOptions(
+                    weight = 1,
+                    color = "white",
+                    dashArray = "",
+                    fillOpacity = 0.7,
+                    bringToFront = TRUE
+                )#,
                 # label = labels(),
                 # labelOptions = labelOptions(
                 #     style = list("font-weight" = "normal", padding = "3px 8px"),
@@ -308,7 +313,10 @@ server <- function(input, output) ({
                 # )
             ) %>%
             addLegend(
-                pal = pal,
+                pal = colorNumeric(
+                    c("darkseagreen3","deepskyblue4"), 
+                    domain = c(0,100)
+                ),
                 values = ~Access, 
                 opacity = 1, 
                 title = NULL,
