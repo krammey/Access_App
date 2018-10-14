@@ -18,7 +18,7 @@ library(Cairo)
 library(dashboardthemes)
 # library(c( shiny,shinydashboard,ggplot2,maps,ggmap,magick,markdown,leaflet,geojson,geojsonio,rgdal,dplyr,Cairo,dashboardthemes ))
 
-
+######## try using data table instead of data frame
 # Load access data
 access_data <- read.csv('access_data.csv', header=TRUE, stringsAsFactors = F, na.strings="NA")
 # Load map data and remove Antarctica
@@ -263,9 +263,9 @@ server <- function(input, output) ({
         lapply(htmltools::HTML) })
 
     # Base map
-    output$YearMap <- renderLeaflet({
-      leaflet(countries) %>%
-          addTiles() #%>%
+    # output$YearMap <- renderLeaflet({
+    #   leaflet(countries) %>%
+    #       addTiles() #%>%
           # tileOptions(minZoom = 1, maxZoom = 2)
           # addPolygons(
           #     options = leafletOptions(minZoom = 0, maxZoom = 3),
@@ -283,94 +283,94 @@ server <- function(input, output) ({
           #         bringToFront = TRUE
           #     )
           # )
-    })
+    # })
     
-    observe({
-
-        leafletProxy("YearMap",data = countries2()) %>%
-            clearShapes() %>%
-            clearControls() %>%
-            addPolygons(
-                options = leafletOptions(minZoom = 1, maxZoom = 3),
-                fillColor = pal,
-                weight = 0.3,
-                opacity = 1,
-                color = "black",
-                dashArray = "",
-                fillOpacity = 0.7,
-                highlight = highlightOptions(
-                    weight = 1,
-                    color = "white",
-                    dashArray = "",
-                    fillOpacity = 0,
-                    bringToFront = TRUE
-                )#,
-                # label = labels(),
-                # labelOptions = labelOptions(
-                #     style = list("font-weight" = "normal", padding = "3px 8px"),
-                #     textsize = "15px",
-                #     direction = "auto"
-                # )
-            ) %>%
-            addLegend(
-                pal = pal,
-                values = ~Access, 
-                opacity = 0.7, 
-                title = NULL,
-                labFormat = labelFormat(suffix = "%"), 
-                position = "bottomright"
-            )
-    })    
-        
-    # output$YearMap <- renderLeaflet({
+    # observe({
     # 
-    #     # Get input year
-    #     h <- input$inputyear
-    #     
-    #     # Get mapping data
-    #     countries <- YearMapDataFxn(h)
-    #   
-    #     # Remove Antarctica
-    #     countries <- countries[!countries$ADMIN == "Antarctica",]
-    #     
-    #     # Define color palette
-    #     pal <- colorNumeric(c("darkseagreen3","deepskyblue4"), domain = countries$Access)
-    #     labels <- sprintf(
-    #       "<strong>%s</strong><br/>%g &#37;</sup>",
-    #       countries$ADMIN, countries$Access
-    #     ) %>% lapply(htmltools::HTML)
-    #     
-    #     leaflet(countries) %>%
-    #         # options = leafletOptions(minZoom = 0, maxZoom = 3) %>%
-    #         # addTiles() %>%
+    #     leafletProxy("YearMap",data = countries2()) %>%
+    #         clearShapes() %>%
+    #         clearControls() %>%
     #         addPolygons(
-    #             options = leafletOptions(minZoom = 0, maxZoom = 3),
-    #             fillColor = ~pal(Access),
+    #             options = leafletOptions(minZoom = 1, maxZoom = 3),
+    #             fillColor = pal,
     #             weight = 0.3,
     #             opacity = 1,
     #             color = "black",
     #             dashArray = "",
-    #             fillOpacity = 1,
+    #             fillOpacity = 0.7,
     #             highlight = highlightOptions(
     #                 weight = 1,
     #                 color = "white",
     #                 dashArray = "",
-    #                 fillOpacity = 0.7,
-    #                 bringToFront = TRUE),
-    #             label = labels,
-    #             labelOptions = labelOptions(
-    #                 style = list("font-weight" = "normal", padding = "3px 8px"),
-    #                 textsize = "15px",
-    #                 direction = "auto"))  %>%
+    #                 fillOpacity = 0,
+    #                 bringToFront = TRUE
+    #             )#,
+    #             # label = labels(),
+    #             # labelOptions = labelOptions(
+    #             #     style = list("font-weight" = "normal", padding = "3px 8px"),
+    #             #     textsize = "15px",
+    #             #     direction = "auto"
+    #             # )
+    #         ) %>%
     #         addLegend(
-    #             pal = pal, 
+    #             pal = pal,
     #             values = ~Access, 
-    #             opacity = 1, 
+    #             opacity = 0.7, 
     #             title = NULL,
     #             labFormat = labelFormat(suffix = "%"), 
     #             position = "bottomright"
     #         )
-    # })
+    # })    
+        
+    output$YearMap <- renderLeaflet({
+        
+        # Get input year
+        h <- input$inputyear
+
+        # Get mapping data
+        countries <- YearMapDataFxn(h)
+        
+        # Remove Antarctica
+        countries <- countries[!countries$ADMIN == "Antarctica",]
+
+        # Define color palette
+        pal <- colorNumeric(c("darkseagreen3","deepskyblue4"), domain = countries$Access)
+        labels <- sprintf(
+          "<strong>%s</strong><br/>%g &#37;</sup>",
+          countries$ADMIN, countries$Access
+        ) %>% lapply(htmltools::HTML)
+
+        leaflet(countries) %>%
+            # options = leafletOptions(minZoom = 0, maxZoom = 3) %>%
+            # addTiles() %>%
+            addPolygons(
+                # options = leafletOptions(minZoom = 0, maxZoom = 3),
+                fillColor = ~pal(Access),
+                weight = 0.3,
+                opacity = 1,
+                color = "black",
+                dashArray = "",
+                fillOpacity = 1,
+                highlight = highlightOptions(
+                    weight = 1,
+                    color = "white",
+                    dashArray = "",
+                    fillOpacity = 0.7,
+                    bringToFront = TRUE),
+                label = labels,
+                labelOptions = labelOptions(
+                    style = list("font-weight" = "normal", padding = "3px 8px"),
+                    textsize = "15px",
+                    direction = "auto"))  %>%
+            addLegend(
+                pal = pal,
+                values = ~Access,
+                opacity = 1,
+                title = NULL,
+                labFormat = labelFormat(suffix = "%"),
+                position = "bottomright"
+            )
+    })
     
     output$MapTitle <- renderText(  paste0("Map of Electricity Access in ",input$inputyear)  )
     
