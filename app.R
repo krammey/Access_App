@@ -49,8 +49,14 @@ YearMapDataFxn = function(h,MaxPerc=100){
     names(access_df) <- c("Country","Access")
     # Replace electrification rates over given percentage with NA
     access_df$Access[access_df$Access > MaxPerc] <- NA
+    
+    # New shit to suppress left_join warning, convert access_df to factor and sort levels to match countries@data
+    access_df$Country <- as.factor(access_df$Country)
+    # access_df$Access <- as.factor(access_df$Access)
+    combined <- sort(union(levels(access_df$Country), levels(countries@data$ADMIN)))
+    countries@data <- left_join(mutate(countries@data, ADMIN=factor(ADMIN, levels=combined)), mutate(access_df, Country=factor(Country, levels=combined)),by=c('ADMIN' = 'Country'))
     # Merge with map data
-    countries@data <- left_join(countries@data, access_df, by = c('ADMIN' = 'Country'))
+    # countries@data <- left_join(countries@data, access_df, by = c('ADMIN' = 'Country'))
     return(countries)
 }
 
